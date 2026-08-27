@@ -1,19 +1,19 @@
-Updated: 2026-08-27T22:00:46.406293+00:00
+Updated: 2026-08-27T22:30:41.543350+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Solana (SOL)
-  Score: 14.886
-  1h: -0.10% | 24h: 10.54%
-  Price: $108.7000
+  Bittensor (TAO)
+  Score: 15.639
+  1h: 0.30% | 24h: 9.04%
+  Price: $253.1400
 
 Top 10 by Momentum Score:
- 1. SOL     score=  14.89  1h= -0.10%  24h= 10.54%
- 2. TAO     score=  14.61  1h=  0.20%  24h=  8.29%
- 3. UNI     score=  13.11  1h=  0.50%  24h=  6.57%
- 4. SUI     score=  11.67  1h=  0.10%  24h=  3.83%
- 5. PUMP    score=  11.56  1h=  1.00%  24h=  0.98%
- 6. NEAR    score=  10.54  1h=  1.00%  24h=  3.49%
- 7. ONDO    score=  10.19  1h=  1.10%  24h=  3.46%
- 8. AAVE    score=   9.80  1h=  0.50%  24h=  2.01%
- 9. HYPE    score=   7.60  1h=  0.30%  24h=  3.34%
-10. WLFI    score=   7.53  1h=  1.00%  24h=  3.05%
+ 1. TAO     score=  15.64  1h=  0.30%  24h=  9.04%
+ 2. UNI     score=  13.66  1h=  0.40%  24h=  7.44%
+ 3. SOL     score=  13.27  1h= -0.20%  24h=  9.37%
+ 4. SUI     score=  11.28  1h=  0.20%  24h=  3.10%
+ 5. NEAR    score=   7.46  1h=  0.00%  24h=  3.86%
+ 6. ONDO    score=   7.12  1h=  0.50%  24h=  2.52%
+ 7. RLUSD   score=   6.77  1h=  0.00%  24h=  0.02%
+ 8. XMR     score=   6.72  1h=  0.10%  24h=  5.72%
+ 9. AAVE    score=   5.89  1h= -0.50%  24h=  1.68%
+10. WLFI    score=   5.25  1h=  0.40%  24h=  2.89%
