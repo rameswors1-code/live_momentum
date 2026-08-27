@@ -1,0 +1,161 @@
+#!/usr/bin/env python3
+"""
+Fully free hourly crypto momentum chart using only CoinGecko free API.
+Ranks top-50 coins by short-term momentum and generates a chart.
+"""
+
+import requests
+import matplotlib.pyplot as plt
+import pandas as pd
+from datetime import datetime, timezone
+import json
+import time
+import os
+
+# -------------------- Config --------------------
+COINGECKO_URL = "https://api.coingecko.com/api/v3/coins/markets"
+PARAMS = {
+    "vs_currency": "usd",
+    "order": "market_cap_desc",
+    "per_page": 50,
+    "page": 1,
+    "sparkline": "false",
+    "price_change_percentage": "1h,24h"
+}
+
+# Stablecoins / low-interest coins we usually want to de-prioritize
+EXCLUDE_SYMBOLS = {
+    "usdt", "usdc", "dai", "usde", "usd1", "usdg", "pyusd", "tusd", "fdusd", "usdd"
+}
+
+OUTPUT_CHART = "chart.png"
+OUTPUT_JSON = "data.json"
+OUTPUT_SUMMARY = "summary.txt"
+
+# -------------------- Helpers --------------------
+def fetch_top50():
+    """Fetch top 50 coins. Retries on rate limit."""
+    for attempt in range(4):
+        try:
+            r = requests.get(COINGECKO_URL, params=PARAMS, timeout=30)
+            if r.status_code == 429:
+                wait = 30 * (attempt + 1)
+                print(f"Rate limited. Waiting {wait}s...")
+                time.sleep(wait)
+                continue
+            r.raise_for_status()
+            return r.json()
+        except Exception as e:
+            print(f"Attempt {attempt+1} failed: {e}")
+            time.sleep(10)
+    raise RuntimeError("Failed to fetch data from CoinGecko after retries")
+
+def momentum_score(coin):
+    """
+    Simple free momentum score focused on "this hour":
+    - 1h % change (strong weight)
+    - 24h % change
+    - Relative volume (volume / market_cap)
+    """
+    chg_1h = coin.get("price_change_percentage_1h_in_currency") or 0
+    chg_24h = coin.get("price_change_percentage_24h_in_currency") or 0
+    mcap = coin.get("market_cap") or 1
+    vol = coin.get("total_volume") or 0
+    rel_vol = (vol / mcap) * 100  # percentage of market cap traded in 24h
+
+    score = (chg_1h * 3.5) + (chg_24h * 1.0) + (rel_vol * 0.4)
+    return round(score, 3)
+
+def main():
+    print("Fetching top 50 coins from CoinGecko...")
+    coins = fetch_top50()
+
+    # Filter + score
+    ranked = []
+    for c in coins:
+        symbol = c["symbol"].lower()
+        if symbol in EXCLUDE_SYMBOLS:
+            continue
+        score = momentum_score(c)
+        ranked.append({
+            "rank_mcap": c["market_cap_rank"],
+            "id": c["id"],
+            "symbol": c["symbol"].upper(),
+            "name": c["name"],
+            "price": c["current_price"],
+            "market_cap": c["market_cap"],
+            "volume_24h": c["total_volume"],
+            "chg_1h": c.get("price_change_percentage_1h_in_currency"),
+            "chg_24h": c.get("price_change_percentage_24h_in_currency"),
+            "momentum_score": score
+        })
+
+    # Sort by momentum score descending
+    ranked.sort(key=lambda x: x["momentum_score"], reverse=True)
+
+    # Take top 10 for the chart
+    top10 = ranked[:10]
+    winner = ranked[0] if ranked else None
+
+    # ---------- Save JSON ----------
+    payload = {
+        "updated_at_utc": datetime.now(timezone.utc).isoformat(),
+        "winner": winner,
+        "top10": top10,
+        "full_ranking": ranked
+    }
+    with open(OUTPUT_JSON, "w") as f:
+        json.dump(payload, f, indent=2)
+
+    # ---------- Save summary text ----------
+    with open(OUTPUT_SUMMARY, "w") as f:
+        f.write(f"Updated: {payload['updated_at_utc']}\n\n")
+        if winner:
+            f.write(f"HIGHEST MOMENTUM COIN (Top 50):\n")
+            f.write(f"  {winner['name']} ({winner['symbol']})\n")
+            f.write(f"  Score: {winner['momentum_score']}\n")
+            f.write(f"  1h: {winner['chg_1h']:.2f}% | 24h: {winner['chg_24h']:.2f}%\n")
+            f.write(f"  Price: ${winner['price']:,.4f}\n\n")
+        f.write("Top 10 by Momentum Score:\n")
+        for i, c in enumerate(top10, 1):
+            f.write(f"{i:2d}. {c['symbol']:6s}  score={c['momentum_score']:7.2f}  "
+                    f"1h={c['chg_1h'] or 0:6.2f}%  24h={c['chg_24h'] or 0:6.2f}%\n")
+
+    # ---------- Generate Chart ----------
+    if not top10:
+        print("No data to chart")
+        return
+
+    symbols = [c["symbol"] for c in top10]
+    scores = [c["momentum_score"] for c in top10]
+    colors = ["#00d4aa" if i == 0 else "#4a90e2" for i in range(len(top10))]
+
+    plt.style.use("dark_background")
+    fig, ax = plt.subplots(figsize=(12, 7))
+
+    bars = ax.barh(symbols[::-1], scores[::-1], color=colors[::-1], edgecolor="none")
+    ax.set_xlabel("Momentum Score (higher = stronger short-term momentum)", fontsize=11)
+    ax.set_title(f"Highest Social-Proxy Momentum – Top 50 by Market Cap\n"
+                 f"Updated: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}",
+                 fontsize=14, pad=15)
+
+    # Highlight winner
+    if winner:
+        ax.text(0.98, 0.02,
+                f"#1  {winner['name']} ({winner['symbol']})\n"
+                f"Score {winner['momentum_score']}  |  1h {winner['chg_1h'] or 0:.2f}%",
+                transform=ax.transAxes, ha="right", va="bottom",
+                fontsize=12, color="#00d4aa",
+                bbox=dict(boxstyle="round,pad=0.4", facecolor="#1a1a1a", edgecolor="#00d4aa"))
+
+    ax.axvline(0, color="gray", linewidth=0.8)
+    plt.tight_layout()
+    plt.savefig(OUTPUT_CHART, dpi=150, bbox_inches="tight", facecolor="#0d1117")
+    plt.close()
+
+    print(f"Winner: {winner['symbol'] if winner else 'None'}")
+    print(f"Chart saved → {OUTPUT_CHART}")
+    print(f"Data saved  → {OUTPUT_JSON}")
+
+if __name__ == "__main__":
+    main()
