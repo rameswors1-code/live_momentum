@@ -1,0 +1,38 @@
+name: Update Crypto Momentum Chart
+
+on:
+  schedule:
+    - cron: '5 * * * *'   # every hour at minute 5 (avoids peak traffic)
+  workflow_dispatch:      # manual trigger button
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write     # needed to commit the chart
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run momentum script
+        run: python momentum.py
+
+      - name: Commit and push chart
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add chart.png data.json summary.txt
+          git diff --quiet && git diff --staged --quiet || \
+            (git commit -m "chore: update momentum chart $(date -u +%Y-%m-%dT%H:%MZ)" && \
+             git push)

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crypto Momentum Chart (Top 50)</title>
+  <style>
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      text-align: center;
+    }
+    h1 { margin-bottom: 8px; }
+    .subtitle { color: #8b949e; margin-bottom: 30px; }
+    img {
+      max-width: 100%;
+      border-radius: 12px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+    }
+    .note {
+      margin-top: 30px;
+      font-size: 0.9rem;
+      color: #8b949e;
+      max-width: 700px;
+      margin-left: auto;
+      margin-right: auto;
+      line-height: 1.5;
+    }
+    a { color: #58a6ff; }
+  </style>
+</head>
+<body>
+  <h1>Highest Momentum Coin – Top 50 by Market Cap</h1>
+  <p class="subtitle">Fully free • Updated every hour via CoinGecko • Powered by GitHub Actions</p>
+
+  <img src="chart.png" alt="Momentum Chart" id="chart">
+
+  <div class="note">
+    <p>
+      Momentum score is calculated from 1-hour price change (heavily weighted),
+      24-hour change, and relative trading volume. Stablecoins are excluded.
+    </p>
+    <p>
+      Source data: <a href="https://www.coingecko.com/" target="_blank">CoinGecko</a> free API<br>
+      Chart auto-updates every hour. Last update is shown on the image.
+    </p>
+    <p>
+      <a href="data.json">Raw JSON data</a> · 
+      <a href="summary.txt">Text summary</a>
+    </p>
+  </div>
+
+  <script>
+    // Force browser to reload the image (cache bust)
+    document.getElementById('chart').src = 'chart.png?' + new Date().getTime();
+  </script>
+</body>
+</html>
