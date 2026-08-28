@@ -1,19 +1,19 @@
-Updated: 2026-08-28T05:30:44.210162+00:00
+Updated: 2026-08-28T06:00:48.445201+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Solana (SOL)
-  Score: 10.263
-  1h: 0.00% | 24h: 5.78%
-  Price: $106.8800
+  Uniswap (UNI)
+  Score: 10.437
+  1h: -0.30% | 24h: 5.98%
+  Price: $4.6400
 
 Top 10 by Momentum Score:
- 1. SOL     score=  10.26  1h=  0.00%  24h=  5.78%
- 2. UNI     score=  10.17  1h= -0.30%  24h=  5.74%
- 3. RLUSD   score=   8.18  1h=  0.00%  24h=  0.01%
- 4. SUI     score=   8.16  1h= -0.50%  24h=  1.66%
- 5. AAVE    score=   8.14  1h=  0.10%  24h=  1.34%
- 6. PUMP    score=   7.79  1h= -0.50%  24h=  2.72%
- 7. TAO     score=   7.04  1h= -0.30%  24h=  2.99%
- 8. LINK    score=   5.14  1h=  0.40%  24h=  1.60%
- 9. HYPE    score=   4.48  1h= -0.50%  24h=  2.81%
-10. AVAX    score=   3.89  1h= -0.20%  24h=  1.61%
+ 1. UNI     score=  10.44  1h= -0.30%  24h=  5.98%
+ 2. SOL     score=   9.59  1h=  0.00%  24h=  5.13%
+ 3. RLUSD   score=   8.27  1h=  0.00%  24h=  0.01%
+ 4. SUI     score=   8.18  1h= -0.50%  24h=  1.69%
+ 5. AAVE    score=   7.51  1h=  0.10%  24h=  0.71%
+ 6. PUMP    score=   7.00  1h= -0.50%  24h=  2.14%
+ 7. TAO     score=   5.51  1h= -0.30%  24h=  1.46%
+ 8. LINK    score=   4.91  1h=  0.40%  24h=  1.38%
+ 9. AVAX    score=   3.91  1h= -0.20%  24h=  1.55%
+10. GRAM    score=   3.90  1h=  0.50%  24h=  1.62%
