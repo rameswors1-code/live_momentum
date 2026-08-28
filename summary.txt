@@ -1,19 +1,19 @@
-Updated: 2026-08-28T02:30:40.204523+00:00
+Updated: 2026-08-28T03:00:49.179927+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Sui (SUI)
-  Score: 11.148
-  1h: 0.20% | 24h: 2.72%
-  Price: $0.7732
+  Ripple USD (RLUSD)
+  Score: 7.534
+  1h: 0.00% | 24h: 0.02%
+  Price: $1.0000
 
 Top 10 by Momentum Score:
- 1. SUI     score=  11.15  1h=  0.20%  24h=  2.72%
- 2. UNI     score=   9.13  1h= -0.10%  24h=  4.17%
- 3. XMR     score=   8.89  1h=  0.90%  24h=  5.07%
- 4. RLUSD   score=   7.35  1h=  0.00%  24h=  0.02%
- 5. AAVE    score=   7.00  1h= -0.10%  24h=  1.14%
- 6. SOL     score=   5.84  1h= -1.40%  24h=  6.24%
- 7. LEO     score=   5.36  1h=  0.90%  24h=  2.21%
- 8. WLFI    score=   4.96  1h=  0.00%  24h=  3.80%
- 9. HYPE    score=   4.67  1h= -0.50%  24h=  3.17%
-10. PUMP    score=   4.32  1h= -0.50%  24h= -0.95%
+ 1. RLUSD   score=   7.53  1h=  0.00%  24h=  0.02%
+ 2. XMR     score=   6.31  1h=  0.00%  24h=  5.64%
+ 3. SOL     score=   5.24  1h= -1.30%  24h=  5.33%
+ 4. HYPE    score=   4.11  1h= -0.60%  24h=  2.91%
+ 5. UNI     score=   3.35  1h= -2.00%  24h=  5.07%
+ 6. LEO     score=   3.13  1h=  0.30%  24h=  2.08%
+ 7. XAUT    score=   2.79  1h=  0.10%  24h= -0.89%
+ 8. SUI     score=   2.04  1h= -2.30%  24h=  2.15%
+ 9. PAXG    score=   1.99  1h=  0.20%  24h= -0.95%
+10. USDS    score=   1.89  1h=  0.00%  24h=  0.01%
