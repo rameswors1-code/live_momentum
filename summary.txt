@@ -1,19 +1,19 @@
-Updated: 2026-08-28T08:00:45.811738+00:00
+Updated: 2026-08-28T08:30:42.132616+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Uniswap (UNI)
-  Score: 13.298
-  1h: 0.80% | 24h: 4.84%
-  Price: $4.6000
+  Ripple USD (RLUSD)
+  Score: 8.404
+  1h: 0.00% | 24h: -0.00%
+  Price: $1.0000
 
 Top 10 by Momentum Score:
- 1. UNI     score=  13.30  1h=  0.80%  24h=  4.84%
- 2. WLFI    score=  11.44  1h=  1.60%  24h=  4.60%
- 3. PUMP    score=  10.96  1h=  1.20%  24h=  0.42%
- 4. SUI     score=  10.71  1h=  0.70%  24h=  0.35%
- 5. SOL     score=  10.36  1h=  0.40%  24h=  4.56%
- 6. FIGR_HELOC  score=  10.28  1h=  1.80%  24h=  3.35%
- 7. HYPE    score=   9.12  1h=  0.80%  24h=  2.84%
- 8. RLUSD   score=   8.34  1h=  0.00%  24h=  0.03%
- 9. AAVE    score=   7.75  1h=  0.70%  24h= -0.90%
-10. XMR     score=   7.03  1h=  0.70%  24h=  3.96%
+ 1. RLUSD   score=   8.40  1h=  0.00%  24h= -0.00%
+ 2. HYPE    score=   8.27  1h=  0.60%  24h=  2.75%
+ 3. XMR     score=   6.09  1h=  0.20%  24h=  4.76%
+ 4. UNI     score=   4.50  1h= -1.70%  24h=  4.87%
+ 5. WLFI    score=   4.18  1h=  0.10%  24h=  2.57%
+ 6. FIGR_HELOC  score=   3.98  1h=  0.00%  24h=  3.36%
+ 7. SUI     score=   3.79  1h= -1.00%  24h= -0.46%
+ 8. XAUT    score=   3.63  1h=  0.10%  24h=  0.13%
+ 9. PAXG    score=   2.81  1h=  0.10%  24h=  0.15%
+10. SOL     score=   2.81  1h= -1.10%  24h=  2.47%
