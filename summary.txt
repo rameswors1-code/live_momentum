@@ -1,19 +1,19 @@
-Updated: 2026-08-28T14:00:53.945334+00:00
+Updated: 2026-08-28T14:30:42.824964+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Hyperliquid (HYPE)
-  Score: 10.372
-  1h: 1.50% | 24h: 1.76%
-  Price: $84.2300
+  Ripple USD (RLUSD)
+  Score: 8.252
+  1h: 0.00% | 24h: -0.00%
+  Price: $1.0000
 
 Top 10 by Momentum Score:
- 1. HYPE    score=  10.37  1h=  1.50%  24h=  1.76%
- 2. RLUSD   score=   8.15  1h=  0.00%  24h=  0.00%
- 3. UNI     score=   7.56  1h=  0.20%  24h=  1.70%
- 4. RAIN    score=   6.80  1h=  1.50%  24h=  1.40%
- 5. SUI     score=   6.03  1h=  0.30%  24h= -1.64%
- 6. XAUT    score=   5.14  1h=  0.40%  24h=  1.03%
- 7. PAXG    score=   5.03  1h=  0.50%  24h=  1.08%
- 8. ZEC     score=   4.82  1h=  0.20%  24h=  0.82%
- 9. SOL     score=   4.75  1h=  0.40%  24h= -0.52%
-10. ETH     score=   4.57  1h=  0.60%  24h=  0.77%
+ 1. RLUSD   score=   8.25  1h=  0.00%  24h= -0.00%
+ 2. HYPE    score=   7.99  1h=  1.50%  24h= -0.54%
+ 3. UNI     score=   6.26  1h=  0.20%  24h=  0.24%
+ 4. RAIN    score=   5.75  1h=  1.50%  24h=  0.39%
+ 5. SUI     score=   5.28  1h=  0.30%  24h= -2.69%
+ 6. FIGR_HELOC  score=   3.99  1h=  0.00%  24h=  3.36%
+ 7. XAUT    score=   3.93  1h=  0.40%  24h= -0.85%
+ 8. PAXG    score=   3.46  1h=  0.50%  24h= -0.85%
+ 9. SOL     score=   3.43  1h=  0.40%  24h= -1.87%
+10. ZEC     score=   3.04  1h=  0.20%  24h= -1.00%
