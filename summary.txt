@@ -1,19 +1,19 @@
-Updated: 2026-08-29T08:00:47.496093+00:00
+Updated: 2026-08-29T08:30:39.000809+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Ripple USD (RLUSD)
-  Score: 7.707
-  1h: 0.00% | 24h: -0.01%
+  Score: 7.689
+  1h: 0.00% | 24h: 0.01%
   Price: $1.0000
 
 Top 10 by Momentum Score:
- 1. RLUSD   score=   7.71  1h=  0.00%  24h= -0.01%
- 2. LTC     score=   3.49  1h=  0.20%  24h=  0.19%
- 3. LEO     score=   3.15  1h=  0.30%  24h=  2.09%
- 4. XMR     score=   2.95  1h=  0.40%  24h=  1.11%
- 5. ASTER   score=   2.72  1h=  0.00%  24h=  0.47%
- 6. PUMP    score=   2.48  1h= -0.20%  24h= -1.42%
- 7. AAVE    score=   2.47  1h=  0.10%  24h= -3.13%
- 8. RAIN    score=   1.76  1h=  0.00%  24h=  1.64%
- 9. USDS    score=   1.73  1h=  0.00%  24h=  0.01%
-10. XAUT    score=   1.41  1h= -0.10%  24h= -3.17%
+ 1. RLUSD   score=   7.69  1h=  0.00%  24h=  0.01%
+ 2. PUMP    score=   4.15  1h=  0.20%  24h= -1.19%
+ 3. ASTER   score=   3.88  1h=  0.20%  24h=  0.97%
+ 4. XMR     score=   3.23  1h=  0.80%  24h= -0.00%
+ 5. ZEC     score=   3.08  1h= -0.10%  24h=  0.14%
+ 6. LTC     score=   2.56  1h= -0.10%  24h=  0.25%
+ 7. USDS    score=   1.72  1h=  0.00%  24h=  0.02%
+ 8. XAUT    score=   1.69  1h=  0.00%  24h= -3.12%
+ 9. AAVE    score=   1.68  1h=  0.00%  24h= -3.60%
+10. LEO     score=   1.46  1h= -0.30%  24h=  2.51%
