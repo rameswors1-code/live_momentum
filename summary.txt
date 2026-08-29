@@ -1,19 +1,19 @@
-Updated: 2026-08-29T03:00:48.426825+00:00
+Updated: 2026-08-29T03:30:42.585596+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Zcash (ZEC)
-  Score: 8.223
-  1h: 0.50% | 24h: 3.14%
-  Price: $809.6000
+  Ripple USD (RLUSD)
+  Score: 7.545
+  1h: 0.00% | 24h: -0.01%
+  Price: $1.0000
 
 Top 10 by Momentum Score:
- 1. ZEC     score=   8.22  1h=  0.50%  24h=  3.14%
- 2. RLUSD   score=   7.50  1h=  0.00%  24h=  0.00%
- 3. ASTER   score=   2.91  1h=  0.40%  24h= -0.67%
- 4. XAUT    score=   2.41  1h=  0.00%  24h= -2.57%
- 5. FIGR_HELOC  score=   2.39  1h=  0.00%  24h=  2.09%
- 6. LEO     score=   2.25  1h=  0.10%  24h=  1.90%
- 7. USDS    score=   1.77  1h=  0.00%  24h=  0.01%
- 8. PUMP    score=   1.73  1h= -0.40%  24h= -1.74%
- 9. RAIN    score=   1.64  1h= -0.20%  24h=  2.22%
-10. TRX     score=   1.41  1h=  0.00%  24h=  0.77%
+ 1. RLUSD   score=   7.54  1h=  0.00%  24h= -0.01%
+ 2. ZEC     score=   7.20  1h=  0.50%  24h=  2.14%
+ 3. ASTER   score=   2.88  1h=  0.40%  24h= -0.74%
+ 4. LEO     score=   2.69  1h=  0.10%  24h=  2.34%
+ 5. XAUT    score=   2.42  1h=  0.00%  24h= -2.64%
+ 6. FIGR_HELOC  score=   2.39  1h=  0.00%  24h=  2.09%
+ 7. HYPE    score=   2.25  1h=  0.40%  24h= -1.82%
+ 8. USDS    score=   1.76  1h=  0.00%  24h=  0.01%
+ 9. RAIN    score=   1.75  1h= -0.20%  24h=  2.33%
+10. PUMP    score=   1.71  1h= -0.40%  24h= -1.62%
