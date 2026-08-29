@@ -1,19 +1,19 @@
-Updated: 2026-08-29T02:30:40.607943+00:00
+Updated: 2026-08-29T03:00:48.426825+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  LEO Token (LEO)
-  Score: 9.315
-  1h: 2.10% | 24h: 1.96%
-  Price: $9.6900
+  Zcash (ZEC)
+  Score: 8.223
+  1h: 0.50% | 24h: 3.14%
+  Price: $809.6000
 
 Top 10 by Momentum Score:
- 1. LEO     score=   9.31  1h=  2.10%  24h=  1.96%
- 2. RLUSD   score=   7.58  1h=  0.00%  24h= -0.01%
- 3. ZEC     score=   7.19  1h=  0.60%  24h=  1.71%
- 4. XAUT    score=   2.46  1h=  0.00%  24h= -2.52%
- 5. FIGR_HELOC  score=   2.39  1h=  0.00%  24h=  2.08%
- 6. RAIN    score=   2.31  1h=  0.00%  24h=  2.21%
- 7. XMR     score=   2.29  1h=  0.00%  24h=  1.82%
- 8. USDY    score=   2.15  1h=  0.60%  24h=  0.01%
- 9. TRX     score=   1.78  1h=  0.10%  24h=  0.78%
-10. USDS    score=   1.77  1h=  0.00%  24h=  0.01%
+ 1. ZEC     score=   8.22  1h=  0.50%  24h=  3.14%
+ 2. RLUSD   score=   7.50  1h=  0.00%  24h=  0.00%
+ 3. ASTER   score=   2.91  1h=  0.40%  24h= -0.67%
+ 4. XAUT    score=   2.41  1h=  0.00%  24h= -2.57%
+ 5. FIGR_HELOC  score=   2.39  1h=  0.00%  24h=  2.09%
+ 6. LEO     score=   2.25  1h=  0.10%  24h=  1.90%
+ 7. USDS    score=   1.77  1h=  0.00%  24h=  0.01%
+ 8. PUMP    score=   1.73  1h= -0.40%  24h= -1.74%
+ 9. RAIN    score=   1.64  1h= -0.20%  24h=  2.22%
+10. TRX     score=   1.41  1h=  0.00%  24h=  0.77%
