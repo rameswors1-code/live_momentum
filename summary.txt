@@ -1,19 +1,19 @@
-Updated: 2026-08-30T01:00:48.782519+00:00
+Updated: 2026-08-30T01:12:40.926167+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Pump.fun (PUMP)
-  Score: 16.59
-  1h: 1.60% | 24h: 7.39%
-  Price: $0.0050
+  OKB (OKB)
+  Score: 11.812
+  1h: 2.00% | 24h: 4.48%
+  Price: $115.0100
 
 Top 10 by Momentum Score:
- 1. PUMP    score=  16.59  1h=  1.60%  24h=  7.39%
- 2. AAVE    score=  10.86  1h=  1.10%  24h=  3.04%
- 3. UNI     score=   8.38  1h= -0.10%  24h=  5.12%
- 4. ZEC     score=   8.23  1h=  0.10%  24h=  4.72%
- 5. CC      score=   5.86  1h= -0.10%  24h=  6.12%
- 6. HYPE    score=   5.43  1h= -0.10%  24h=  3.74%
- 7. OKB     score=   4.67  1h=  0.00%  24h=  4.38%
- 8. RLUSD   score=   4.64  1h=  0.00%  24h=  0.05%
- 9. NEAR    score=   4.55  1h=  0.00%  24h=  2.35%
-10. SUI     score=   3.69  1h=  0.10%  24h=  0.24%
+ 1. OKB     score=  11.81  1h=  2.00%  24h=  4.48%
+ 2. PUMP    score=   9.59  1h= -0.50%  24h=  7.77%
+ 3. CC      score=   7.17  1h=  0.10%  24h=  6.73%
+ 4. UNI     score=   6.82  1h= -0.60%  24h=  5.30%
+ 5. ZEC     score=   6.01  1h= -0.50%  24h=  4.60%
+ 6. HYPE    score=   4.89  1h= -0.20%  24h=  3.57%
+ 7. RLUSD   score=   4.62  1h=  0.00%  24h=  0.04%
+ 8. M       score=   3.91  1h=  0.30%  24h=  2.84%
+ 9. AAVE    score=   3.65  1h= -1.00%  24h=  3.18%
+10. XMR     score=   2.91  1h=  0.60%  24h=  0.51%
