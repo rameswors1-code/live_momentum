@@ -1,19 +1,19 @@
-Updated: 2026-08-31T16:00:54.053747+00:00
+Updated: 2026-08-31T16:30:48.218707+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Morpho (MORPHO)
-  Score: 8.683
-  1h: 0.30% | 24h: 6.79%
-  Price: $2.6600
+  Monero (XMR)
+  Score: 10.383
+  1h: 1.20% | 24h: 5.23%
+  Price: $520.9500
 
 Top 10 by Momentum Score:
- 1. MORPHO  score=   8.68  1h=  0.30%  24h=  6.79%
+ 1. XMR     score=  10.38  1h=  1.20%  24h=  5.23%
  2. FIGR_HELOC  score=   7.37  1h=  2.10%  24h=  0.00%
- 3. XMR     score=   7.34  1h=  1.20%  24h=  2.17%
- 4. MNT     score=   6.34  1h= -0.40%  24h=  6.69%
- 5. UNI     score=   4.48  1h= -1.00%  24h=  0.01%
- 6. XAUT    score=   3.75  1h= -0.20%  24h= -0.87%
- 7. HYPE    score=   3.53  1h=  0.70%  24h= -1.16%
- 8. ASTER   score=   3.41  1h=  0.30%  24h=  0.23%
- 9. ZEC     score=   2.84  1h=  0.90%  24h= -2.94%
-10. RLUSD   score=   2.14  1h=  0.00%  24h= -0.01%
+ 3. MORPHO  score=   6.82  1h=  0.30%  24h=  4.91%
+ 4. MNT     score=   5.60  1h= -0.40%  24h=  5.93%
+ 5. XAUT    score=   3.82  1h= -0.20%  24h= -0.66%
+ 6. HYPE    score=   2.86  1h=  0.70%  24h= -1.80%
+ 7. ZEC     score=   2.44  1h=  0.90%  24h= -3.27%
+ 8. ASTER   score=   2.36  1h=  0.30%  24h= -0.72%
+ 9. RLUSD   score=   2.25  1h=  0.00%  24h= -0.00%
+10. PAXG    score=   1.94  1h= -0.20%  24h= -0.79%
