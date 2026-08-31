@@ -1,19 +1,19 @@
-Updated: 2026-08-31T21:30:47.311806+00:00
+Updated: 2026-08-31T22:00:55.191289+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Morpho (MORPHO)
-  Score: 11.522
-  1h: 1.00% | 24h: 7.06%
-  Price: $2.6600
+  Uniswap (UNI)
+  Score: 9.955
+  1h: 1.00% | 24h: -0.17%
+  Price: $5.2600
 
 Top 10 by Momentum Score:
- 1. MORPHO  score=  11.52  1h=  1.00%  24h=  7.06%
- 2. HYPE    score=   8.87  1h=  1.00%  24h=  2.85%
- 3. XMR     score=   6.45  1h=  0.00%  24h=  5.53%
- 4. GRAM    score=   5.84  1h=  0.80%  24h=  2.23%
- 5. SUI     score=   5.26  1h=  0.10%  24h= -2.28%
- 6. UNI     score=   5.17  1h= -0.10%  24h= -1.05%
- 7. CC      score=   5.12  1h=  0.20%  24h=  4.30%
- 8. NEAR    score=   5.05  1h=  0.30%  24h=  0.26%
- 9. XAUT    score=   4.67  1h=  0.00%  24h= -0.27%
-10. AAVE    score=   3.60  1h=  0.00%  24h= -1.32%
+ 1. UNI     score=   9.96  1h=  1.00%  24h= -0.17%
+ 2. GRAM    score=   8.00  1h=  1.10%  24h=  3.33%
+ 3. XMR     score=   7.68  1h=  0.50%  24h=  5.01%
+ 4. HYPE    score=   7.17  1h=  0.30%  24h=  3.56%
+ 5. NEAR    score=   6.97  1h=  1.10%  24h= -0.61%
+ 6. SUI     score=   6.41  1h=  0.30%  24h= -1.85%
+ 7. AAVE    score=   5.04  1h=  0.30%  24h= -1.05%
+ 8. XAUT    score=   4.88  1h=  0.00%  24h=  0.01%
+ 9. CRO     score=   3.82  1h=  1.70%  24h= -2.24%
+10. PAXG    score=   3.35  1h=  0.00%  24h= -0.09%
