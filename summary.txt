@@ -1,19 +1,19 @@
-Updated: 2026-08-31T17:30:45.385924+00:00
+Updated: 2026-08-31T18:01:02.290911+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Gram (prev. Toncoin) (GRAM)
-  Score: 17.743
-  1h: 4.40% | 24h: 1.66%
-  Price: $1.4000
+  Morpho (MORPHO)
+  Score: 11.967
+  1h: 1.00% | 24h: 7.57%
+  Price: $2.7100
 
 Top 10 by Momentum Score:
- 1. GRAM    score=  17.74  1h=  4.40%  24h=  1.66%
- 2. MORPHO  score=  12.16  1h=  0.90%  24h=  8.14%
- 3. HYPE    score=  11.31  1h=  2.10%  24h=  1.59%
- 4. XAUT    score=   5.02  1h=  0.20%  24h= -0.75%
- 5. SUI     score=   4.68  1h=  0.40%  24h= -4.20%
- 6. MNT     score=   4.25  1h=  0.10%  24h=  2.88%
- 7. XMR     score=   4.05  1h= -0.40%  24h=  4.51%
- 8. ASTER   score=   3.51  1h=  0.50%  24h= -0.17%
- 9. PAXG    score=   3.23  1h=  0.20%  24h= -0.91%
-10. CC      score=   2.69  1h=  0.60%  24h=  0.49%
+ 1. MORPHO  score=  11.97  1h=  1.00%  24h=  7.57%
+ 2. UNI     score=   8.15  1h=  1.50%  24h= -4.33%
+ 3. XMR     score=   5.99  1h=  0.10%  24h=  4.69%
+ 4. SUI     score=   5.94  1h=  0.70%  24h= -3.92%
+ 5. NEAR    score=   4.84  1h=  0.70%  24h= -1.60%
+ 6. XAUT    score=   4.79  1h=  0.10%  24h= -0.63%
+ 7. ZEC     score=   4.18  1h=  1.30%  24h= -2.79%
+ 8. HYPE    score=   3.94  1h=  0.20%  24h=  0.85%
+ 9. AAVE    score=   3.35  1h=  0.60%  24h= -3.97%
+10. PAXG    score=   3.04  1h=  0.10%  24h= -0.76%
