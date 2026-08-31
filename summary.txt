@@ -1,19 +1,19 @@
-Updated: 2026-08-31T12:30:48.509037+00:00
+Updated: 2026-08-31T13:00:56.928061+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Monero (XMR)
-  Score: 12.832
-  1h: -0.20% | 24h: 12.49%
-  Price: $539.3300
+  Mantle (MNT)
+  Score: 10.989
+  1h: 0.60% | 24h: 7.86%
+  Price: $0.5728
 
 Top 10 by Momentum Score:
- 1. XMR     score=  12.83  1h= -0.20%  24h= 12.49%
- 2. MNT     score=   8.13  1h= -0.20%  24h=  7.81%
- 3. RAIN    score=   6.31  1h=  2.50%  24h= -2.53%
- 4. XAUT    score=   4.95  1h=  0.00%  24h= -0.36%
- 5. UNI     score=   4.77  1h= -0.80%  24h= -1.41%
- 6. PAXG    score=   2.85  1h=  0.00%  24h= -0.32%
- 7. SUI     score=   2.41  1h= -0.60%  24h= -2.74%
- 8. ZEC     score=   2.14  1h=  0.10%  24h= -1.16%
- 9. RLUSD   score=   1.97  1h=  0.00%  24h= -0.02%
-10. M       score=   0.87  1h=  0.40%  24h= -0.55%
+ 1. MNT     score=  10.99  1h=  0.60%  24h=  7.86%
+ 2. MORPHO  score=   7.59  1h=  0.60%  24h=  4.66%
+ 3. XAUT    score=   3.32  1h= -0.40%  24h= -0.68%
+ 4. AAVE    score=   3.20  1h=  0.10%  24h= -2.52%
+ 5. UNI     score=   2.91  1h= -0.80%  24h= -3.19%
+ 6. RLUSD   score=   1.98  1h=  0.00%  24h= -0.02%
+ 7. ETH     score=   1.97  1h=  0.20%  24h= -0.71%
+ 8. LEO     score=   1.48  1h=  0.10%  24h=  1.13%
+ 9. RAIN    score=   1.21  1h=  1.10%  24h= -2.74%
+10. USDY    score=   1.20  1h=  0.30%  24h=  0.10%
