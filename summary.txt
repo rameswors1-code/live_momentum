@@ -1,19 +1,19 @@
-Updated: 2026-08-31T02:30:45.928549+00:00
+Updated: 2026-08-31T03:00:52.005515+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Uniswap (UNI)
-  Score: 15.568
-  1h: -1.10% | 24h: 8.53%
-  Price: $5.1100
+  Mantle (MNT)
+  Score: 16.273
+  1h: 2.10% | 24h: 8.01%
+  Price: $0.5574
 
 Top 10 by Momentum Score:
- 1. UNI     score=  15.57  1h= -1.10%  24h=  8.53%
- 2. XMR     score=   9.42  1h=  0.90%  24h=  5.46%
- 3. MNT     score=   7.98  1h= -0.20%  24h=  7.83%
- 4. RAIN    score=   2.76  1h=  1.60%  24h= -2.95%
- 5. XAUT    score=   1.83  1h= -0.40%  24h= -0.96%
- 6. RLUSD   score=   1.41  1h=  0.00%  24h= -0.06%
- 7. USDS    score=   0.21  1h=  0.00%  24h= -0.02%
- 8. M       score=   0.09  1h= -0.20%  24h=  0.76%
- 9. FIGR_HELOC  score=   0.01  1h=  0.00%  24h=  0.00%
-10. BUIDL   score=   0.00  1h=  0.00%  24h=  0.00%
+ 1. MNT     score=  16.27  1h=  2.10%  24h=  8.01%
+ 2. UNI     score=   8.69  1h= -1.50%  24h=  3.08%
+ 3. XMR     score=   7.36  1h=  0.50%  24h=  4.78%
+ 4. CC      score=   3.48  1h=  1.70%  24h= -2.57%
+ 5. SUI     score=   3.12  1h=  0.30%  24h= -4.11%
+ 6. ASTER   score=   2.37  1h=  0.30%  24h= -0.84%
+ 7. USDY    score=   2.05  1h=  0.50%  24h=  0.30%
+ 8. WLFI    score=   1.79  1h=  0.50%  24h= -0.66%
+ 9. XAUT    score=   1.77  1h= -0.50%  24h= -1.03%
+10. RLUSD   score=   1.28  1h=  0.00%  24h= -0.04%
