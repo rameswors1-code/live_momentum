@@ -1,19 +1,19 @@
-Updated: 2026-08-31T22:30:42.838493+00:00
+Updated: 2026-08-31T23:00:52.599421+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Monero (XMR)
-  Score: 9.185
-  1h: 0.50% | 24h: 6.52%
-  Price: $523.2000
+  NEAR Protocol (NEAR)
+  Score: 7.947
+  1h: 0.60% | 24h: 2.13%
+  Price: $1.9100
 
 Top 10 by Momentum Score:
- 1. XMR     score=   9.19  1h=  0.50%  24h=  6.52%
- 2. UNI     score=   8.97  1h=  1.00%  24h= -1.12%
- 3. GRAM    score=   8.25  1h=  1.10%  24h=  3.58%
- 4. NEAR    score=   8.17  1h=  1.10%  24h=  0.64%
- 5. HYPE    score=   8.02  1h=  0.30%  24h=  4.40%
- 6. SUI     score=   6.72  1h=  0.30%  24h= -1.43%
- 7. AAVE    score=   5.35  1h=  0.30%  24h= -0.69%
- 8. XAUT    score=   4.24  1h=  0.00%  24h= -0.13%
- 9. CRO     score=   3.74  1h=  1.70%  24h= -2.32%
-10. ADA     score=   3.02  1h=  0.30%  24h= -0.08%
+ 1. NEAR    score=   7.95  1h=  0.60%  24h=  2.13%
+ 2. HYPE    score=   5.74  1h= -0.40%  24h=  4.54%
+ 3. GRAM    score=   5.56  1h=  0.20%  24h=  4.03%
+ 4. UNI     score=   4.55  1h= -0.50%  24h= -0.27%
+ 5. SUI     score=   4.42  1h= -0.40%  24h= -1.24%
+ 6. XMR     score=   4.32  1h= -1.10%  24h=  7.27%
+ 7. XAUT    score=   3.74  1h= -0.10%  24h= -0.24%
+ 8. AAVE    score=   3.54  1h= -0.30%  24h= -0.37%
+ 9. PUMP    score=   3.38  1h=  0.50%  24h= -3.49%
+10. RLUSD   score=   3.03  1h=  0.00%  24h=  0.01%
