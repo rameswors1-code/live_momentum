@@ -1,19 +1,19 @@
-Updated: 2026-08-31T05:00:51.110399+00:00
+Updated: 2026-08-31T05:30:41.992870+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Monero (XMR)
-  Score: 14.213
-  1h: 1.50% | 24h: 8.11%
-  Price: $506.2200
+  Uniswap (UNI)
+  Score: 14.862
+  1h: -0.20% | 24h: 4.83%
+  Price: $5.1400
 
 Top 10 by Momentum Score:
- 1. XMR     score=  14.21  1h=  1.50%  24h=  8.11%
- 2. UNI     score=  13.41  1h= -0.20%  24h=  3.42%
- 3. MNT     score=  11.22  1h= -0.10%  24h= 10.62%
- 4. XAUT    score=   4.13  1h=  0.10%  24h= -0.95%
- 5. AAVE    score=   2.24  1h= -0.10%  24h= -2.86%
- 6. PAXG    score=   1.74  1h=  0.10%  24h= -0.89%
- 7. RLUSD   score=   1.35  1h=  0.00%  24h= -0.02%
- 8. SUI     score=   1.29  1h= -0.50%  24h= -3.36%
- 9. NEAR    score=   1.29  1h=  0.10%  24h= -2.70%
-10. ZEC     score=   1.25  1h= -0.20%  24h= -1.31%
+ 1. UNI     score=  14.86  1h= -0.20%  24h=  4.83%
+ 2. XMR     score=  14.37  1h=  1.50%  24h=  8.27%
+ 3. MNT     score=  10.63  1h= -0.10%  24h= 10.02%
+ 4. XAUT    score=   4.50  1h=  0.10%  24h= -0.65%
+ 5. AAVE    score=   3.49  1h= -0.10%  24h= -1.73%
+ 6. ZEC     score=   2.58  1h= -0.20%  24h=  0.04%
+ 7. SUI     score=   2.57  1h= -0.50%  24h= -2.35%
+ 8. PAXG    score=   2.09  1h=  0.10%  24h= -0.60%
+ 9. NEAR    score=   2.01  1h=  0.10%  24h= -2.01%
+10. BCH     score=   1.52  1h= -0.10%  24h=  0.85%
