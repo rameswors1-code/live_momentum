@@ -1,19 +1,19 @@
-Updated: 2026-08-31T03:00:52.005515+00:00
+Updated: 2026-08-31T03:30:46.840909+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Mantle (MNT)
-  Score: 16.273
-  1h: 2.10% | 24h: 8.01%
-  Price: $0.5574
+  Score: 18.787
+  1h: 2.10% | 24h: 10.50%
+  Price: $0.5705
 
 Top 10 by Momentum Score:
- 1. MNT     score=  16.27  1h=  2.10%  24h=  8.01%
- 2. UNI     score=   8.69  1h= -1.50%  24h=  3.08%
- 3. XMR     score=   7.36  1h=  0.50%  24h=  4.78%
- 4. CC      score=   3.48  1h=  1.70%  24h= -2.57%
- 5. SUI     score=   3.12  1h=  0.30%  24h= -4.11%
- 6. ASTER   score=   2.37  1h=  0.30%  24h= -0.84%
- 7. USDY    score=   2.05  1h=  0.50%  24h=  0.30%
- 8. WLFI    score=   1.79  1h=  0.50%  24h= -0.66%
- 9. XAUT    score=   1.77  1h= -0.50%  24h= -1.03%
-10. RLUSD   score=   1.28  1h=  0.00%  24h= -0.04%
+ 1. MNT     score=  18.79  1h=  2.10%  24h= 10.50%
+ 2. XMR     score=   9.70  1h=  0.50%  24h=  7.11%
+ 3. UNI     score=   8.94  1h= -1.50%  24h=  3.43%
+ 4. CC      score=   4.16  1h=  1.70%  24h= -1.89%
+ 5. SUI     score=   3.47  1h=  0.30%  24h= -3.67%
+ 6. ASTER   score=   2.89  1h=  0.30%  24h= -0.39%
+ 7. WLFI    score=   2.25  1h=  0.50%  24h= -0.15%
+ 8. XAUT    score=   2.00  1h= -0.50%  24h= -0.91%
+ 9. USDY    score=   1.96  1h=  0.50%  24h=  0.20%
+10. LTC     score=   1.50  1h=  0.20%  24h= -1.25%
