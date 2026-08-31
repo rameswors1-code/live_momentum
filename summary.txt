@@ -1,19 +1,19 @@
-Updated: 2026-08-31T14:00:54.361957+00:00
+Updated: 2026-08-31T15:00:55.953441+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Mantle (MNT)
-  Score: 10.54
-  1h: 0.60% | 24h: 7.40%
-  Price: $0.5704
+  Uniswap (UNI)
+  Score: 18.263
+  1h: 2.80% | 24h: 0.38%
+  Price: $5.2100
 
 Top 10 by Momentum Score:
- 1. MNT     score=  10.54  1h=  0.60%  24h=  7.40%
- 2. XAUT    score=   2.98  1h= -0.40%  24h= -1.00%
- 3. AAVE    score=   2.84  1h=  0.10%  24h= -2.81%
- 4. UNI     score=   2.41  1h= -0.80%  24h= -3.10%
- 5. RLUSD   score=   1.90  1h=  0.00%  24h= -0.02%
- 6. LEO     score=   1.51  1h=  0.10%  24h=  1.16%
- 7. RAIN    score=   1.29  1h=  1.10%  24h= -2.66%
- 8. ETH     score=   1.24  1h=  0.20%  24h= -1.46%
- 9. USDY    score=   0.89  1h=  0.30%  24h= -0.18%
-10. PAXG    score=   0.83  1h= -0.40%  24h= -1.01%
+ 1. UNI     score=  18.26  1h=  2.80%  24h=  0.38%
+ 2. MORPHO  score=  17.39  1h=  2.90%  24h=  6.36%
+ 3. NEAR    score=  13.29  1h=  2.50%  24h=  0.61%
+ 4. AAVE    score=  10.87  1h=  1.90%  24h= -1.08%
+ 5. SUI     score=   8.83  1h=  1.30%  24h= -3.12%
+ 6. MNT     score=   8.35  1h=  0.10%  24h=  6.93%
+ 7. ZEC     score=   7.47  1h=  1.90%  24h= -1.99%
+ 8. XAUT    score=   5.57  1h=  0.30%  24h= -0.68%
+ 9. ETH     score=   5.54  1h=  1.10%  24h= -0.38%
+10. HYPE    score=   4.04  1h=  1.20%  24h= -2.30%
