@@ -1,19 +1,19 @@
-Updated: 2026-09-01T06:30:45.308436+00:00
+Updated: 2026-09-01T07:00:55.435164+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Uniswap (UNI)
-  Score: 33.022
-  1h: 4.20% | 24h: 12.09%
-  Price: $5.7300
+  Score: 28.274
+  1h: 2.80% | 24h: 11.72%
+  Price: $5.7400
 
 Top 10 by Momentum Score:
- 1. UNI     score=  33.02  1h=  4.20%  24h= 12.09%
- 2. NEAR    score=  13.95  1h=  1.20%  24h=  5.98%
- 3. AAVE    score=  11.05  1h=  1.10%  24h=  2.65%
- 4. PUMP    score=  10.72  1h=  0.70%  24h=  4.29%
- 5. ZEC     score=  10.05  1h=  1.40%  24h=  3.59%
- 6. SUI     score=   9.40  1h=  0.90%  24h=  1.29%
- 7. SHIB    score=   9.15  1h=  1.60%  24h=  2.77%
- 8. HYPE    score=   8.64  1h=  0.60%  24h=  3.86%
- 9. ADA     score=   8.11  1h=  1.00%  24h=  2.92%
-10. BCH     score=   7.09  1h=  1.40%  24h=  1.34%
+ 1. UNI     score=  28.27  1h=  2.80%  24h= 11.72%
+ 2. GRAM    score=   6.16  1h=  0.60%  24h=  3.22%
+ 3. NEAR    score=   5.02  1h= -1.40%  24h=  6.19%
+ 4. HYPE    score=   5.02  1h= -0.40%  24h=  3.94%
+ 5. XMR     score=   5.01  1h=  1.00%  24h=  0.72%
+ 6. AAVE    score=   5.01  1h= -0.60%  24h=  2.52%
+ 7. SUI     score=   4.25  1h= -0.60%  24h=  1.31%
+ 8. ZEC     score=   3.94  1h= -0.50%  24h=  4.19%
+ 9. PUMP    score=   3.72  1h= -1.10%  24h=  3.69%
+10. LINK    score=   3.14  1h= -0.20%  24h=  1.91%
