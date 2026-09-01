@@ -1,19 +1,19 @@
-Updated: 2026-09-01T02:30:44.643436+00:00
+Updated: 2026-09-01T03:00:56.925851+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Canton (CC)
-  Score: 10.178
-  1h: 1.50% | 24h: 4.81%
-  Price: $0.1229
+  NEAR Protocol (NEAR)
+  Score: 13.409
+  1h: 0.70% | 24h: 7.53%
+  Price: $1.9600
 
 Top 10 by Momentum Score:
- 1. CC      score=  10.18  1h=  1.50%  24h=  4.81%
- 2. SUI     score=   8.01  1h=  0.10%  24h=  2.37%
- 3. UNI     score=   7.95  1h=  0.00%  24h=  2.18%
- 4. NEAR    score=   7.18  1h= -0.30%  24h=  4.78%
- 5. HYPE    score=   6.49  1h=  0.00%  24h=  3.94%
- 6. GRAM    score=   6.27  1h=  0.40%  24h=  4.07%
- 7. ADA     score=   4.80  1h=  0.00%  24h=  3.17%
- 8. AAVE    score=   3.69  1h= -0.50%  24h=  0.90%
- 9. XAUT    score=   3.49  1h= -0.20%  24h=  0.47%
-10. SOL     score=   3.48  1h=  0.10%  24h=  1.07%
+ 1. NEAR    score=  13.41  1h=  0.70%  24h=  7.53%
+ 2. ADA     score=   7.94  1h=  0.60%  24h=  4.18%
+ 3. SUI     score=   7.36  1h= -0.20%  24h=  2.76%
+ 4. HYPE    score=   7.25  1h= -0.10%  24h=  5.02%
+ 5. PUMP    score=   7.12  1h= -0.70%  24h=  5.26%
+ 6. UNI     score=   6.83  1h= -0.70%  24h=  3.64%
+ 7. AAVE    score=   5.88  1h= -0.20%  24h=  2.11%
+ 8. ZEC     score=   5.87  1h= -0.20%  24h=  4.97%
+ 9. CC      score=   4.76  1h=  0.10%  24h=  4.29%
+10. SOL     score=   4.26  1h=  0.10%  24h=  1.86%
