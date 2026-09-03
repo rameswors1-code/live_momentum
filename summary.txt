@@ -1,19 +1,19 @@
-Updated: 2026-09-03T08:01:00.338396+00:00
+Updated: 2026-09-03T08:30:48.202870+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Sui (SUI)
-  Score: 14.646
-  1h: 0.40% | 24h: 6.02%
-  Price: $0.7678
+  Score: 15.468
+  1h: 0.40% | 24h: 6.70%
+  Price: $0.7721
 
 Top 10 by Momentum Score:
- 1. SUI     score=  14.65  1h=  0.40%  24h=  6.02%
- 2. ADA     score=   7.04  1h=  0.20%  24h=  4.23%
- 3. XAUT    score=   6.73  1h=  0.20%  24h=  2.25%
- 4. PAXG    score=   6.17  1h=  0.20%  24h=  2.31%
- 5. LTC     score=   5.51  1h=  0.10%  24h=  2.53%
- 6. BCH     score=   4.97  1h=  0.80%  24h=  1.24%
- 7. TAO     score=   3.95  1h=  0.20%  24h=  1.36%
- 8. NEAR    score=   3.64  1h= -0.40%  24h=  1.62%
- 9. HBAR    score=   3.60  1h=  0.10%  24h=  2.66%
-10. XRP     score=   3.44  1h=  0.20%  24h=  1.55%
+ 1. SUI     score=  15.47  1h=  0.40%  24h=  6.70%
+ 2. ADA     score=   9.10  1h=  0.20%  24h=  6.19%
+ 3. XAUT    score=   6.90  1h=  0.20%  24h=  2.41%
+ 4. LTC     score=   6.31  1h=  0.10%  24h=  3.36%
+ 5. PAXG    score=   6.30  1h=  0.20%  24h=  2.46%
+ 6. BCH     score=   5.79  1h=  0.80%  24h=  2.04%
+ 7. AAVE    score=   4.82  1h=  0.20%  24h= -1.29%
+ 8. HBAR    score=   4.68  1h=  0.10%  24h=  3.73%
+ 9. TAO     score=   4.45  1h=  0.20%  24h=  1.82%
+10. XRP     score=   4.31  1h=  0.20%  24h=  2.43%
