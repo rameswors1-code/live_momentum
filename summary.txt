@@ -1,19 +1,19 @@
-Updated: 2026-09-03T14:25:45.217541+00:00
+Updated: 2026-09-03T14:30:49.093024+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Cardano (ADA)
-  Score: 12.75
-  1h: 0.50% | 24h: 8.68%
-  Price: $0.2131
+  Score: 12.992
+  1h: 0.50% | 24h: 8.96%
+  Price: $0.2136
 
 Top 10 by Momentum Score:
- 1. ADA     score=  12.75  1h=  0.50%  24h=  8.68%
- 2. SUI     score=  12.25  1h= -0.60%  24h=  6.93%
- 3. ZEC     score=  11.03  1h=  0.90%  24h=  6.61%
- 4. UNI     score=  10.02  1h= -1.00%  24h=  4.43%
- 5. XRP     score=   8.03  1h=  0.60%  24h=  4.73%
- 6. AAVE    score=   6.08  1h= -0.60%  24h=  3.12%
- 7. LINK    score=   5.62  1h=  0.20%  24h=  3.33%
- 8. HYPE    score=   5.58  1h=  0.20%  24h=  2.30%
- 9. NEAR    score=   5.57  1h= -0.30%  24h=  3.21%
-10. HBAR    score=   5.55  1h= -0.20%  24h=  5.57%
+ 1. ADA     score=  12.99  1h=  0.50%  24h=  8.96%
+ 2. SUI     score=  12.49  1h= -0.60%  24h=  7.18%
+ 3. ZEC     score=  10.26  1h=  0.90%  24h=  5.84%
+ 4. UNI     score=  10.02  1h= -1.00%  24h=  4.54%
+ 5. XRP     score=   8.14  1h=  0.60%  24h=  4.84%
+ 6. AAVE    score=   6.12  1h= -0.60%  24h=  3.17%
+ 7. LINK    score=   5.78  1h=  0.20%  24h=  3.49%
+ 8. HYPE    score=   5.71  1h=  0.20%  24h=  2.42%
+ 9. HBAR    score=   5.59  1h= -0.20%  24h=  5.61%
+10. NEAR    score=   5.51  1h= -0.30%  24h=  3.14%
