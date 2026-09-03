@@ -1,19 +1,19 @@
-Updated: 2026-09-03T15:30:51.530701+00:00
+Updated: 2026-09-03T16:00:59.208385+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Dogecoin (DOGE)
-  Score: 25.317
-  1h: 4.40% | 24h: 7.66%
-  Price: $0.0874
+  Zcash (ZEC)
+  Score: 55.117
+  1h: 10.20% | 24h: 17.69%
+  Price: $954.8800
 
 Top 10 by Momentum Score:
- 1. DOGE    score=  25.32  1h=  4.40%  24h=  7.66%
- 2. SUI     score=  24.46  1h=  2.20%  24h=  8.72%
- 3. ADA     score=  24.43  1h=  3.00%  24h= 11.37%
- 4. XRP     score=  23.37  1h=  3.80%  24h=  8.66%
- 5. ONDO    score=  22.67  1h=  3.60%  24h=  8.19%
- 6. SHIB    score=  19.41  1h=  3.90%  24h=  4.90%
- 7. AAVE    score=  18.51  1h=  2.20%  24h=  5.54%
- 8. ZEC     score=  18.44  1h=  1.30%  24h= 12.41%
- 9. SOL     score=  17.61  1h=  2.80%  24h=  5.47%
-10. LINK    score=  17.32  1h=  2.80%  24h=  5.73%
+ 1. ZEC     score=  55.12  1h= 10.20%  24h= 17.69%
+ 2. ADA     score=  20.56  1h=  1.60%  24h= 12.33%
+ 3. DOGE    score=  20.52  1h=  2.50%  24h=  9.45%
+ 4. SUI     score=  20.02  1h=  0.70%  24h=  9.46%
+ 5. NEAR    score=  19.34  1h=  2.30%  24h=  7.50%
+ 6. UNI     score=  19.28  1h=  1.10%  24h=  6.12%
+ 7. XRP     score=  15.44  1h=  1.20%  24h=  9.77%
+ 8. ONDO    score=  14.68  1h=  1.00%  24h=  9.11%
+ 9. CRO     score=  14.18  1h=  2.30%  24h=  6.03%
+10. XLM     score=  14.12  1h=  1.70%  24h=  7.34%
