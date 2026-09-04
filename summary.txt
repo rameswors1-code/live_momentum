@@ -1,19 +1,19 @@
-Updated: 2026-09-04T18:18:57.182518+00:00
+Updated: 2026-09-04T18:30:45.121628+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Uniswap (UNI)
-  Score: 5.848
-  1h: -1.20% | 24h: 0.69%
-  Price: $6.2000
+  NEAR Protocol (NEAR)
+  Score: 5.277
+  1h: 0.20% | 24h: -0.64%
+  Price: $1.9900
 
 Top 10 by Momentum Score:
- 1. UNI     score=   5.85  1h= -1.20%  24h=  0.69%
- 2. NEAR    score=   5.04  1h=  0.20%  24h= -0.75%
- 3. HYPE    score=   3.38  1h= -0.20%  24h=  0.88%
- 4. RLUSD   score=   2.76  1h=  0.00%  24h=  0.01%
- 5. MORPHO  score=   2.61  1h=  0.00%  24h=  1.65%
- 6. GRAM    score=   2.24  1h=  0.60%  24h= -0.29%
- 7. XAUT    score=   1.59  1h= -0.40%  24h= -1.28%
- 8. PAXG    score=   1.31  1h= -0.40%  24h= -1.42%
- 9. M       score=   1.18  1h= -0.50%  24h=  2.90%
-10. TRX     score=   0.88  1h=  0.10%  24h= -0.00%
+ 1. NEAR    score=   5.28  1h=  0.20%  24h= -0.64%
+ 2. UNI     score=   4.96  1h= -1.20%  24h= -0.17%
+ 3. HYPE    score=   3.67  1h= -0.20%  24h=  1.43%
+ 4. RLUSD   score=   2.75  1h=  0.00%  24h=  0.01%
+ 5. MORPHO  score=   2.60  1h=  0.00%  24h=  1.61%
+ 6. GRAM    score=   2.45  1h=  0.60%  24h= -0.07%
+ 7. XAUT    score=   1.76  1h= -0.40%  24h= -1.12%
+ 8. M       score=   1.59  1h= -0.50%  24h=  3.32%
+ 9. PAXG    score=   1.43  1h= -0.40%  24h= -1.25%
+10. TRX     score=   1.07  1h=  0.10%  24h=  0.19%
