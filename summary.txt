@@ -1,19 +1,19 @@
-Updated: 2026-09-04T03:30:44.441581+00:00
+Updated: 2026-09-04T04:00:54.803593+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Uniswap (UNI)
-  Score: 26.804
-  1h: 1.60% | 24h: 10.67%
-  Price: $6.3400
+  Zcash (ZEC)
+  Score: 20.791
+  1h: 0.80% | 24h: 15.43%
+  Price: $946.4000
 
 Top 10 by Momentum Score:
- 1. UNI     score=  26.80  1h=  1.60%  24h= 10.67%
- 2. ADA     score=  16.91  1h=  1.10%  24h=  9.67%
- 3. ZEC     score=  16.41  1h= -0.40%  24h= 15.29%
- 4. AAVE    score=  12.07  1h=  0.20%  24h=  5.30%
- 5. TAO     score=   9.54  1h=  0.70%  24h=  4.45%
- 6. SUI     score=   9.31  1h=  0.10%  24h=  1.11%
- 7. LINK    score=   8.74  1h=  0.00%  24h=  6.50%
- 8. DOGE    score=   8.23  1h=  0.00%  24h=  5.22%
- 9. CRO     score=   8.13  1h=  0.40%  24h=  6.60%
-10. HYPE    score=   7.91  1h= -0.40%  24h=  5.84%
+ 1. ZEC     score=  20.79  1h=  0.80%  24h= 15.43%
+ 2. UNI     score=  18.56  1h= -0.90%  24h= 11.16%
+ 3. ADA     score=  11.73  1h= -0.30%  24h=  9.50%
+ 4. HYPE    score=  10.92  1h=  0.40%  24h=  6.04%
+ 5. AAVE    score=  10.34  1h= -0.20%  24h=  5.01%
+ 6. CRO     score=   8.86  1h=  0.50%  24h=  6.98%
+ 7. DOGE    score=   8.75  1h=  0.10%  24h=  5.39%
+ 8. LINK    score=   8.49  1h=  0.00%  24h=  6.26%
+ 9. XRP     score=   8.02  1h=  0.10%  24h=  5.87%
+10. TAO     score=   7.55  1h=  0.10%  24h=  4.53%
