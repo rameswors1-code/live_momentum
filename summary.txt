@@ -1,19 +1,19 @@
-Updated: 2026-09-04T15:00:58.302932+00:00
+Updated: 2026-09-04T15:30:48.924493+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Uniswap (UNI)
-  Score: 18.293
-  1h: 2.30% | 24h: 0.64%
-  Price: $6.1900
+  Zcash (ZEC)
+  Score: 6.5
+  1h: -1.20% | 24h: 7.55%
+  Price: $982.3600
 
 Top 10 by Momentum Score:
- 1. UNI     score=  18.29  1h=  2.30%  24h=  0.64%
- 2. ZEC     score=  15.66  1h=  0.10%  24h= 11.96%
- 3. NEAR    score=   9.51  1h=  1.50%  24h= -1.14%
- 4. M       score=   7.57  1h=  1.30%  24h=  2.98%
- 5. ASTER   score=   5.24  1h=  0.50%  24h= -0.28%
- 6. CRO     score=   4.55  1h=  1.30%  24h= -0.13%
- 7. XAUT    score=   4.36  1h=  0.30%  24h= -1.23%
- 8. PAXG    score=   4.01  1h=  0.30%  24h= -1.30%
- 9. AAVE    score=   3.91  1h=  0.00%  24h= -2.94%
-10. RLUSD   score=   3.16  1h=  0.00%  24h= -0.01%
+ 1. ZEC     score=   6.50  1h= -1.20%  24h=  7.55%
+ 2. UNI     score=   6.12  1h= -1.20%  24h=  0.81%
+ 3. M       score=   5.41  1h=  0.60%  24h=  3.28%
+ 4. ASTER   score=   3.42  1h= -0.20%  24h=  0.33%
+ 5. XAUT    score=   3.26  1h=  0.10%  24h= -1.41%
+ 6. RLUSD   score=   3.10  1h=  0.00%  24h= -0.01%
+ 7. PAXG    score=   3.01  1h=  0.10%  24h= -1.49%
+ 8. FIGR_HELOC  score=   2.69  1h=  0.00%  24h=  2.08%
+ 9. USDY    score=   1.68  1h=  0.40%  24h=  0.27%
+10. USDS    score=   0.70  1h=  0.00%  24h= -0.01%
