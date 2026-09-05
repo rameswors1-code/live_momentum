@@ -1,19 +1,19 @@
-Updated: 2026-09-05T08:59:01.151998+00:00
+Updated: 2026-09-05T09:00:57.575727+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   NEAR Protocol (NEAR)
-  Score: 12.708
-  1h: -2.30% | 24h: 12.49%
+  Score: 20.054
+  1h: -0.20% | 24h: 12.50%
   Price: $2.2200
 
 Top 10 by Momentum Score:
- 1. NEAR    score=  12.71  1h= -2.30%  24h= 12.49%
- 2. SUI     score=  12.40  1h=  1.30%  24h=  1.27%
- 3. BNB     score=  10.53  1h=  1.60%  24h=  4.41%
- 4. ASTER   score=   7.64  1h=  0.40%  24h=  2.21%
- 5. LTC     score=   7.48  1h=  0.10%  24h=  3.45%
- 6. GRAM    score=   5.66  1h=  0.40%  24h=  3.68%
- 7. M       score=   4.94  1h= -1.10%  24h=  8.76%
- 8. TAO     score=   4.31  1h= -0.50%  24h=  2.86%
- 9. OKB     score=   4.04  1h=  0.50%  24h=  1.88%
-10. AVAX    score=   3.30  1h=  0.30%  24h= -0.47%
+ 1. NEAR    score=  20.05  1h= -0.20%  24h= 12.50%
+ 2. ASTER   score=  13.35  1h=  2.30%  24h=  1.27%
+ 3. TAO     score=  10.39  1h=  1.20%  24h=  2.99%
+ 4. BNB     score=  10.06  1h=  1.50%  24h=  4.28%
+ 5. M       score=   9.68  1h=  0.20%  24h=  8.96%
+ 6. SUI     score=   5.87  1h= -0.60%  24h=  1.41%
+ 7. GRAM    score=   4.97  1h=  0.20%  24h=  3.69%
+ 8. SHIB    score=   4.86  1h=  0.70%  24h=  1.43%
+ 9. UNI     score=   4.06  1h=  0.00%  24h= -2.37%
+10. MNT     score=   3.73  1h=  0.40%  24h=  1.80%
