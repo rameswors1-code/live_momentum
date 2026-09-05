@@ -1,19 +1,19 @@
-Updated: 2026-09-05T12:37:11.909238+00:00
+Updated: 2026-09-05T13:00:57.395315+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Aster (ASTER)
-  Score: 28.816
-  1h: 3.20% | 24h: 13.36%
-  Price: $0.8303
+  Score: 35.72
+  1h: 4.80% | 24h: 14.34%
+  Price: $0.8298
 
 Top 10 by Momentum Score:
- 1. ASTER   score=  28.82  1h=  3.20%  24h= 13.36%
- 2. NEAR    score=  24.81  1h=  0.80%  24h= 14.47%
- 3. TAO     score=  11.58  1h=  0.50%  24h=  6.65%
- 4. SUI     score=  11.04  1h= -0.10%  24h=  5.52%
- 5. LTC     score=   9.45  1h=  0.00%  24h=  5.71%
- 6. ONDO    score=   7.68  1h=  0.40%  24h=  3.75%
- 7. UNI     score=   6.25  1h= -0.10%  24h=  0.98%
- 8. BNB     score=   5.94  1h= -0.10%  24h=  5.69%
- 9. ZEC     score=   5.82  1h=  0.20%  24h=  2.64%
-10. SHIB    score=   4.93  1h=  0.00%  24h=  4.08%
+ 1. ASTER   score=  35.72  1h=  4.80%  24h= 14.34%
+ 2. SUI     score=  19.79  1h=  2.10%  24h=  6.54%
+ 3. NEAR    score=  15.09  1h= -2.10%  24h= 14.80%
+ 4. BNB     score=  14.62  1h=  2.10%  24h=  6.65%
+ 5. LTC     score=  13.98  1h=  1.20%  24h=  6.11%
+ 6. OKB     score=  11.98  1h=  1.80%  24h=  5.30%
+ 7. ONDO    score=  10.81  1h=  1.00%  24h=  4.88%
+ 8. DOGE    score=   9.83  1h=  1.50%  24h=  2.71%
+ 9. XMR     score=   9.60  1h=  1.60%  24h=  3.46%
+10. GRAM    score=   8.17  1h=  0.70%  24h=  5.22%
