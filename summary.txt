@@ -1,19 +1,19 @@
-Updated: 2026-09-05T18:30:46.427123+00:00
+Updated: 2026-09-05T19:00:57.796066+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Dogecoin (DOGE)
-  Score: 35.949
-  1h: 6.80% | 24h: 9.46%
-  Price: $0.0923
+  Uniswap (UNI)
+  Score: 34.47
+  1h: 4.30% | 24h: 13.32%
+  Price: $7.0300
 
 Top 10 by Momentum Score:
- 1. DOGE    score=  35.95  1h=  6.80%  24h=  9.46%
- 2. NEAR    score=  27.24  1h=  2.10%  24h= 12.48%
- 3. UNI     score=  19.87  1h=  0.50%  24h= 12.53%
- 4. LTC     score=  15.72  1h=  0.70%  24h=  9.18%
- 5. SUI     score=  15.71  1h=  0.40%  24h=  7.37%
- 6. SHIB    score=  11.54  1h=  1.30%  24h=  6.11%
- 7. ADA     score=  10.71  1h=  1.30%  24h=  4.23%
- 8. AAVE    score=   9.34  1h=  0.80%  24h=  2.88%
- 9. ASTER   score=   9.28  1h= -1.60%  24h=  8.22%
-10. BNB     score=   9.10  1h=  0.00%  24h=  8.30%
+ 1. UNI     score=  34.47  1h=  4.30%  24h= 13.32%
+ 2. ASTER   score=  20.53  1h=  1.70%  24h=  7.88%
+ 3. SUI     score=  13.63  1h=  0.00%  24h=  6.54%
+ 4. NEAR    score=  13.17  1h= -1.20%  24h= 10.08%
+ 5. AAVE    score=  10.75  1h=  1.10%  24h=  3.16%
+ 6. LTC     score=  10.53  1h= -0.50%  24h=  8.09%
+ 7. BNB     score=   9.67  1h=  0.20%  24h=  8.16%
+ 8. ONDO    score=   5.36  1h= -0.20%  24h=  3.82%
+ 9. AVAX    score=   5.30  1h= -0.10%  24h=  3.28%
+10. TAO     score=   5.21  1h= -0.70%  24h=  4.62%
