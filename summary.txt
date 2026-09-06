@@ -1,19 +1,19 @@
-Updated: 2026-09-06T15:30:49.114363+00:00
+Updated: 2026-09-06T16:01:00.058133+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Figure Heloc (FIGR_HELOC)
-  Score: 19.335
-  1h: 5.00% | 24h: 1.83%
-  Price: $1.0550
+  Uniswap (UNI)
+  Score: 20.336
+  1h: 0.00% | 24h: 9.89%
+  Price: $6.9800
 
 Top 10 by Momentum Score:
- 1. FIGR_HELOC  score=  19.34  1h=  5.00%  24h=  1.83%
- 2. UNI     score=  19.19  1h= -0.40%  24h= 10.17%
- 3. ZEC     score=  11.41  1h= -1.60%  24h= 14.13%
- 4. NEAR    score=   8.58  1h= -2.00%  24h=  8.30%
- 5. HYPE    score=   5.82  1h= -0.40%  24h=  4.61%
- 6. AAVE    score=   3.69  1h= -1.00%  24h=  2.05%
- 7. TAO     score=   3.34  1h= -0.70%  24h=  2.44%
- 8. SUI     score=   3.18  1h= -0.80%  24h= -1.26%
- 9. CRO     score=   3.11  1h=  0.30%  24h=  1.98%
-10. LTC     score=   2.57  1h= -0.40%  24h=  0.72%
+ 1. UNI     score=  20.34  1h=  0.00%  24h=  9.89%
+ 2. ZEC     score=  20.15  1h=  0.60%  24h= 15.13%
+ 3. FIGR_HELOC  score=  19.36  1h=  5.00%  24h=  1.86%
+ 4. TAO     score=  14.42  1h=  1.70%  24h=  5.01%
+ 5. NEAR    score=  13.68  1h= -1.00%  24h=  9.73%
+ 6. SUI     score=   6.43  1h= -0.10%  24h= -0.47%
+ 7. DOGE    score=   6.11  1h=  0.20%  24h=  1.43%
+ 8. LINK    score=   5.78  1h=  0.40%  24h=  2.28%
+ 9. LTC     score=   5.74  1h=  0.30%  24h=  1.47%
+10. SOL     score=   5.40  1h=  0.00%  24h=  2.80%
