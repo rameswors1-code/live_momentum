@@ -1,19 +1,19 @@
-Updated: 2026-09-07T20:01:00.985364+00:00
+Updated: 2026-09-07T20:30:06.939702+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   WhiteBIT Coin (WBT)
-  Score: 22.66
-  1h: 5.10% | 24h: 4.42%
-  Price: $76.7900
+  Score: 22.287
+  1h: 5.10% | 24h: 4.05%
+  Price: $76.6000
 
 Top 10 by Momentum Score:
- 1. WBT     score=  22.66  1h=  5.10%  24h=  4.42%
- 2. SUI     score=  14.92  1h=  0.40%  24h=  4.24%
- 3. XLM     score=  11.96  1h=  1.50%  24h=  5.23%
- 4. AVAX    score=  10.63  1h=  0.00%  24h=  5.81%
- 5. LINK    score=   9.08  1h=  0.50%  24h=  3.56%
- 6. ONDO    score=   7.96  1h=  0.60%  24h=  2.47%
- 7. LTC     score=   7.50  1h=  0.20%  24h=  2.12%
- 8. XAUT    score=   7.34  1h= -0.10%  24h= -0.27%
- 9. MNT     score=   6.28  1h=  0.30%  24h=  4.35%
-10. UNI     score=   6.17  1h=  0.90%  24h= -2.57%
+ 1. WBT     score=  22.29  1h=  5.10%  24h=  4.05%
+ 2. SUI     score=  14.11  1h=  0.40%  24h=  3.35%
+ 3. XLM     score=  11.35  1h=  1.50%  24h=  4.61%
+ 4. AVAX    score=   9.56  1h=  0.00%  24h=  4.70%
+ 5. LINK    score=   8.52  1h=  0.50%  24h=  3.00%
+ 6. XAUT    score=   7.57  1h= -0.10%  24h= -0.27%
+ 7. ONDO    score=   7.31  1h=  0.60%  24h=  1.85%
+ 8. LTC     score=   7.09  1h=  0.20%  24h=  1.72%
+ 9. UNI     score=   6.33  1h=  0.90%  24h= -2.47%
+10. MNT     score=   6.05  1h=  0.30%  24h=  4.10%
