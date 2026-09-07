@@ -1,19 +1,19 @@
-Updated: 2026-09-07T05:00:56.302486+00:00
+Updated: 2026-09-07T05:30:54.371552+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Bittensor (TAO)
-  Score: 25.937
-  1h: 1.10% | 24h: 14.97%
-  Price: $273.2500
+  Score: 25.618
+  1h: 1.10% | 24h: 14.58%
+  Price: $273.6700
 
 Top 10 by Momentum Score:
- 1. TAO     score=  25.94  1h=  1.10%  24h= 14.97%
- 2. NEAR    score=  21.35  1h=  1.10%  24h=  9.44%
- 3. MNT     score=  18.05  1h=  2.00%  24h= 10.38%
- 4. LINK    score=  11.68  1h=  0.30%  24h=  7.65%
- 5. XLM     score=  11.66  1h=  2.30%  24h=  2.66%
- 6. SUI     score=   8.62  1h=  0.50%  24h=  0.16%
- 7. ZEC     score=   8.41  1h=  0.10%  24h=  4.52%
- 8. AVAX    score=   7.02  1h=  0.50%  24h=  2.19%
- 9. ONDO    score=   6.20  1h=  0.30%  24h=  2.58%
-10. LTC     score=   5.08  1h=  0.50%  24h=  0.28%
+ 1. TAO     score=  25.62  1h=  1.10%  24h= 14.58%
+ 2. MNT     score=  20.41  1h=  2.00%  24h= 12.69%
+ 3. NEAR    score=  20.13  1h=  1.10%  24h=  8.90%
+ 4. LINK    score=  12.78  1h=  0.30%  24h=  8.72%
+ 5. XLM     score=  12.45  1h=  2.30%  24h=  3.40%
+ 6. SUI     score=   9.79  1h=  0.50%  24h=  1.22%
+ 7. MORPHO  score=   8.58  1h=  1.70%  24h=  1.66%
+ 8. ZEC     score=   8.46  1h=  0.10%  24h=  4.62%
+ 9. AVAX    score=   7.62  1h=  0.50%  24h=  2.86%
+10. ONDO    score=   7.22  1h=  0.30%  24h=  3.57%
