@@ -1,19 +1,19 @@
-Updated: 2026-09-06T23:46:52.126132+00:00
+Updated: 2026-09-07T00:00:56.775286+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Zcash (ZEC)
-  Score: 19.128
-  1h: -1.20% | 24h: 19.65%
-  Price: $1,227.1100
+  Bittensor (TAO)
+  Score: 24.337
+  1h: 1.80% | 24h: 12.49%
+  Price: $265.6200
 
 Top 10 by Momentum Score:
- 1. ZEC     score=  19.13  1h= -1.20%  24h= 19.65%
- 2. LINK    score=  16.12  1h=  1.00%  24h=  9.73%
- 3. NEAR    score=  14.64  1h= -1.30%  24h= 11.31%
- 4. TAO     score=  10.25  1h= -2.30%  24h= 12.27%
- 5. UNI     score=   9.59  1h= -0.20%  24h=  2.05%
- 6. ONDO    score=   7.25  1h=  0.10%  24h=  4.57%
- 7. AVAX    score=   7.11  1h=  0.20%  24h=  3.55%
- 8. ASTER   score=   6.59  1h=  0.20%  24h=  1.53%
- 9. SOL     score=   5.34  1h= -0.10%  24h=  3.23%
-10. AAVE    score=   4.85  1h= -0.40%  24h=  1.52%
+ 1. TAO     score=  24.34  1h=  1.80%  24h= 12.49%
+ 2. ZEC     score=  22.74  1h= -0.20%  24h= 19.74%
+ 3. LINK    score=  17.95  1h=  1.50%  24h=  9.84%
+ 4. NEAR    score=  17.92  1h= -0.10%  24h= 11.15%
+ 5. UNI     score=  15.49  1h=  1.10%  24h=  3.56%
+ 6. AAVE    score=  12.81  1h=  1.80%  24h=  1.72%
+ 7. AVAX    score=  10.92  1h=  1.10%  24h=  4.12%
+ 8. SUI     score=  10.89  1h=  0.70%  24h=  2.05%
+ 9. ONDO    score=  10.43  1h=  1.00%  24h=  4.59%
+10. HYPE    score=   8.51  1h=  0.70%  24h=  3.02%
