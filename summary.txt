@@ -1,19 +1,19 @@
-Updated: 2026-09-07T14:30:46.585107+00:00
+Updated: 2026-09-07T15:00:58.386272+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Bittensor (TAO)
-  Score: 13.328
-  1h: -0.50% | 24h: 8.74%
-  Price: $262.8900
+  Polkadot (DOT)
+  Score: 21.295
+  1h: 1.10% | 24h: 11.82%
+  Price: $1.0690
 
 Top 10 by Momentum Score:
- 1. TAO     score=  13.33  1h= -0.50%  24h=  8.74%
- 2. ASTER   score=  12.76  1h=  1.00%  24h=  4.98%
- 3. AVAX    score=  11.37  1h=  0.40%  24h=  5.97%
- 4. SUI     score=   8.63  1h= -1.10%  24h=  3.98%
- 5. UNI     score=   7.29  1h= -0.30%  24h=  2.39%
- 6. MNT     score=   7.27  1h=  0.30%  24h=  5.46%
- 7. LINK    score=   7.10  1h= -0.90%  24h=  6.64%
- 8. NEAR    score=   6.56  1h=  0.50%  24h= -1.17%
- 9. XAUT    score=   4.45  1h=  0.10%  24h= -0.39%
-10. HBAR    score=   2.89  1h=  0.00%  24h=  2.11%
+ 1. DOT     score=  21.30  1h=  1.10%  24h= 11.82%
+ 2. TAO     score=  14.84  1h= -0.20%  24h=  8.70%
+ 3. SUI     score=  11.14  1h= -0.60%  24h=  4.58%
+ 4. AVAX    score=  10.28  1h=  0.00%  24h=  6.24%
+ 5. LINK    score=   8.62  1h= -0.70%  24h=  7.45%
+ 6. ONDO    score=   7.72  1h=  0.20%  24h=  4.04%
+ 7. BCH     score=   6.94  1h=  0.90%  24h=  2.84%
+ 8. LTC     score=   6.71  1h= -0.80%  24h=  5.23%
+ 9. XAUT    score=   5.78  1h=  0.30%  24h= -0.21%
+10. XLM     score=   5.23  1h= -0.20%  24h=  4.60%
