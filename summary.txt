@@ -1,19 +1,19 @@
-Updated: 2026-09-07T17:00:55.964905+00:00
+Updated: 2026-09-07T17:30:52.847828+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Polkadot (DOT)
-  Score: 28.118
-  1h: 2.20% | 24h: 13.60%
-  Price: $1.0990
+  Score: 28.802
+  1h: 2.20% | 24h: 14.12%
+  Price: $1.0940
 
 Top 10 by Momentum Score:
- 1. DOT     score=  28.12  1h=  2.20%  24h= 13.60%
- 2. TAO     score=  18.28  1h=  2.10%  24h=  4.07%
- 3. ONDO    score=  16.43  1h=  2.90%  24h=  2.96%
- 4. SUI     score=  15.39  1h=  1.30%  24h=  1.96%
- 5. HBAR    score=  13.05  1h=  2.70%  24h=  2.72%
- 6. BCH     score=  12.99  1h=  2.30%  24h=  3.66%
- 7. XLM     score=  11.76  1h=  1.80%  24h=  4.02%
- 8. LINK    score=   9.79  1h=  0.40%  24h=  4.70%
- 9. AVAX    score=   9.58  1h= -0.10%  24h=  5.52%
-10. ADA     score=   8.54  1h=  1.50%  24h=  1.01%
+ 1. DOT     score=  28.80  1h=  2.20%  24h= 14.12%
+ 2. TAO     score=  17.55  1h=  2.10%  24h=  3.59%
+ 3. ONDO    score=  17.13  1h=  2.90%  24h=  3.64%
+ 4. SUI     score=  16.87  1h=  1.30%  24h=  3.24%
+ 5. HBAR    score=  13.15  1h=  2.70%  24h=  2.78%
+ 6. XLM     score=  12.20  1h=  1.80%  24h=  4.46%
+ 7. BCH     score=  11.80  1h=  2.30%  24h=  2.44%
+ 8. LINK    score=  10.47  1h=  0.40%  24h=  5.42%
+ 9. AVAX    score=  10.01  1h= -0.10%  24h=  5.90%
+10. ADA     score=   9.27  1h=  1.50%  24h=  1.73%
