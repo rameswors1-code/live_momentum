@@ -1,19 +1,19 @@
-Updated: 2026-09-08T16:30:54.228013+00:00
+Updated: 2026-09-08T17:01:10.763491+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Polkadot (DOT)
-  Score: 39.563
-  1h: 6.70% | 24h: 8.50%
-  Price: $1.1800
+  WhiteBIT Coin (WBT)
+  Score: 19.423
+  1h: 1.90% | 24h: 12.24%
+  Price: $81.7600
 
 Top 10 by Momentum Score:
- 1. DOT     score=  39.56  1h=  6.70%  24h=  8.50%
- 2. ADA     score=  18.65  1h=  3.60%  24h=  3.65%
- 3. NEAR    score=  16.22  1h=  2.30%  24h=  3.58%
- 4. WBT     score=  14.17  1h=  0.40%  24h= 12.25%
- 5. SUI     score=  13.41  1h=  1.20%  24h=  1.49%
- 6. TAO     score=  12.30  1h=  1.90%  24h=  2.38%
- 7. M       score=   9.16  1h=  0.70%  24h=  6.67%
- 8. LINK    score=   9.16  1h=  0.90%  24h= -1.44%
- 9. ONDO    score=   8.07  1h=  1.70%  24h= -0.44%
-10. ZEC     score=   7.69  1h=  0.60%  24h=  3.64%
+ 1. WBT     score=  19.42  1h=  1.90%  24h= 12.24%
+ 2. TAO     score=  14.11  1h=  2.30%  24h=  2.69%
+ 3. DOT     score=  13.60  1h= -0.60%  24h=  8.22%
+ 4. SUI     score=  10.66  1h=  0.30%  24h=  1.74%
+ 5. LINK    score=   8.88  1h=  0.60%  24h= -1.27%
+ 6. FIGR_HELOC  score=   8.78  1h=  2.50%  24h=  0.00%
+ 7. M       score=   8.77  1h=  0.50%  24h=  6.99%
+ 8. ZEC     score=   8.38  1h=  1.00%  24h=  2.89%
+ 9. MNT     score=   7.55  1h=  1.50%  24h=  1.66%
+10. XAUT    score=   5.46  1h=  0.00%  24h= -0.42%
