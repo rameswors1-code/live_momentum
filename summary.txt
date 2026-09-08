@@ -1,19 +1,19 @@
-Updated: 2026-09-08T22:30:50.298410+00:00
+Updated: 2026-09-08T23:01:00.323379+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Polkadot (DOT)
-  Score: 24.942
-  1h: -0.50% | 24h: 18.75%
+  Score: 29.457
+  1h: 0.60% | 24h: 19.46%
   Price: $1.2500
 
 Top 10 by Momentum Score:
- 1. DOT     score=  24.94  1h= -0.50%  24h= 18.75%
- 2. LINK    score=  10.98  1h= -0.60%  24h= -1.56%
- 3. ZEC     score=   7.16  1h=  0.80%  24h=  2.37%
- 4. WBT     score=   6.41  1h= -0.10%  24h=  6.25%
- 5. SUI     score=   6.25  1h= -0.30%  24h= -0.43%
- 6. M       score=   5.54  1h= -0.20%  24h=  6.20%
- 7. XRP     score=   3.53  1h=  0.10%  24h=  2.07%
- 8. BNB     score=   2.85  1h=  0.10%  24h=  2.02%
- 9. RLUSD   score=   2.75  1h=  0.00%  24h=  0.01%
-10. HYPE    score=   2.65  1h=  0.20%  24h= -0.26%
+ 1. DOT     score=  29.46  1h=  0.60%  24h= 19.46%
+ 2. LINK    score=  16.10  1h=  0.60%  24h= -1.26%
+ 3. UNI     score=  11.26  1h=  1.70%  24h= -0.20%
+ 4. SUI     score=   9.84  1h=  0.60%  24h=  0.11%
+ 5. ZEC     score=   9.73  1h=  1.00%  24h=  4.30%
+ 6. CRO     score=   8.59  1h=  1.00%  24h=  4.82%
+ 7. M       score=   8.50  1h=  0.60%  24h=  6.37%
+ 8. TAO     score=   7.99  1h=  1.10%  24h=  0.60%
+ 9. NEAR    score=   7.85  1h=  0.60%  24h=  0.81%
+10. WBT     score=   7.75  1h=  0.20%  24h=  6.55%
