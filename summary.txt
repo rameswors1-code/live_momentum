@@ -1,19 +1,19 @@
-Updated: 2026-09-08T02:00:54.623892+00:00
+Updated: 2026-09-08T02:30:48.756099+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Worldcoin (WLD)
-  Score: 29.731
-  1h: 0.00% | 24h: 19.60%
-  Price: $0.4911
+  Uniswap (UNI)
+  Score: 17.398
+  1h: 3.30% | 24h: 0.19%
+  Price: $7.0700
 
 Top 10 by Momentum Score:
- 1. WLD     score=  29.73  1h=  0.00%  24h= 19.60%
- 2. UNI     score=  17.69  1h=  3.30%  24h=  0.50%
- 3. SUI     score=  13.01  1h=  0.00%  24h=  4.06%
- 4. XAUT    score=  11.30  1h=  0.30%  24h=  0.65%
- 5. AVAX    score=   9.65  1h=  0.30%  24h=  4.02%
- 6. M       score=   8.31  1h=  0.80%  24h=  5.48%
- 7. LTC     score=   7.75  1h=  0.20%  24h=  2.61%
- 8. ASTER   score=   7.11  1h=  0.90%  24h= -0.33%
- 9. WBT     score=   5.54  1h=  0.20%  24h=  4.48%
-10. XLM     score=   4.89  1h= -0.10%  24h=  3.71%
+ 1. UNI     score=  17.40  1h=  3.30%  24h=  0.19%
+ 2. SUI     score=  12.93  1h=  0.00%  24h=  4.00%
+ 3. DOT     score=  12.18  1h= -1.10%  24h=  8.12%
+ 4. XAUT    score=  11.07  1h=  0.30%  24h=  0.39%
+ 5. AVAX    score=   8.58  1h=  0.30%  24h=  2.96%
+ 6. LTC     score=   7.59  1h=  0.20%  24h=  2.43%
+ 7. M       score=   7.57  1h=  0.80%  24h=  4.74%
+ 8. ASTER   score=   5.08  1h=  0.90%  24h= -2.38%
+ 9. WBT     score=   5.07  1h=  0.20%  24h=  4.01%
+10. XLM     score=   4.14  1h= -0.10%  24h=  2.98%
