@@ -1,19 +1,19 @@
-Updated: 2026-09-10T15:30:54.381915+00:00
+Updated: 2026-09-10T16:01:03.309720+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Chainlink (LINK)
-  Score: 11.708
-  1h: -0.60% | 24h: -2.26%
-  Price: $11.6200
+  Score: 11.485
+  1h: -0.20% | 24h: -3.16%
+  Price: $11.6300
 
 Top 10 by Momentum Score:
- 1. LINK    score=  11.71  1h= -0.60%  24h= -2.26%
- 2. WLFI    score=   4.28  1h=  0.50%  24h=  1.70%
- 3. XAUT    score=   1.85  1h= -0.20%  24h= -0.58%
- 4. CC      score=   1.80  1h=  1.30%  24h= -2.86%
- 5. RLUSD   score=   1.45  1h=  0.00%  24h= -0.01%
- 6. PAXG    score=   1.44  1h= -0.30%  24h= -0.63%
- 7. ETH     score=   1.23  1h=  0.30%  24h= -1.78%
- 8. TRX     score=   0.67  1h=  0.00%  24h=  0.19%
- 9. USDS    score=   0.66  1h=  0.00%  24h= -0.01%
-10. SOL     score=   0.54  1h=  0.30%  24h= -2.87%
+ 1. LINK    score=  11.48  1h= -0.20%  24h= -3.16%
+ 2. NEAR    score=   9.63  1h=  2.20%  24h= -4.71%
+ 3. WLFI    score=   8.29  1h=  1.30%  24h=  2.89%
+ 4. XMR     score=   3.46  1h=  0.60%  24h=  0.85%
+ 5. XAUT    score=   3.13  1h=  0.20%  24h= -0.72%
+ 6. PAXG    score=   3.09  1h=  0.20%  24h= -0.74%
+ 7. UNI     score=   2.41  1h=  1.00%  24h= -8.17%
+ 8. DOT     score=   1.68  1h=  0.60%  24h= -4.08%
+ 9. RLUSD   score=   1.45  1h=  0.00%  24h= -0.00%
+10. TRX     score=   1.39  1h=  0.20%  24h=  0.22%
