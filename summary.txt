@@ -1,19 +1,19 @@
-Updated: 2026-09-10T03:01:02.009357+00:00
+Updated: 2026-09-10T03:30:50.356742+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Chainlink (LINK)
-  Score: 30.904
-  1h: 1.20% | 24h: -4.90%
-  Price: $11.8400
+  Score: 30.57
+  1h: 1.20% | 24h: -4.65%
+  Price: $11.8000
 
 Top 10 by Momentum Score:
- 1. LINK    score=  30.90  1h=  1.20%  24h= -4.90%
- 2. NEAR    score=  22.10  1h=  1.30%  24h=  8.63%
- 3. ZEC     score=  15.71  1h=  2.00%  24h=  5.19%
- 4. WLFI    score=   5.78  1h=  1.20%  24h=  0.83%
- 5. M       score=   5.70  1h=  1.30%  24h=  1.13%
- 6. XMR     score=   5.18  1h=  0.50%  24h=  2.83%
- 7. SUI     score=   5.17  1h=  1.00%  24h= -5.25%
- 8. RAIN    score=   4.78  1h=  0.90%  24h=  1.55%
- 9. TAO     score=   4.73  1h=  0.40%  24h= -0.97%
-10. AAVE    score=   4.56  1h=  0.80%  24h= -2.85%
+ 1. LINK    score=  30.57  1h=  1.20%  24h= -4.65%
+ 2. NEAR    score=  24.40  1h=  1.30%  24h= 10.89%
+ 3. ZEC     score=  15.81  1h=  2.00%  24h=  5.25%
+ 4. M       score=   6.51  1h=  1.30%  24h=  1.94%
+ 5. WLFI    score=   6.21  1h=  1.20%  24h=  1.24%
+ 6. SUI     score=   5.69  1h=  1.00%  24h= -4.82%
+ 7. RAIN    score=   5.53  1h=  0.90%  24h=  2.27%
+ 8. TAO     score=   5.49  1h=  0.40%  24h= -0.25%
+ 9. XMR     score=   5.21  1h=  0.50%  24h=  2.85%
+10. AAVE    score=   4.94  1h=  0.80%  24h= -2.48%
