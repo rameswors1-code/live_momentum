@@ -1,19 +1,19 @@
-Updated: 2026-09-11T03:30:53.720677+00:00
+Updated: 2026-09-11T04:01:03.026019+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Uniswap (UNI)
-  Score: 3.486
-  1h: -0.30% | 24h: -1.12%
-  Price: $5.9700
+  Polkadot (DOT)
+  Score: 8.038
+  1h: 0.90% | 24h: 1.22%
+  Price: $1.1200
 
 Top 10 by Momentum Score:
- 1. UNI     score=   3.49  1h= -0.30%  24h= -1.12%
- 2. DOT     score=   3.32  1h= -0.40%  24h=  1.12%
- 3. LTC     score=   2.56  1h=  0.10%  24h= -0.17%
- 4. RLUSD   score=   2.28  1h=  0.00%  24h= -0.01%
- 5. XAUT    score=   1.36  1h= -0.10%  24h= -2.17%
- 6. PAXG    score=   1.33  1h= -0.10%  24h= -2.08%
- 7. FIGR_HELOC  score=   1.15  1h=  0.00%  24h=  0.98%
- 8. USDS    score=   0.84  1h=  0.00%  24h= -0.01%
- 9. SUI     score=   0.84  1h=  0.00%  24h= -4.67%
-10. USDY    score=   0.21  1h=  0.00%  24h=  0.10%
+ 1. DOT     score=   8.04  1h=  0.90%  24h=  1.22%
+ 2. UNI     score=   6.26  1h=  0.50%  24h= -1.09%
+ 3. NEAR    score=   6.13  1h=  1.40%  24h= -4.61%
+ 4. LTC     score=   4.21  1h=  0.40%  24h=  0.43%
+ 5. ASTER   score=   3.22  1h=  1.00%  24h= -2.67%
+ 6. RLUSD   score=   2.55  1h=  0.00%  24h= -0.01%
+ 7. SUI     score=   2.19  1h=  0.30%  24h= -4.35%
+ 8. AAVE    score=   2.17  1h=  0.30%  24h= -2.85%
+ 9. FIGR_HELOC  score=   1.15  1h=  0.00%  24h=  0.98%
+10. ADA     score=   1.05  1h=  0.50%  24h= -2.77%
