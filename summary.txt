@@ -1,19 +1,19 @@
-Updated: 2026-09-11T11:01:02.912402+00:00
+Updated: 2026-09-11T11:09:27.231773+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  NEAR Protocol (NEAR)
-  Score: 5.279
-  1h: -0.70% | 24h: 2.11%
-  Price: $2.4500
+  Ripple USD (RLUSD)
+  Score: 4.245
+  1h: 0.00% | 24h: -0.01%
+  Price: $0.9999
 
 Top 10 by Momentum Score:
- 1. NEAR    score=   5.28  1h= -0.70%  24h=  2.11%
- 2. RLUSD   score=   4.24  1h=  0.00%  24h= -0.01%
- 3. PAXG    score=   2.27  1h= -0.20%  24h= -0.86%
- 4. XAUT    score=   2.25  1h= -0.20%  24h= -0.93%
- 5. OKB     score=   2.15  1h=  0.10%  24h=  1.30%
- 6. AAVE    score=   1.93  1h= -0.30%  24h= -0.73%
- 7. ETH     score=   1.06  1h= -0.30%  24h= -0.05%
- 8. FIGR_HELOC  score=   0.96  1h=  0.00%  24h=  0.80%
- 9. USDS    score=   0.81  1h=  0.00%  24h= -0.02%
-10. UNI     score=   0.45  1h= -1.30%  24h= -0.62%
+ 1. RLUSD   score=   4.25  1h=  0.00%  24h= -0.01%
+ 2. NEAR    score=   3.97  1h= -0.70%  24h=  0.82%
+ 3. XAUT    score=   2.30  1h= -0.20%  24h= -0.95%
+ 4. PAXG    score=   2.23  1h= -0.20%  24h= -0.91%
+ 5. OKB     score=   1.69  1h=  0.10%  24h=  0.83%
+ 6. AAVE    score=   1.43  1h= -0.30%  24h= -1.21%
+ 7. FIGR_HELOC  score=   0.96  1h=  0.00%  24h=  0.79%
+ 8. ETH     score=   0.94  1h= -0.30%  24h= -0.15%
+ 9. USDS    score=   0.83  1h=  0.00%  24h= -0.01%
+10. USDY    score=   0.12  1h=  0.00%  24h=  0.06%
