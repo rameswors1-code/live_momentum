@@ -1,19 +1,19 @@
-Updated: 2026-09-11T01:01:02.265180+00:00
+Updated: 2026-09-11T01:30:48.159445+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  NEAR Protocol (NEAR)
-  Score: 16.46
-  1h: 2.50% | 24h: 1.84%
-  Price: $2.5000
+  Polkadot (DOT)
+  Score: 15.473
+  1h: 3.20% | 24h: 0.65%
+  Price: $1.1100
 
 Top 10 by Momentum Score:
- 1. NEAR    score=  16.46  1h=  2.50%  24h=  1.84%
- 2. DOT     score=  15.92  1h=  3.20%  24h=  1.12%
- 3. UNI     score=   9.71  1h=  1.50%  24h= -1.65%
- 4. AAVE    score=   6.27  1h=  1.10%  24h= -1.76%
- 5. LTC     score=   5.27  1h=  1.00%  24h= -0.70%
- 6. ETH     score=   4.14  1h=  0.70%  24h= -0.37%
- 7. SUI     score=   3.94  1h=  0.70%  24h= -4.20%
- 8. GRAM    score=   3.87  1h=  1.10%  24h= -0.32%
- 9. WLFI    score=   3.56  1h=  0.50%  24h=  0.85%
-10. PAXG    score=   3.55  1h=  0.40%  24h= -1.47%
+ 1. DOT     score=  15.47  1h=  3.20%  24h=  0.65%
+ 2. NEAR    score=  14.18  1h=  2.50%  24h= -0.51%
+ 3. UNI     score=   9.03  1h=  1.50%  24h= -2.26%
+ 4. AAVE    score=   6.16  1h=  1.10%  24h= -1.82%
+ 5. LTC     score=   5.59  1h=  1.00%  24h= -0.37%
+ 6. ETH     score=   4.04  1h=  0.70%  24h= -0.46%
+ 7. GRAM    score=   4.01  1h=  1.10%  24h= -0.19%
+ 8. SUI     score=   3.80  1h=  0.70%  24h= -4.30%
+ 9. XAUT    score=   3.35  1h=  0.40%  24h= -1.72%
+10. PAXG    score=   3.34  1h=  0.40%  24h= -1.74%
