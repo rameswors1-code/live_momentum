@@ -1,19 +1,19 @@
-Updated: 2026-09-11T21:30:55.289419+00:00
+Updated: 2026-09-11T22:01:26.645868+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Zcash (ZEC)
-  Score: 9.95
-  1h: 0.50% | 24h: 4.18%
-  Price: $1,181.2700
+  Aave (AAVE)
+  Score: 5.698
+  1h: -0.10% | 24h: 1.43%
+  Price: $124.3400
 
 Top 10 by Momentum Score:
- 1. ZEC     score=   9.95  1h=  0.50%  24h=  4.18%
- 2. SUI     score=   7.05  1h=  0.00%  24h= -1.38%
- 3. SOL     score=   6.95  1h=  0.30%  24h=  2.86%
- 4. AAVE    score=   6.86  1h=  0.00%  24h=  2.28%
- 5. UNI     score=   5.99  1h= -0.50%  24h=  0.54%
- 6. LTC     score=   4.93  1h=  0.10%  24h=  2.06%
- 7. RLUSD   score=   4.80  1h=  0.00%  24h= -0.00%
- 8. ETH     score=   4.48  1h= -0.50%  24h=  3.06%
- 9. PAXG    score=   4.40  1h=  0.00%  24h=  0.62%
-10. M       score=   4.26  1h=  0.40%  24h=  2.84%
+ 1. AAVE    score=   5.70  1h= -0.10%  24h=  1.43%
+ 2. PAXG    score=   4.80  1h=  0.10%  24h=  0.69%
+ 3. SOL     score=   4.78  1h= -0.20%  24h=  2.41%
+ 4. RLUSD   score=   4.74  1h=  0.00%  24h= -0.01%
+ 5. XAUT    score=   4.60  1h=  0.10%  24h=  0.58%
+ 6. ETH     score=   4.15  1h= -0.40%  24h=  2.35%
+ 7. UNI     score=   3.43  1h= -1.00%  24h= -0.26%
+ 8. SUI     score=   3.21  1h= -0.80%  24h= -2.25%
+ 9. AVAX    score=   2.06  1h= -0.10%  24h= -1.80%
+10. MNT     score=   1.27  1h= -0.30%  24h=  1.64%
