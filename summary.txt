@@ -1,19 +1,19 @@
-Updated: 2026-09-11T20:00:58.637723+00:00
+Updated: 2026-09-11T20:30:47.981401+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Zcash (ZEC)
-  Score: 11.055
-  1h: 0.80% | 24h: 4.51%
-  Price: $1,176.2100
+  Score: 10.442
+  1h: 0.80% | 24h: 3.88%
+  Price: $1,178.0400
 
 Top 10 by Momentum Score:
- 1. ZEC     score=  11.05  1h=  0.80%  24h=  4.51%
- 2. UNI     score=  10.38  1h=  0.90%  24h=  0.07%
- 3. SUI     score=   9.29  1h=  0.70%  24h= -1.57%
- 4. SOL     score=   8.75  1h=  1.00%  24h=  2.34%
- 5. LTC     score=   7.91  1h=  0.80%  24h=  2.55%
- 6. AAVE    score=   7.83  1h=  0.60%  24h=  1.26%
- 7. HYPE    score=   7.37  1h=  1.10%  24h=  0.77%
- 8. M       score=   6.89  1h=  1.10%  24h=  3.01%
- 9. BCH     score=   6.84  1h=  1.10%  24h=  0.77%
-10. ONDO    score=   6.69  1h=  0.80%  24h=  1.60%
+ 1. ZEC     score=  10.44  1h=  0.80%  24h=  3.88%
+ 2. UNI     score=   9.88  1h=  0.90%  24h= -0.43%
+ 3. SOL     score=   8.96  1h=  1.00%  24h=  2.51%
+ 4. SUI     score=   8.80  1h=  0.70%  24h= -2.02%
+ 5. AAVE    score=   7.99  1h=  0.60%  24h=  1.41%
+ 6. LTC     score=   7.72  1h=  0.80%  24h=  2.39%
+ 7. M       score=   7.43  1h=  1.10%  24h=  3.56%
+ 8. BCH     score=   6.80  1h=  1.10%  24h=  0.71%
+ 9. HYPE    score=   6.74  1h=  1.10%  24h=  0.16%
+10. ETH     score=   6.44  1h=  0.10%  24h=  2.98%
