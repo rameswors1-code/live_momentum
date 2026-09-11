@@ -1,19 +1,19 @@
-Updated: 2026-09-11T03:00:59.534175+00:00
+Updated: 2026-09-11T03:30:53.720677+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Uniswap (UNI)
-  Score: 3.549
-  1h: -0.30% | 24h: -1.11%
-  Price: $5.9800
+  Score: 3.486
+  1h: -0.30% | 24h: -1.12%
+  Price: $5.9700
 
 Top 10 by Momentum Score:
- 1. UNI     score=   3.55  1h= -0.30%  24h= -1.11%
- 2. LTC     score=   2.40  1h=  0.10%  24h= -0.34%
- 3. RLUSD   score=   2.30  1h=  0.00%  24h=  0.00%
- 4. DOT     score=   1.71  1h= -0.40%  24h= -0.54%
- 5. PAXG    score=   1.37  1h= -0.10%  24h= -2.02%
- 6. XAUT    score=   1.35  1h= -0.10%  24h= -2.07%
+ 1. UNI     score=   3.49  1h= -0.30%  24h= -1.12%
+ 2. DOT     score=   3.32  1h= -0.40%  24h=  1.12%
+ 3. LTC     score=   2.56  1h=  0.10%  24h= -0.17%
+ 4. RLUSD   score=   2.28  1h=  0.00%  24h= -0.01%
+ 5. XAUT    score=   1.36  1h= -0.10%  24h= -2.17%
+ 6. PAXG    score=   1.33  1h= -0.10%  24h= -2.08%
  7. FIGR_HELOC  score=   1.15  1h=  0.00%  24h=  0.98%
- 8. USDS    score=   0.85  1h=  0.00%  24h= -0.00%
- 9. SUI     score=   0.85  1h=  0.00%  24h= -4.64%
-10. TRX     score=   0.41  1h= -0.10%  24h=  0.31%
+ 8. USDS    score=   0.84  1h=  0.00%  24h= -0.01%
+ 9. SUI     score=   0.84  1h=  0.00%  24h= -4.67%
+10. USDY    score=   0.21  1h=  0.00%  24h=  0.10%
