@@ -1,19 +1,19 @@
-Updated: 2026-09-12T20:30:50.594284+00:00
+Updated: 2026-09-12T21:01:03.984248+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   World Liberty Financial (WLFI)
-  Score: 14.121
-  1h: 1.50% | 24h: 7.24%
-  Price: $0.0582
+  Score: 10.399
+  1h: 0.60% | 24h: 6.66%
+  Price: $0.0583
 
 Top 10 by Momentum Score:
- 1. WLFI    score=  14.12  1h=  1.50%  24h=  7.24%
- 2. UNI     score=   9.96  1h=  0.10%  24h=  4.82%
- 3. CRO     score=   6.45  1h=  0.60%  24h=  4.27%
- 4. RAIN    score=   6.43  1h=  1.30%  24h=  1.77%
- 5. XMR     score=   5.53  1h=  0.20%  24h=  4.40%
- 6. SHIB    score=   4.24  1h=  0.20%  24h=  2.76%
- 7. AAVE    score=   3.54  1h= -0.30%  24h=  1.38%
- 8. SUI     score=   2.94  1h= -0.10%  24h= -0.53%
- 9. DOGE    score=   2.06  1h=  0.10%  24h=  0.58%
-10. ADA     score=   1.93  1h= -0.10%  24h=  1.00%
+ 1. WLFI    score=  10.40  1h=  0.60%  24h=  6.66%
+ 2. UNI     score=  10.36  1h=  0.30%  24h=  4.54%
+ 3. CRO     score=   6.75  1h=  0.60%  24h=  4.57%
+ 4. XMR     score=   5.90  1h=  0.60%  24h=  3.38%
+ 5. RAIN    score=   4.16  1h=  0.60%  24h=  1.94%
+ 6. SHIB    score=   4.09  1h=  0.20%  24h=  2.60%
+ 7. AAVE    score=   3.85  1h= -0.10%  24h=  1.03%
+ 8. SUI     score=   3.35  1h=  0.10%  24h= -0.73%
+ 9. ADA     score=   3.28  1h=  0.30%  24h=  0.99%
+10. ASTER   score=   3.26  1h=  0.20%  24h=  0.63%
