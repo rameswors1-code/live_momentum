@@ -1,19 +1,19 @@
-Updated: 2026-09-12T10:01:02.768976+00:00
+Updated: 2026-09-12T10:30:50.353624+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Uniswap (UNI)
-  Score: 12.987
-  1h: 0.20% | 24h: 5.31%
-  Price: $6.3600
+  World Liberty Financial (WLFI)
+  Score: 18.254
+  1h: -0.20% | 24h: 17.16%
+  Price: $0.0575
 
 Top 10 by Momentum Score:
- 1. UNI     score=  12.99  1h=  0.20%  24h=  5.31%
- 2. AAVE    score=   8.28  1h=  0.10%  24h=  3.27%
- 3. SUI     score=   7.42  1h=  0.00%  24h= -0.54%
- 4. ZEC     score=   7.17  1h= -0.20%  24h=  4.23%
- 5. SOL     score=   6.32  1h=  0.20%  24h=  2.61%
- 6. SHIB    score=   5.70  1h=  0.10%  24h=  4.26%
- 7. BCH     score=   5.40  1h=  0.20%  24h=  2.90%
- 8. WLFI    score=   5.24  1h= -0.20%  24h=  3.64%
- 9. ETH     score=   5.20  1h= -0.10%  24h=  2.46%
-10. XLM     score=   5.19  1h=  0.20%  24h=  3.41%
+ 1. WLFI    score=  18.25  1h= -0.20%  24h= 17.16%
+ 2. UNI     score=  13.81  1h=  0.20%  24h=  6.17%
+ 3. AAVE    score=   8.74  1h=  0.10%  24h=  3.78%
+ 4. SUI     score=   7.79  1h=  0.00%  24h= -0.33%
+ 5. ZEC     score=   7.53  1h= -0.20%  24h=  4.62%
+ 6. SOL     score=   6.28  1h=  0.20%  24h=  2.69%
+ 7. SHIB    score=   6.07  1h=  0.10%  24h=  4.63%
+ 8. LTC     score=   5.59  1h= -0.10%  24h=  3.57%
+ 9. XLM     score=   5.55  1h=  0.20%  24h=  3.77%
+10. ETH     score=   5.45  1h= -0.10%  24h=  2.72%
