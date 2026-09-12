@@ -1,19 +1,19 @@
-Updated: 2026-09-12T02:01:03.537148+00:00
+Updated: 2026-09-12T02:30:51.472994+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Canton (CC)
-  Score: 11.289
-  1h: 2.60% | 24h: 2.07%
-  Price: $0.1001
+  Score: 10.938
+  1h: 2.60% | 24h: 1.72%
+  Price: $0.0990
 
 Top 10 by Momentum Score:
- 1. CC      score=  11.29  1h=  2.60%  24h=  2.07%
- 2. NEAR    score=   9.01  1h=  1.10%  24h= -2.55%
- 3. SUI     score=   8.24  1h=  0.20%  24h= -0.77%
- 4. UNI     score=   7.96  1h=  0.10%  24h=  0.45%
- 5. LTC     score=   7.25  1h=  0.90%  24h=  1.64%
- 6. AAVE    score=   7.21  1h=  0.00%  24h=  2.58%
- 7. ETH     score=   6.04  1h=  0.10%  24h=  2.47%
- 8. SOL     score=   6.02  1h=  0.10%  24h=  2.61%
- 9. XLM     score=   5.77  1h=  0.60%  24h=  2.58%
-10. OKB     score=   5.58  1h=  0.30%  24h=  3.91%
+ 1. CC      score=  10.94  1h=  2.60%  24h=  1.72%
+ 2. NEAR    score=   9.60  1h=  1.10%  24h= -1.94%
+ 3. UNI     score=   9.13  1h=  0.10%  24h=  1.67%
+ 4. SUI     score=   8.47  1h=  0.20%  24h= -0.53%
+ 5. LTC     score=   8.08  1h=  0.90%  24h=  2.46%
+ 6. AAVE    score=   7.85  1h=  0.00%  24h=  3.26%
+ 7. ZEC     score=   6.52  1h= -1.40%  24h=  7.83%
+ 8. ADA     score=   6.46  1h=  0.60%  24h=  1.32%
+ 9. ETH     score=   6.32  1h=  0.10%  24h=  2.77%
+10. OKB     score=   6.16  1h=  0.30%  24h=  4.49%
