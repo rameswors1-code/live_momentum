@@ -1,19 +1,19 @@
-Updated: 2026-09-13T19:30:49.199851+00:00
+Updated: 2026-09-13T20:00:58.564072+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Bitway (BTW)
-  Score: 26.931
-  1h: -0.30% | 24h: 27.16%
-  Price: $0.7059
+  Score: 33.131
+  1h: 1.40% | 24h: 27.38%
+  Price: $0.7086
 
 Top 10 by Momentum Score:
- 1. BTW     score=  26.93  1h= -0.30%  24h= 27.16%
- 2. LTC     score=   6.79  1h=  0.80%  24h=  2.06%
- 3. SUI     score=   4.68  1h=  0.40%  24h= -0.29%
- 4. TAO     score=   4.53  1h=  0.10%  24h=  1.88%
- 5. HBAR    score=   4.19  1h=  0.40%  24h=  2.29%
- 6. AAVE    score=   3.96  1h=  0.00%  24h=  0.22%
- 7. ASTER   score=   3.69  1h=  0.00%  24h=  1.87%
- 8. UNI     score=   3.45  1h=  0.20%  24h= -0.62%
- 9. ADA     score=   2.55  1h=  0.30%  24h=  0.44%
-10. AVAX    score=   2.52  1h=  0.10%  24h=  0.28%
+ 1. BTW     score=  33.13  1h=  1.40%  24h= 27.38%
+ 2. ASTER   score=   3.13  1h= -0.20%  24h=  2.04%
+ 3. LTC     score=   3.10  1h= -0.30%  24h=  2.20%
+ 4. AAVE    score=   1.73  1h= -0.60%  24h=  0.07%
+ 5. AVAX    score=   1.38  1h= -0.30%  24h=  0.54%
+ 6. RLUSD   score=   1.14  1h=  0.00%  24h= -0.01%
+ 7. SUI     score=   1.07  1h= -0.60%  24h= -0.38%
+ 8. XAUT    score=   0.87  1h= -0.10%  24h= -0.10%
+ 9. TRX     score=   0.47  1h= -0.10%  24h=  0.44%
+10. PAXG    score=   0.41  1h= -0.10%  24h= -0.14%
