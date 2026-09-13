@@ -1,19 +1,19 @@
-Updated: 2026-09-13T08:30:50.643347+00:00
+Updated: 2026-09-13T10:01:09.869860+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  World Liberty Financial (WLFI)
-  Score: 6.201
-  1h: 0.80% | 24h: 1.80%
-  Price: $0.0577
+  Hedera (HBAR)
+  Score: 3.355
+  1h: 0.50% | 24h: 1.19%
+  Price: $0.0753
 
 Top 10 by Momentum Score:
- 1. WLFI    score=   6.20  1h=  0.80%  24h=  1.80%
- 2. XMR     score=   4.39  1h=  1.40%  24h= -0.90%
- 3. AAVE    score=   3.38  1h=  0.10%  24h= -0.16%
- 4. RAIN    score=   3.17  1h=  0.30%  24h=  2.03%
- 5. LTC     score=   2.24  1h=  0.30%  24h= -0.31%
- 6. ASTER   score=   2.12  1h=  0.00%  24h=  0.21%
- 7. OKB     score=   1.93  1h=  0.50%  24h= -0.04%
- 8. HBAR    score=   1.72  1h=  0.10%  24h=  0.98%
- 9. ETH     score=   1.32  1h=  0.30%  24h= -0.71%
-10. RLUSD   score=   1.08  1h=  0.00%  24h= -0.01%
+ 1. HBAR    score=   3.35  1h=  0.50%  24h=  1.19%
+ 2. SUI     score=   3.13  1h=  0.40%  24h= -2.06%
+ 3. CRO     score=   2.66  1h=  0.40%  24h=  1.17%
+ 4. TAO     score=   2.66  1h=  0.50%  24h= -0.88%
+ 5. NEAR    score=   2.26  1h=  0.50%  24h= -2.58%
+ 6. UNI     score=   2.18  1h=  0.00%  24h= -2.10%
+ 7. AAVE    score=   1.90  1h=  0.00%  24h= -1.49%
+ 8. RAIN    score=   1.86  1h=  0.00%  24h=  1.77%
+ 9. ASTER   score=   1.76  1h= -0.20%  24h=  0.48%
+10. AVAX    score=   1.74  1h=  0.40%  24h= -1.56%
