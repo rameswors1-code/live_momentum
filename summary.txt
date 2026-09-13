@@ -1,19 +1,19 @@
-Updated: 2026-09-13T16:09:04.728048+00:00
+Updated: 2026-09-13T16:30:50.868606+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Litecoin (LTC)
-  Score: 3.995
-  1h: 0.40% | 24h: 0.74%
-  Price: $54.4200
+  Score: 3.92
+  1h: 0.40% | 24h: 0.66%
+  Price: $54.4000
 
 Top 10 by Momentum Score:
- 1. LTC     score=   4.00  1h=  0.40%  24h=  0.74%
- 2. BTW     score=   2.11  1h= -5.90%  24h= 21.97%
- 3. ASTER   score=   2.06  1h= -0.30%  24h=  1.15%
- 4. XMR     score=   1.58  1h=  0.00%  24h=  1.18%
- 5. RAIN    score=   1.53  1h= -0.10%  24h=  1.75%
- 6. RLUSD   score=   1.16  1h=  0.00%  24h=  0.00%
- 7. XAUT    score=   1.13  1h=  0.00%  24h= -0.06%
- 8. AAVE    score=   1.11  1h= -0.70%  24h= -0.17%
- 9. TRX     score=   1.01  1h=  0.10%  24h=  0.27%
-10. USDY    score=   0.56  1h=  0.10%  24h=  0.20%
+ 1. LTC     score=   3.92  1h=  0.40%  24h=  0.66%
+ 2. BTW     score=   2.56  1h= -5.90%  24h= 22.43%
+ 3. RAIN    score=   1.69  1h= -0.10%  24h=  1.92%
+ 4. ASTER   score=   1.37  1h= -0.30%  24h=  0.44%
+ 5. XAUT    score=   1.21  1h=  0.00%  24h=  0.01%
+ 6. RLUSD   score=   1.18  1h=  0.00%  24h= -0.00%
+ 7. TRX     score=   1.00  1h=  0.10%  24h=  0.26%
+ 8. AAVE    score=   0.90  1h= -0.70%  24h= -0.34%
+ 9. XMR     score=   0.74  1h=  0.00%  24h=  0.33%
+10. PAXG    score=   0.51  1h= -0.10%  24h= -0.03%
