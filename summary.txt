@@ -1,19 +1,19 @@
-Updated: 2026-09-13T04:30:54.628873+00:00
+Updated: 2026-09-13T05:00:59.037615+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Cronos (CRO)
-  Score: 7.249
-  1h: 0.80% | 24h: 4.36%
-  Price: $0.0599
+  World Liberty Financial (WLFI)
+  Score: 8.017
+  1h: 0.60% | 24h: 4.32%
+  Price: $0.0575
 
 Top 10 by Momentum Score:
- 1. CRO     score=   7.25  1h=  0.80%  24h=  4.36%
- 2. AAVE    score=   6.20  1h=  0.40%  24h=  1.76%
- 3. UNI     score=   5.66  1h= -0.60%  24h=  3.26%
- 4. WLFI    score=   5.49  1h=  0.00%  24h=  3.90%
- 5. ZEC     score=   4.43  1h=  0.80%  24h=  0.13%
- 6. RAIN    score=   3.93  1h=  0.20%  24h=  3.13%
- 7. ASTER   score=   3.62  1h=  0.10%  24h=  1.35%
- 8. SUI     score=   1.75  1h= -0.40%  24h= -0.18%
- 9. ETH     score=   1.41  1h=  0.00%  24h=  0.40%
-10. AVAX    score=   1.41  1h=  0.10%  24h= -0.76%
+ 1. WLFI    score=   8.02  1h=  0.60%  24h=  4.32%
+ 2. UNI     score=   7.55  1h=  0.00%  24h=  3.07%
+ 3. TAO     score=   5.57  1h=  0.80%  24h=  1.13%
+ 4. ASTER   score=   4.52  1h=  0.30%  24h=  1.57%
+ 5. ZEC     score=   4.35  1h=  0.60%  24h=  0.65%
+ 6. AAVE    score=   4.07  1h= -0.20%  24h=  1.69%
+ 7. SUI     score=   2.96  1h= -0.10%  24h= -0.01%
+ 8. LTC     score=   2.88  1h=  0.40%  24h=  0.12%
+ 9. RAIN    score=   2.60  1h= -0.10%  24h=  2.87%
+10. HBAR    score=   2.52  1h=  0.30%  24h=  1.06%
