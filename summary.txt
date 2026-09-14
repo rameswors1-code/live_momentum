@@ -1,19 +1,19 @@
-Updated: 2026-09-14T11:01:00.703472+00:00
+Updated: 2026-09-14T11:30:49.547813+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Stellar (XLM)
-  Score: 11.926
-  1h: 1.30% | 24h: 6.50%
-  Price: $0.1885
+  Score: 13.493
+  1h: 1.30% | 24h: 8.03%
+  Price: $0.1917
 
 Top 10 by Momentum Score:
- 1. XLM     score=  11.93  1h=  1.30%  24h=  6.50%
- 2. XRP     score=  10.16  1h=  1.40%  24h=  4.39%
- 3. ONDO    score=   9.88  1h=  1.20%  24h=  4.02%
- 4. SUI     score=   8.71  1h=  0.50%  24h=  2.20%
- 5. AAVE    score=   8.65  1h=  0.70%  24h=  2.31%
- 6. ZEC     score=   8.19  1h=  0.50%  24h=  4.13%
- 7. ADA     score=   7.88  1h=  0.80%  24h=  3.54%
- 8. NEAR    score=   7.86  1h= -0.20%  24h=  5.37%
- 9. UNI     score=   7.23  1h=  0.60%  24h=  1.51%
-10. TAO     score=   7.04  1h=  0.80%  24h=  1.99%
+ 1. XLM     score=  13.49  1h=  1.30%  24h=  8.03%
+ 2. NEAR    score=   6.59  1h= -0.40%  24h=  4.86%
+ 3. AAVE    score=   5.76  1h= -0.10%  24h=  2.25%
+ 4. SUI     score=   5.45  1h= -0.50%  24h=  2.35%
+ 5. CRO     score=   4.95  1h=  1.10%  24h=  1.03%
+ 6. MNT     score=   4.94  1h=  0.70%  24h=  1.98%
+ 7. ZEC     score=   3.97  1h= -0.70%  24h=  4.31%
+ 8. HYPE    score=   3.93  1h= -0.40%  24h=  3.83%
+ 9. XRP     score=   3.82  1h= -0.50%  24h=  4.69%
+10. ASTER   score=   3.75  1h=  0.10%  24h=  1.64%
