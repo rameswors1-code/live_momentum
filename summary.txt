@@ -1,19 +1,19 @@
-Updated: 2026-09-15T18:30:51.465501+00:00
+Updated: 2026-09-15T19:01:05.550543+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Ethereum (ETH)
-  Score: 1507950134.11
-  1h: 0.80% | 24h: -4.43%
-  Price: $2,425.5600
+  Ripple USD (RLUSD)
+  Score: 5.322
+  1h: 0.00% | 24h: -0.00%
+  Price: $1.0000
 
 Top 10 by Momentum Score:
- 1. ETH     score=1507950134.11  1h=  0.80%  24h= -4.43%
- 2. RAIN    score=  17.35  1h=  4.80%  24h=  0.46%
- 3. UNI     score=   9.21  1h=  1.10%  24h= -2.23%
- 4. AAVE    score=   7.77  1h=  1.40%  24h= -2.33%
- 5. SUI     score=   5.47  1h=  1.10%  24h= -4.68%
- 6. RLUSD   score=   5.30  1h=  0.00%  24h= -0.02%
- 7. AVAX    score=   4.61  1h=  0.90%  24h= -1.83%
- 8. XLM     score=   4.61  1h=  1.40%  24h= -2.54%
- 9. ZEC     score=   3.30  1h=  1.70%  24h= -4.58%
-10. LEO     score=   3.05  1h=  1.20%  24h= -1.15%
+ 1. RLUSD   score=   5.32  1h=  0.00%  24h= -0.00%
+ 2. BTW     score=   4.62  1h=  0.30%  24h=  2.94%
+ 3. PAXG    score=   3.82  1h=  0.20%  24h= -0.12%
+ 4. XAUT    score=   3.29  1h=  0.30%  24h= -0.07%
+ 5. M       score=   1.67  1h= -0.50%  24h=  3.41%
+ 6. USDS    score=   0.70  1h=  0.00%  24h= -0.02%
+ 7. USDY    score=   0.23  1h=  0.00%  24h=  0.15%
+ 8. USYC    score=   0.01  1h=  0.00%  24h=  0.01%
+ 9. BUIDL   score=   0.00  1h=  0.00%  24h=  0.00%
+10. UNI     score=  -0.01  1h= -1.30%  24h= -3.31%
