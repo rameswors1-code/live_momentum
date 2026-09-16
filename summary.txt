@@ -1,19 +1,19 @@
-Updated: 2026-09-16T15:30:48.211933+00:00
+Updated: 2026-09-16T16:01:00.070094+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Bitway (BTW)
-  Score: 12.804
-  1h: 1.20% | 24h: 8.31%
-  Price: $0.7570
+  Zcash (ZEC)
+  Score: 16.383
+  1h: 0.60% | 24h: 11.32%
+  Price: $1,249.4600
 
 Top 10 by Momentum Score:
- 1. BTW     score=  12.80  1h=  1.20%  24h=  8.31%
- 2. ZEC     score=  10.23  1h= -1.10%  24h= 11.16%
- 3. M       score=   5.99  1h=  1.40%  24h=  1.08%
- 4. PAXG    score=   5.68  1h=  0.30%  24h=  1.45%
- 5. RLUSD   score=   5.67  1h=  0.00%  24h=  0.01%
- 6. XAUT    score=   5.13  1h=  0.30%  24h=  1.38%
- 7. NEAR    score=   2.76  1h= -1.50%  24h=  2.90%
- 8. RAIN    score=   1.61  1h= -0.80%  24h=  4.30%
- 9. SUI     score=   0.89  1h= -0.90%  24h= -2.78%
-10. USDS    score=   0.89  1h=  0.00%  24h= -0.01%
+ 1. ZEC     score=  16.38  1h=  0.60%  24h= 11.32%
+ 2. UNI     score=  14.19  1h=  2.80%  24h= -1.88%
+ 3. NEAR    score=  12.58  1h=  1.00%  24h=  3.82%
+ 4. HYPE    score=   7.41  1h=  1.00%  24h=  1.84%
+ 5. RLUSD   score=   5.67  1h=  0.00%  24h=  0.02%
+ 6. SUI     score=   4.68  1h=  0.10%  24h= -2.45%
+ 7. PAXG    score=   4.65  1h=  0.00%  24h=  1.48%
+ 8. RAIN    score=   4.57  1h=  0.10%  24h=  4.13%
+ 9. BTW     score=   4.44  1h= -1.20%  24h=  8.35%
+10. XAUT    score=   4.13  1h=  0.00%  24h=  1.41%
