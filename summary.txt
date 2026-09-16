@@ -1,19 +1,19 @@
-Updated: 2026-09-16T02:30:47.452021+00:00
+Updated: 2026-09-16T03:00:54.272937+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Ripple USD (RLUSD)
-  Score: 6.215
-  1h: 0.00% | 24h: 0.01%
-  Price: $1.0000
+  PAX Gold (PAXG)
+  Score: 6.759
+  1h: 0.90% | 24h: 0.14%
+  Price: $4,321.4400
 
 Top 10 by Momentum Score:
- 1. RLUSD   score=   6.21  1h=  0.00%  24h=  0.01%
- 2. PAXG    score=   3.52  1h=  0.10%  24h= -0.28%
- 3. M       score=   3.47  1h=  0.20%  24h=  2.73%
- 4. XAUT    score=   2.35  1h=  0.10%  24h= -0.28%
- 5. USDS    score=   0.83  1h=  0.00%  24h= -0.03%
- 6. LEO     score=   0.74  1h=  0.60%  24h= -1.36%
- 7. SUI     score=   0.18  1h= -0.70%  24h= -4.78%
- 8. USDY    score=   0.15  1h=  0.00%  24h=  0.05%
- 9. WLFI    score=   0.13  1h= -0.20%  24h=  0.07%
-10. USYC    score=   0.01  1h=  0.00%  24h=  0.01%
+ 1. PAXG    score=   6.76  1h=  0.90%  24h=  0.14%
+ 2. SUI     score=   6.39  1h=  1.00%  24h= -4.58%
+ 3. RLUSD   score=   6.17  1h=  0.00%  24h=  0.00%
+ 4. XAUT    score=   5.56  1h=  0.90%  24h=  0.10%
+ 5. UNI     score=   5.09  1h=  0.80%  24h= -4.93%
+ 6. NEAR    score=   4.47  1h=  1.30%  24h= -4.56%
+ 7. ZEC     score=   3.60  1h=  1.40%  24h= -3.23%
+ 8. BCH     score=   3.00  1h=  1.00%  24h= -1.84%
+ 9. AVAX    score=   2.75  1h=  0.90%  24h= -4.02%
+10. M       score=   2.57  1h=  0.00%  24h=  2.53%
