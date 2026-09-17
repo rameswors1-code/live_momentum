@@ -1,19 +1,19 @@
-Updated: 2026-09-17T05:30:50.657008+00:00
+Updated: 2026-09-17T06:00:53.736304+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Zcash (ZEC)
-  Score: 18.557
-  1h: -1.00% | 24h: 17.52%
-  Price: $1,359.3300
+  Score: 20.14
+  1h: -0.50% | 24h: 17.38%
+  Price: $1,358.2300
 
 Top 10 by Momentum Score:
- 1. ZEC     score=  18.56  1h= -1.00%  24h= 17.52%
- 2. NEAR    score=  16.96  1h= -0.90%  24h= 12.51%
- 3. UNI     score=  15.91  1h=  0.60%  24h=  6.39%
- 4. ASTER   score=  12.21  1h=  0.60%  24h=  7.82%
- 5. SUI     score=  12.13  1h=  0.20%  24h=  4.46%
- 6. AAVE    score=   9.20  1h=  0.50%  24h=  1.14%
- 7. CC      score=   7.37  1h=  0.00%  24h=  7.18%
- 8. CRO     score=   6.93  1h=  0.40%  24h=  5.41%
- 9. AVAX    score=   6.18  1h=  0.00%  24h=  2.76%
-10. TAO     score=   6.04  1h=  0.00%  24h=  3.14%
+ 1. ZEC     score=  20.14  1h= -0.50%  24h= 17.38%
+ 2. NEAR    score=  18.96  1h= -0.60%  24h= 13.26%
+ 3. CC      score=   9.64  1h=  0.70%  24h=  7.01%
+ 4. UNI     score=   8.88  1h= -1.30%  24h=  5.98%
+ 5. SUI     score=   8.83  1h= -0.60%  24h=  3.94%
+ 6. ASTER   score=   7.40  1h= -0.50%  24h=  6.82%
+ 7. AAVE    score=   6.41  1h= -0.20%  24h=  0.79%
+ 8. RLUSD   score=   5.90  1h=  0.00%  24h= -0.01%
+ 9. XAUT    score=   4.64  1h=  0.10%  24h= -0.63%
+10. PAXG    score=   4.41  1h=  0.10%  24h= -0.70%
