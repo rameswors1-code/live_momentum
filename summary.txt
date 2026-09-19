@@ -1,19 +1,19 @@
-Updated: 2026-09-19T10:00:53.461522+00:00
+Updated: 2026-09-19T10:30:51.093033+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Morpho (MORPHO)
-  Score: 26.756
-  1h: 1.70% | 24h: 19.34%
-  Price: $2.8100
+  Avalanche (AVAX)
+  Score: 26.835
+  1h: 2.10% | 24h: 13.30%
+  Price: $9.0800
 
 Top 10 by Momentum Score:
- 1. MORPHO  score=  26.76  1h=  1.70%  24h= 19.34%
- 2. AVAX    score=  26.35  1h=  2.10%  24h= 12.93%
- 3. TAO     score=  22.11  1h=  3.40%  24h=  6.21%
- 4. SUI     score=  18.46  1h=  1.30%  24h=  4.81%
- 5. NEAR    score=  14.58  1h= -0.40%  24h=  4.39%
- 6. AAVE    score=  14.04  1h=  0.00%  24h=  7.13%
- 7. UNI     score=  13.00  1h= -0.20%  24h=  1.16%
- 8. ONDO    score=  11.87  1h=  0.90%  24h=  4.37%
- 9. ZEC     score=  11.65  1h=  1.00%  24h=  5.72%
-10. LINK    score=   9.86  1h=  0.70%  24h=  5.14%
+ 1. AVAX    score=  26.84  1h=  2.10%  24h= 13.30%
+ 2. ENA     score=  23.97  1h= -1.70%  24h= 15.60%
+ 3. TAO     score=  23.26  1h=  3.40%  24h=  7.26%
+ 4. SUI     score=  19.68  1h=  1.30%  24h=  5.48%
+ 5. NEAR    score=  13.62  1h= -0.40%  24h=  3.66%
+ 6. AAVE    score=  13.20  1h=  0.00%  24h=  6.37%
+ 7. ZEC     score=  12.21  1h=  1.00%  24h=  6.31%
+ 8. UNI     score=  11.18  1h= -0.20%  24h=  0.01%
+ 9. ONDO    score=  11.12  1h=  0.90%  24h=  3.64%
+10. LINK    score=  10.06  1h=  0.70%  24h=  5.36%
