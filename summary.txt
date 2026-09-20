@@ -1,19 +1,19 @@
-Updated: 2026-09-20T10:00:54.154267+00:00
+Updated: 2026-09-20T10:30:45.453863+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Akedo (AKE)
-  Score: 99.624
-  1h: 15.00% | 24h: 43.48%
-  Price: $0.0926
+  Score: 134.146
+  1h: 15.00% | 24h: 77.98%
+  Price: $0.1148
 
 Top 10 by Momentum Score:
- 1. AKE     score=  99.62  1h= 15.00%  24h= 43.48%
- 2. ENA     score=  28.26  1h=  1.10%  24h=  7.22%
- 3. AVAX    score=  25.91  1h=  1.80%  24h=  9.04%
- 4. M       score=  17.10  1h=  3.30%  24h=  5.50%
- 5. SUI     score=  12.34  1h=  0.90%  24h= -1.97%
- 6. NEAR    score=   7.73  1h=  0.70%  24h= -4.52%
- 7. ONDO    score=   6.80  1h=  0.40%  24h=  0.55%
- 8. HBAR    score=   4.88  1h=  0.30%  24h=  2.24%
- 9. LTC     score=   4.46  1h=  0.60%  24h= -0.47%
-10. FIGR_HELOC  score=   3.58  1h=  1.40%  24h= -1.32%
+ 1. AKE     score= 134.15  1h= 15.00%  24h= 77.98%
+ 2. ENA     score=  24.45  1h=  1.10%  24h=  4.93%
+ 3. AVAX    score=  24.25  1h=  1.80%  24h=  7.48%
+ 4. M       score=  22.34  1h=  3.30%  24h= 10.74%
+ 5. SUI     score=  10.57  1h=  0.90%  24h= -3.62%
+ 6. NEAR    score=   7.97  1h=  0.70%  24h= -4.33%
+ 7. ONDO    score=   6.70  1h=  0.40%  24h=  0.39%
+ 8. LTC     score=   4.42  1h=  0.60%  24h= -0.53%
+ 9. FIGR_HELOC  score=   3.58  1h=  1.40%  24h= -1.32%
+10. RLUSD   score=   3.21  1h=  0.00%  24h= -0.00%
