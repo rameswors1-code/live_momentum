@@ -1,19 +1,19 @@
-Updated: 2026-09-20T07:00:54.633180+00:00
+Updated: 2026-09-20T07:30:48.889356+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Avalanche (AVAX)
-  Score: 25.697
-  1h: 0.00% | 24h: 14.94%
-  Price: $9.7400
+  MemeCore (M)
+  Score: 36.983
+  1h: 1.70% | 24h: 30.99%
+  Price: $1.6800
 
 Top 10 by Momentum Score:
- 1. AVAX    score=  25.70  1h=  0.00%  24h= 14.94%
- 2. ENA     score=  21.27  1h= -1.30%  24h=  8.93%
- 3. M       score=  15.51  1h= -4.00%  24h= 29.47%
- 4. SUI     score=  10.92  1h= -0.30%  24h=  0.65%
- 5. ONDO    score=   8.06  1h=  0.20%  24h=  2.43%
- 6. TAO     score=   5.97  1h=  0.70%  24h= -0.87%
- 7. HBAR    score=   5.70  1h=  0.50%  24h=  2.44%
- 8. UNI     score=   4.53  1h=  0.70%  24h= -5.13%
- 9. GRAM    score=   4.31  1h=  0.80%  24h=  1.06%
-10. FIGR_HELOC  score=   3.58  1h=  1.40%  24h= -1.32%
+ 1. M       score=  36.98  1h=  1.70%  24h= 30.99%
+ 2. AVAX    score=  28.55  1h=  1.30%  24h= 13.44%
+ 3. ENA     score=  23.32  1h= -0.40%  24h=  7.58%
+ 4. SUI     score=  11.56  1h= -0.20%  24h=  0.89%
+ 5. ONDO    score=   7.29  1h= -0.20%  24h=  3.09%
+ 6. HBAR    score=   4.60  1h= -0.20%  24h=  3.73%
+ 7. FIGR_HELOC  score=   3.58  1h=  1.40%  24h= -1.32%
+ 8. RLUSD   score=   3.28  1h=  0.00%  24h= -0.00%
+ 9. TAO     score=   2.58  1h= -0.50%  24h= -0.00%
+10. PAXG    score=   1.20  1h=  0.00%  24h= -0.05%
