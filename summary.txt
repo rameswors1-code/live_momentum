@@ -1,19 +1,19 @@
-Updated: 2026-09-19T23:30:46.833503+00:00
+Updated: 2026-09-20T00:00:58.703139+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Ethena (ENA)
-  Score: 37.947
-  1h: 0.40% | 24h: 20.51%
-  Price: $0.2047
+  Avalanche (AVAX)
+  Score: 42.917
+  1h: 3.20% | 24h: 22.92%
+  Price: $10.0900
 
 Top 10 by Momentum Score:
- 1. ENA     score=  37.95  1h=  0.40%  24h= 20.51%
- 2. AVAX    score=  32.56  1h=  0.80%  24h= 21.36%
- 3. M       score=  19.73  1h=  0.90%  24h= 16.56%
- 4. SUI     score=  19.51  1h=  1.00%  24h=  5.41%
- 5. ONDO    score=  17.01  1h=  1.70%  24h=  5.87%
- 6. TAO     score=  14.92  1h=  1.30%  24h=  5.98%
- 7. UNI     score=  10.75  1h=  1.40%  24h= -2.48%
- 8. AAVE    score=   8.85  1h=  0.50%  24h=  1.73%
- 9. NEAR    score=   8.43  1h=  1.60%  24h= -5.71%
-10. LTC     score=   7.15  1h=  1.10%  24h=  0.06%
+ 1. AVAX    score=  42.92  1h=  3.20%  24h= 22.92%
+ 2. ENA     score=  40.77  1h=  1.10%  24h= 21.28%
+ 3. M       score=  20.34  1h=  1.30%  24h= 15.76%
+ 4. SUI     score=  14.24  1h= -0.50%  24h=  5.34%
+ 5. ONDO    score=   9.85  1h= -0.20%  24h=  5.38%
+ 6. PUMP    score=   8.28  1h=  1.60%  24h=  0.22%
+ 7. UNI     score=   7.37  1h=  0.40%  24h= -2.34%
+ 8. LTC     score=   7.14  1h=  1.00%  24h=  0.42%
+ 9. TAO     score=   7.03  1h= -0.70%  24h=  5.12%
+10. AAVE    score=   5.75  1h= -0.20%  24h=  1.11%
