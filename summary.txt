@@ -1,19 +1,19 @@
-Updated: 2026-09-20T16:00:56.266706+00:00
+Updated: 2026-09-20T16:30:47.940501+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Avalanche (AVAX)
-  Score: 47.086
-  1h: 4.20% | 24h: 20.08%
-  Price: $11.3400
+  NEAR Protocol (NEAR)
+  Score: 46.378
+  1h: 5.30% | 24h: 15.85%
+  Price: $4.1400
 
 Top 10 by Momentum Score:
- 1. AVAX    score=  47.09  1h=  4.20%  24h= 20.08%
- 2. NEAR    score=  36.50  1h=  5.30%  24h=  7.14%
- 3. M       score=  23.13  1h=  0.90%  24h= 19.93%
- 4. ENA     score=  22.72  1h=  1.80%  24h=  2.02%
- 5. SUI     score=  17.60  1h=  2.40%  24h= -0.16%
- 6. BTW     score=  16.19  1h= -1.10%  24h= 19.63%
- 7. RAIN    score=   9.68  1h=  4.20%  24h= -5.10%
- 8. UNI     score=   7.83  1h=  1.10%  24h= -1.86%
- 9. LINK    score=   5.83  1h=  1.60%  24h= -1.75%
-10. HBAR    score=   5.01  1h= -1.20%  24h=  6.92%
+ 1. NEAR    score=  46.38  1h=  5.30%  24h= 15.85%
+ 2. AVAX    score=  42.93  1h=  4.20%  24h= 15.67%
+ 3. ENA     score=  27.13  1h=  1.80%  24h=  6.18%
+ 4. M       score=  22.58  1h=  0.90%  24h= 19.38%
+ 5. SUI     score=  19.05  1h=  2.40%  24h=  1.03%
+ 6. RAIN    score=  11.12  1h=  4.20%  24h= -3.65%
+ 7. UNI     score=   9.20  1h=  1.10%  24h= -0.53%
+ 8. PUMP    score=   6.62  1h=  1.00%  24h=  0.36%
+ 9. ONDO    score=   6.58  1h=  1.30%  24h= -1.44%
+10. LINK    score=   5.78  1h=  1.60%  24h= -1.79%
