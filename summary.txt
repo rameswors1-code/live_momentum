@@ -1,19 +1,19 @@
-Updated: 2026-09-22T18:01:02.487937+00:00
+Updated: 2026-09-22T18:30:50.048729+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Bitcoin Cash (BCH)
-  Score: 32.842
-  1h: -0.04% | 24h: 26.65%
-  Price: $333.4000
+  Score: 39.156
+  1h: 1.74% | 24h: 26.94%
+  Price: $335.6800
 
 Top 10 by Momentum Score:
- 1. BCH     score=  32.84  1h= -0.04%  24h= 26.65%
- 2. NEAR    score=  28.23  1h=  0.87%  24h= 12.93%
- 3. TAO     score=  20.08  1h=  0.12%  24h= 12.12%
- 4. PUMP    score=  17.47  1h=  1.77%  24h=  6.96%
- 5. UNI     score=  15.65  1h=  0.28%  24h=  4.08%
- 6. SUI     score=  10.23  1h= -0.58%  24h=  1.22%
- 7. HYPE    score=   9.83  1h=  0.71%  24h=  5.07%
- 8. FIGR_HELOC  score=   9.04  1h=  1.73%  24h=  2.89%
- 9. LTC     score=   7.92  1h=  0.98%  24h=  0.73%
-10. ZEC     score=   7.80  1h=  0.08%  24h=  5.34%
+ 1. BCH     score=  39.16  1h=  1.74%  24h= 26.94%
+ 2. PEPE    score=  22.67  1h=  1.24%  24h= -2.21%
+ 3. NEAR    score=  19.83  1h= -0.40%  24h=  9.06%
+ 4. TAO     score=  18.72  1h=  0.35%  24h=  9.96%
+ 5. SUI     score=  13.60  1h=  0.48%  24h=  0.29%
+ 6. UNI     score=  13.31  1h= -0.71%  24h=  5.17%
+ 7. HYPE    score=  10.30  1h=  1.25%  24h=  3.65%
+ 8. FIGR_HELOC  score=   8.90  1h=  1.71%  24h=  2.85%
+ 9. MNT     score=   8.55  1h=  0.47%  24h=  5.86%
+10. XRP     score=   8.29  1h=  0.32%  24h=  4.60%
