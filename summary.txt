@@ -1,19 +1,19 @@
-Updated: 2026-09-22T06:01:00.998735+00:00
+Updated: 2026-09-22T06:30:51.962138+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Pepe (PEPE)
-  Score: 66.851
-  1h: 2.88% | 24h: 28.50%
+  Score: 63.514
+  1h: 2.88% | 24h: 25.26%
   Price: $0.0000
 
 Top 10 by Momentum Score:
- 1. PEPE    score=  66.85  1h=  2.88%  24h= 28.50%
- 2. TAO     score=  42.52  1h=  3.97%  24h= 20.52%
- 3. SUI     score=  28.29  1h=  0.37%  24h=  8.90%
- 4. NEAR    score=  26.48  1h=  3.24%  24h=  3.27%
- 5. ENA     score=  25.15  1h=  3.63%  24h=  1.39%
- 6. DOGE    score=  23.36  1h=  0.32%  24h= 13.39%
- 7. UNI     score=  19.57  1h=  1.78%  24h=  4.31%
- 8. AAVE    score=  14.19  1h=  0.83%  24h=  4.28%
- 9. SHIB    score=  13.71  1h=  0.47%  24h=  9.25%
-10. PUMP    score=  12.49  1h=  1.40%  24h=  3.77%
+ 1. PEPE    score=  63.51  1h=  2.88%  24h= 25.26%
+ 2. TAO     score=  40.38  1h=  3.97%  24h= 18.30%
+ 3. NEAR    score=  25.77  1h=  3.24%  24h=  2.95%
+ 4. SUI     score=  23.95  1h=  0.37%  24h=  4.16%
+ 5. DOGE    score=  21.82  1h=  0.32%  24h= 11.82%
+ 6. ENA     score=  21.44  1h=  3.63%  24h= -2.01%
+ 7. UNI     score=  18.20  1h=  1.78%  24h=  2.94%
+ 8. SHIB    score=  11.84  1h=  0.47%  24h=  7.57%
+ 9. AAVE    score=  11.51  1h=  0.83%  24h=  1.84%
+10. PUMP    score=  11.39  1h=  1.40%  24h=  2.60%
