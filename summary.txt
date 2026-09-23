@@ -1,19 +1,19 @@
-Updated: 2026-09-23T15:30:51.769249+00:00
+Updated: 2026-09-23T16:01:03.443179+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  NEAR Protocol (NEAR)
-  Score: 12.375
-  1h: -2.32% | 24h: 4.54%
-  Price: $4.6400
+  Bitcoin Cash (BCH)
+  Score: 15.684
+  1h: 0.69% | 24h: 5.21%
+  Price: $344.5700
 
 Top 10 by Momentum Score:
- 1. NEAR    score=  12.38  1h= -2.32%  24h=  4.54%
- 2. UNI     score=  11.55  1h= -1.19%  24h=  1.18%
- 3. BTW     score=   7.47  1h= -0.53%  24h=  9.02%
- 4. RLUSD   score=   6.59  1h= -0.00%  24h=  0.00%
- 5. BCH     score=   3.29  1h= -3.20%  24h=  5.96%
- 6. FIGR_HELOC  score=   2.65  1h= -0.02%  24h=  2.41%
- 7. XAUT    score=   2.47  1h=  0.15%  24h= -0.97%
- 8. ZEC     score=   1.56  1h= -1.43%  24h=  3.20%
- 9. USDS    score=   0.86  1h=  0.00%  24h=  0.01%
-10. USDY    score=   0.33  1h=  0.10%  24h= -0.05%
+ 1. BCH     score=  15.68  1h=  0.69%  24h=  5.21%
+ 2. BTW     score=   7.82  1h= -0.50%  24h=  9.25%
+ 3. RLUSD   score=   6.55  1h=  0.00%  24h= -0.01%
+ 4. FIGR_HELOC  score=   2.59  1h= -0.02%  24h=  2.33%
+ 5. ENA     score=   1.62  1h= -1.57%  24h= -1.80%
+ 6. LEO     score=   1.13  1h=  0.26%  24h=  0.22%
+ 7. UNI     score=   0.97  1h= -3.66%  24h= -0.96%
+ 8. XAUT    score=   0.95  1h= -0.27%  24h= -1.12%
+ 9. USDS    score=   0.85  1h=  0.00%  24h= -0.01%
+10. USDY    score=   0.26  1h=  0.01%  24h=  0.16%
