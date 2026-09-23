@@ -1,19 +1,19 @@
-Updated: 2026-09-23T01:30:51.007536+00:00
+Updated: 2026-09-23T02:01:02.049099+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Uniswap (UNI)
-  Score: 36.396
-  1h: 1.39% | 24h: 17.70%
-  Price: $10.6500
+  Bitcoin Cash (BCH)
+  Score: 35.961
+  1h: -0.24% | 24h: 28.74%
+  Price: $341.5400
 
 Top 10 by Momentum Score:
- 1. UNI     score=  36.40  1h=  1.39%  24h= 17.70%
- 2. BCH     score=  33.75  1h= -0.90%  24h= 28.98%
- 3. BTW     score=  20.72  1h=  0.60%  24h= 18.40%
- 4. MNT     score=  11.52  1h=  1.23%  24h=  6.24%
- 5. XRP     score=  10.80  1h=  0.95%  24h=  4.94%
- 6. ENA     score=  10.77  1h= -0.03%  24h=  1.59%
- 7. HBAR    score=  10.43  1h=  0.10%  24h=  7.73%
- 8. PEPE    score=  10.08  1h= -1.23%  24h= -2.01%
- 9. DOGE    score=   9.52  1h=  0.34%  24h=  2.80%
-10. SUI     score=   9.48  1h= -0.00%  24h= -0.74%
+ 1. BCH     score=  35.96  1h= -0.24%  24h= 28.74%
+ 2. UNI     score=  34.98  1h=  1.51%  24h= 15.66%
+ 3. BTW     score=  19.46  1h= -1.16%  24h= 23.32%
+ 4. HBAR    score=  15.38  1h=  1.15%  24h=  8.80%
+ 5. DOGE    score=   9.69  1h=  0.69%  24h=  1.65%
+ 6. ENA     score=   9.42  1h= -0.41%  24h=  1.26%
+ 7. PEPE    score=   9.26  1h= -0.68%  24h= -4.39%
+ 8. ZEC     score=   7.20  1h= -1.12%  24h=  8.53%
+ 9. NEAR    score=   7.02  1h= -1.04%  24h= -0.81%
+10. SUI     score=   6.74  1h= -0.45%  24h= -1.85%
