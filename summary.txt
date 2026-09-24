@@ -1,19 +1,19 @@
-Updated: 2026-09-24T09:30:51.757775+00:00
+Updated: 2026-09-24T09:54:16.211927+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Litecoin (LTC)
-  Score: 11.941
-  1h: -0.91% | 24h: 7.29%
-  Price: $67.2600
+  Score: 11.703
+  1h: -0.91% | 24h: 6.89%
+  Price: $66.9400
 
 Top 10 by Momentum Score:
- 1. LTC     score=  11.94  1h= -0.91%  24h=  7.29%
- 2. MNT     score=   5.26  1h=  1.18%  24h=  0.12%
- 3. RLUSD   score=   5.21  1h= -0.01%  24h= -0.00%
- 4. BTW     score=   4.03  1h= -0.51%  24h=  5.46%
- 5. MORPHO  score=   1.62  1h= -0.96%  24h=  3.94%
- 6. USDY    score=   0.95  1h=  0.23%  24h=  0.05%
- 7. XAUT    score=   0.74  1h= -0.35%  24h= -1.35%
- 8. USDS    score=   0.58  1h= -0.01%  24h= -0.02%
- 9. FIGR_HELOC  score=   0.44  1h=  0.00%  24h=  0.37%
-10. USYC    score=   0.01  1h=  0.00%  24h=  0.01%
+ 1. LTC     score=  11.70  1h= -0.91%  24h=  6.89%
+ 2. RLUSD   score=   5.30  1h= -0.01%  24h= -0.01%
+ 3. BTW     score=   5.19  1h= -0.51%  24h=  6.62%
+ 4. MNT     score=   3.44  1h=  1.18%  24h= -1.76%
+ 5. USDY    score=   1.15  1h=  0.23%  24h=  0.25%
+ 6. XAUT    score=   0.82  1h= -0.35%  24h= -1.35%
+ 7. USDS    score=   0.58  1h= -0.01%  24h= -0.02%
+ 8. FIGR_HELOC  score=   0.44  1h=  0.00%  24h=  0.38%
+ 9. USYC    score=   0.01  1h=  0.00%  24h=  0.01%
+10. BUIDL   score=   0.00  1h=  0.00%  24h=  0.00%
