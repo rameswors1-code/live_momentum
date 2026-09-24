@@ -1,19 +1,19 @@
-Updated: 2026-09-24T11:30:52.781937+00:00
+Updated: 2026-09-24T12:01:06.641212+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Litecoin (LTC)
-  Score: 15.093
-  1h: 0.09% | 24h: 6.55%
-  Price: $66.4800
+  Score: 14.614
+  1h: 0.09% | 24h: 6.09%
+  Price: $66.3100
 
 Top 10 by Momentum Score:
- 1. LTC     score=  15.09  1h=  0.09%  24h=  6.55%
- 2. BTW     score=  14.04  1h=  1.19%  24h=  9.55%
- 3. ENA     score=  10.34  1h=  1.54%  24h= -2.63%
- 4. NEAR    score=   7.86  1h=  0.09%  24h= -6.14%
- 5. RLUSD   score=   5.46  1h=  0.02%  24h=  0.00%
- 6. ONDO    score=   5.41  1h=  0.30%  24h= -1.25%
- 7. SUI     score=   4.76  1h=  0.41%  24h= -5.63%
- 8. BCH     score=   3.92  1h=  1.02%  24h= -4.69%
- 9. DOT     score=   3.77  1h=  0.86%  24h= -3.40%
-10. UNI     score=   3.65  1h=  0.41%  24h= -7.16%
+ 1. LTC     score=  14.61  1h=  0.09%  24h=  6.09%
+ 2. BTW     score=  12.46  1h=  1.19%  24h=  7.96%
+ 3. ENA     score=   9.85  1h=  1.54%  24h= -3.68%
+ 4. NEAR    score=   5.94  1h=  0.09%  24h= -7.93%
+ 5. RLUSD   score=   5.50  1h=  0.02%  24h= -0.00%
+ 6. ONDO    score=   5.14  1h=  0.30%  24h= -1.55%
+ 7. BCH     score=   4.22  1h=  1.02%  24h= -4.06%
+ 8. SUI     score=   4.04  1h=  0.41%  24h= -6.41%
+ 9. UNI     score=   3.34  1h=  0.41%  24h= -7.43%
+10. DOT     score=   3.26  1h=  0.86%  24h= -3.81%
