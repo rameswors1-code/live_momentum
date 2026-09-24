@@ -1,19 +1,19 @@
-Updated: 2026-09-24T15:30:58.911893+00:00
+Updated: 2026-09-24T16:00:59.389935+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Ondo (ONDO)
-  Score: 45.405
-  1h: 2.92% | 24h: 22.57%
-  Price: $0.5108
+  Score: 49.968
+  1h: 3.30% | 24h: 24.87%
+  Price: $0.5130
 
 Top 10 by Momentum Score:
- 1. ONDO    score=  45.41  1h=  2.92%  24h= 22.57%
- 2. LTC     score=  38.48  1h=  1.90%  24h= 21.18%
- 3. ADA     score=  12.37  1h=  1.80%  24h=  3.63%
- 4. SUI     score=  10.90  1h= -0.06%  24h=  3.35%
- 5. NEAR    score=   9.76  1h= -0.31%  24h= -1.44%
- 6. AAVE    score=   7.13  1h=  0.01%  24h=  1.57%
- 7. ENA     score=   6.51  1h= -2.35%  24h=  6.05%
- 8. XLM     score=   6.00  1h=  0.79%  24h=  1.61%
- 9. DOGE    score=   5.29  1h=  0.08%  24h=  1.39%
-10. RLUSD   score=   5.14  1h= -0.00%  24h=  0.00%
+ 1. ONDO    score=  49.97  1h=  3.30%  24h= 24.87%
+ 2. LTC     score=  44.68  1h=  2.54%  24h= 24.90%
+ 3. NEAR    score=  28.15  1h=  2.28%  24h=  8.33%
+ 4. ENA     score=  20.67  1h=  1.28%  24h=  7.44%
+ 5. SUI     score=  18.35  1h=  1.62%  24h=  4.88%
+ 6. DOT     score=  17.08  1h=  1.87%  24h=  6.71%
+ 7. BTW     score=  16.42  1h=  1.46%  24h= 10.97%
+ 8. LINK    score=  15.63  1h=  2.51%  24h=  4.89%
+ 9. UNI     score=  14.64  1h=  1.54%  24h=  1.25%
+10. AAVE    score=  13.98  1h=  1.43%  24h=  3.48%
