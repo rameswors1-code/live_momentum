@@ -1,19 +1,19 @@
-Updated: 2026-09-26T20:30:48.296556+00:00
+Updated: 2026-09-26T21:00:58.117669+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Ethena (ENA)
-  Score: 13.473
-  1h: 0.02% | 24h: 3.05%
-  Price: $0.2700
+  Gram (prev. Toncoin) (GRAM)
+  Score: 9.585
+  1h: 0.06% | 24h: 8.40%
+  Price: $1.5600
 
 Top 10 by Momentum Score:
- 1. ENA     score=  13.47  1h=  0.02%  24h=  3.05%
- 2. SUI     score=   8.29  1h=  0.25%  24h= -1.06%
- 3. GRAM    score=   8.23  1h= -0.56%  24h=  9.22%
- 4. CC      score=   6.82  1h=  0.62%  24h=  4.32%
- 5. DOT     score=   6.24  1h= -0.46%  24h=  3.36%
- 6. TAO     score=   5.83  1h= -0.07%  24h=  1.95%
- 7. AAVE    score=   5.80  1h=  0.21%  24h=  0.74%
- 8. ZEC     score=   5.18  1h=  0.63%  24h=  2.04%
- 9. LTC     score=   5.07  1h=  0.06%  24h=  0.57%
-10. AVAX    score=   5.01  1h= -0.27%  24h=  1.50%
+ 1. GRAM    score=   9.59  1h=  0.06%  24h=  8.40%
+ 2. ENA     score=   8.31  1h= -1.05%  24h=  2.22%
+ 3. ZEC     score=   6.21  1h=  0.73%  24h=  2.72%
+ 4. M       score=   3.44  1h=  0.33%  24h=  2.27%
+ 5. AAVE    score=   2.91  1h= -0.71%  24h=  0.99%
+ 6. LTC     score=   2.71  1h= -0.54%  24h=  0.30%
+ 7. RLUSD   score=   2.33  1h= -0.00%  24h=  0.01%
+ 8. AVAX    score=   2.06  1h= -1.04%  24h=  1.29%
+ 9. FIGR_HELOC  score=   1.55  1h=  0.41%  24h=  0.11%
+10. MNT     score=   1.55  1h= -0.50%  24h=  2.56%
