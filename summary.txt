@@ -1,19 +1,19 @@
-Updated: 2026-09-26T21:00:58.117669+00:00
+Updated: 2026-09-26T21:30:48.715591+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Gram (prev. Toncoin) (GRAM)
-  Score: 9.585
-  1h: 0.06% | 24h: 8.40%
-  Price: $1.5600
+  Zcash (ZEC)
+  Score: 11.493
+  1h: 0.73% | 24h: 7.86%
+  Price: $1,646.7100
 
 Top 10 by Momentum Score:
- 1. GRAM    score=   9.59  1h=  0.06%  24h=  8.40%
- 2. ENA     score=   8.31  1h= -1.05%  24h=  2.22%
- 3. ZEC     score=   6.21  1h=  0.73%  24h=  2.72%
- 4. M       score=   3.44  1h=  0.33%  24h=  2.27%
- 5. AAVE    score=   2.91  1h= -0.71%  24h=  0.99%
- 6. LTC     score=   2.71  1h= -0.54%  24h=  0.30%
- 7. RLUSD   score=   2.33  1h= -0.00%  24h=  0.01%
- 8. AVAX    score=   2.06  1h= -1.04%  24h=  1.29%
- 9. FIGR_HELOC  score=   1.55  1h=  0.41%  24h=  0.11%
-10. MNT     score=   1.55  1h= -0.50%  24h=  2.56%
+ 1. ZEC     score=  11.49  1h=  0.73%  24h=  7.86%
+ 2. GRAM    score=  11.39  1h=  0.06%  24h= 10.19%
+ 3. ENA     score=  10.11  1h= -1.05%  24h=  3.72%
+ 4. AAVE    score=   4.06  1h= -0.71%  24h=  2.23%
+ 5. UNI     score=   3.98  1h= -0.74%  24h=  2.70%
+ 6. LTC     score=   3.84  1h= -0.54%  24h=  1.49%
+ 7. M       score=   3.40  1h=  0.33%  24h=  2.23%
+ 8. AVAX    score=   3.22  1h= -1.04%  24h=  2.43%
+ 9. MNT     score=   2.97  1h= -0.50%  24h=  3.97%
+10. RAIN    score=   2.77  1h= -1.42%  24h=  7.66%
