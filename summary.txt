@@ -1,19 +1,19 @@
-Updated: 2026-09-26T18:00:55.971852+00:00
+Updated: 2026-09-26T18:30:51.536350+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Rain (RAIN)
-  Score: 20.512
-  1h: 2.44% | 24h: 11.91%
-  Price: $0.0133
+  Score: 18.89
+  1h: 2.44% | 24h: 10.28%
+  Price: $0.0131
 
 Top 10 by Momentum Score:
- 1. RAIN    score=  20.51  1h=  2.44%  24h= 11.91%
- 2. ENA     score=  12.58  1h= -0.90%  24h=  4.11%
- 3. SUI     score=  11.74  1h= -0.66%  24h=  4.86%
- 4. TAO     score=   8.18  1h= -1.31%  24h=  8.61%
- 5. NEAR    score=   7.82  1h=  1.20%  24h= -2.10%
- 6. GRAM    score=   7.65  1h= -0.22%  24h=  7.76%
- 7. LINK    score=   6.71  1h=  0.09%  24h=  4.08%
- 8. AAVE    score=   6.51  1h=  0.13%  24h=  1.35%
- 9. LTC     score=   4.15  1h= -0.97%  24h=  3.05%
-10. AVAX    score=   4.10  1h= -1.31%  24h=  4.23%
+ 1. RAIN    score=  18.89  1h=  2.44%  24h= 10.28%
+ 2. ENA     score=  12.76  1h= -0.90%  24h=  4.57%
+ 3. SUI     score=  10.86  1h= -0.66%  24h=  4.21%
+ 4. GRAM    score=   8.65  1h= -0.22%  24h=  8.72%
+ 5. NEAR    score=   7.01  1h=  1.20%  24h= -2.73%
+ 6. TAO     score=   6.77  1h= -1.31%  24h=  7.20%
+ 7. LINK    score=   5.34  1h=  0.09%  24h=  2.73%
+ 8. AAVE    score=   4.78  1h=  0.13%  24h= -0.23%
+ 9. AVAX    score=   3.29  1h= -1.31%  24h=  3.40%
+10. LTC     score=   3.27  1h= -0.97%  24h=  2.21%
