@@ -1,19 +1,19 @@
-Updated: 2026-09-28T10:00:55.176710+00:00
+Updated: 2026-09-28T10:30:51.455526+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Hedera (HBAR)
-  Score: 42.164
-  1h: 5.43% | 24h: 18.86%
-  Price: $0.1124
+  Score: 45.192
+  1h: 5.43% | 24h: 21.25%
+  Price: $0.1149
 
 Top 10 by Momentum Score:
- 1. HBAR    score=  42.16  1h=  5.43%  24h= 18.86%
- 2. BTW     score=  29.11  1h=  1.34%  24h= 24.01%
- 3. GRAM    score=  12.66  1h=  2.27%  24h=  3.35%
- 4. CC      score=  10.63  1h=  2.01%  24h=  3.31%
- 5. PUMP    score=   6.74  1h= -2.39%  24h=  7.27%
- 6. RLUSD   score=   2.99  1h= -0.01%  24h= -0.01%
- 7. XAUT    score=   1.24  1h=  0.23%  24h= -2.82%
- 8. XLM     score=   0.83  1h=  0.65%  24h= -2.98%
- 9. TRX     score=   0.82  1h=  0.08%  24h=  0.13%
-10. ENA     score=   0.72  1h= -1.17%  24h= -3.94%
+ 1. HBAR    score=  45.19  1h=  5.43%  24h= 21.25%
+ 2. GRAM    score=  14.18  1h=  2.27%  24h=  4.85%
+ 3. BTW     score=   9.91  1h=  1.34%  24h=  4.80%
+ 4. QNT     score=   6.74  1h=-11.82%  24h= 31.88%
+ 5. PUMP    score=   5.82  1h= -2.39%  24h=  6.27%
+ 6. CC      score=   3.45  1h=  2.01%  24h= -3.89%
+ 7. RLUSD   score=   3.03  1h= -0.01%  24h= -0.01%
+ 8. XAUT    score=   1.34  1h=  0.23%  24h= -2.77%
+ 9. XLM     score=   1.01  1h=  0.65%  24h= -2.85%
+10. TRX     score=   0.84  1h=  0.08%  24h=  0.15%
