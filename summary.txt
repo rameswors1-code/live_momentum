@@ -1,19 +1,19 @@
-Updated: 2026-09-28T19:30:51.998172+00:00
+Updated: 2026-09-28T20:00:58.103362+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Quant (QNT)
-  Score: 45.898
-  1h: 0.70% | 24h: 25.57%
-  Price: $237.4900
+  Score: 42.666
+  1h: -1.63% | 24h: 30.34%
+  Price: $241.0000
 
 Top 10 by Momentum Score:
- 1. QNT     score=  45.90  1h=  0.70%  24h= 25.57%
- 2. HBAR    score=  35.85  1h= -2.21%  24h= 33.70%
- 3. XLM     score=  16.70  1h=  2.09%  24h=  5.65%
- 4. PUMP    score=  15.37  1h=  0.24%  24h=  5.14%
- 5. LINK    score=  14.68  1h=  0.88%  24h=  7.35%
- 6. SUI     score=   5.72  1h=  0.20%  24h= -8.53%
- 7. ONDO    score=   4.52  1h= -0.07%  24h= -7.18%
- 8. RLUSD   score=   4.26  1h=  0.00%  24h= -0.00%
- 9. CRO     score=   4.01  1h=  0.41%  24h=  2.27%
-10. LTC     score=   2.95  1h=  0.32%  24h= -2.65%
+ 1. QNT     score=  42.67  1h= -1.63%  24h= 30.34%
+ 2. HBAR    score=  22.29  1h= -4.34%  24h= 27.84%
+ 3. LINK    score=   8.02  1h= -1.14%  24h=  7.65%
+ 4. RLUSD   score=   4.25  1h= -0.01%  24h= -0.00%
+ 5. XLM     score=   3.79  1h= -1.39%  24h=  4.87%
+ 6. PUMP    score=   3.41  1h= -2.88%  24h=  4.06%
+ 7. LEO     score=   1.63  1h=  0.28%  24h=  0.65%
+ 8. TRX     score=   0.82  1h= -0.08%  24h=  0.63%
+ 9. USDS    score=   0.59  1h=  0.00%  24h= -0.02%
+10. USYC    score=   0.01  1h=  0.00%  24h=  0.01%
