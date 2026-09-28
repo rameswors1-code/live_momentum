@@ -1,19 +1,19 @@
-Updated: 2026-09-28T15:30:57.599925+00:00
+Updated: 2026-09-28T16:01:03.980850+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Hedera (HBAR)
-  Score: 25.035
-  1h: -2.30% | 24h: 25.78%
-  Price: $0.1175
+  Score: 67.663
+  1h: 7.04% | 24h: 34.81%
+  Price: $0.1260
 
 Top 10 by Momentum Score:
- 1. HBAR    score=  25.04  1h= -2.30%  24h= 25.78%
- 2. QNT     score=  23.25  1h= -6.50%  24h= 28.49%
- 3. RLUSD   score=   3.64  1h= -0.01%  24h=  0.02%
- 4. USDS    score=   0.38  1h= -0.00%  24h= -0.03%
- 5. FIGR_HELOC  score=   0.10  1h=  0.02%  24h=  0.00%
- 6. LEO     score=   0.05  1h=  0.03%  24h= -0.08%
- 7. USYC    score=   0.01  1h=  0.00%  24h=  0.01%
- 8. BUIDL   score=   0.00  1h=  0.00%  24h=  0.00%
- 9. USDY    score=  -0.17  1h= -0.06%  24h= -0.08%
-10. ONDO    score=  -0.30  1h= -2.19%  24h= -3.94%
+ 1. HBAR    score=  67.66  1h=  7.04%  24h= 34.81%
+ 2. QNT     score=  27.98  1h= -4.01%  24h= 24.50%
+ 3. PUMP    score=  20.99  1h=  2.07%  24h=  4.89%
+ 4. LINK    score=  11.88  1h=  1.80%  24h=  2.25%
+ 5. XLM     score=  11.38  1h=  1.73%  24h=  2.44%
+ 6. ONDO    score=   6.25  1h=  0.09%  24h= -5.61%
+ 7. CRO     score=   5.76  1h=  1.26%  24h=  1.07%
+ 8. LTC     score=   5.62  1h=  0.85%  24h= -1.51%
+ 9. SUI     score=   5.43  1h= -0.18%  24h= -7.14%
+10. ADA     score=   4.08  1h=  1.52%  24h= -3.90%
