@@ -1,19 +1,19 @@
-Updated: 2026-09-28T11:00:54.815306+00:00
+Updated: 2026-09-28T11:30:52.173614+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Quant (QNT)
-  Score: 88.063
-  1h: 10.47% | 24h: 34.92%
-  Price: $230.7200
+  Score: 100.386
+  1h: 10.47% | 24h: 47.04%
+  Price: $243.1700
 
 Top 10 by Momentum Score:
- 1. QNT     score=  88.06  1h= 10.47%  24h= 34.92%
- 2. HBAR    score=  36.86  1h=  2.82%  24h= 22.12%
- 3. PUMP    score=  19.33  1h=  0.99%  24h=  7.82%
- 4. ONDO    score=  13.26  1h=  2.16%  24h= -4.66%
- 5. LTC     score=   9.67  1h=  1.91%  24h= -0.45%
- 6. NEAR    score=   8.87  1h=  1.29%  24h= -2.93%
- 7. LINK    score=   8.16  1h=  2.57%  24h= -2.96%
- 8. GRAM    score=   6.35  1h=  0.80%  24h=  2.15%
- 9. ENA     score=   5.98  1h=  0.43%  24h= -4.39%
-10. SUI     score=   5.87  1h=  0.37%  24h= -6.53%
+ 1. QNT     score= 100.39  1h= 10.47%  24h= 47.04%
+ 2. HBAR    score=  38.15  1h=  2.82%  24h= 22.65%
+ 3. PUMP    score=  21.37  1h=  0.99%  24h=  9.74%
+ 4. ONDO    score=  13.96  1h=  2.16%  24h= -4.11%
+ 5. NEAR    score=  10.41  1h=  1.29%  24h= -1.46%
+ 6. LTC     score=  10.37  1h=  1.91%  24h=  0.14%
+ 7. LINK    score=   9.07  1h=  2.57%  24h= -2.09%
+ 8. SUI     score=   7.44  1h=  0.37%  24h= -5.22%
+ 9. ENA     score=   6.48  1h=  0.43%  24h= -3.88%
+10. GRAM    score=   6.23  1h=  0.80%  24h=  2.02%
