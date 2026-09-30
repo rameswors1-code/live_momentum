@@ -1,19 +1,19 @@
-Updated: 2026-09-30T20:01:02.969042+00:00
+Updated: 2026-09-30T20:30:53.165583+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Quant (QNT)
-  Score: 18.327
-  1h: -0.35% | 24h: 10.98%
-  Price: $295.6400
+  Ethena (ENA)
+  Score: 16.711
+  1h: -0.22% | 24h: 5.70%
+  Price: $0.2652
 
 Top 10 by Momentum Score:
- 1. QNT     score=  18.33  1h= -0.35%  24h= 10.98%
- 2. ENA     score=  16.19  1h= -0.22%  24h=  5.23%
- 3. HBAR    score=  11.24  1h=  1.23%  24h=  4.23%
- 4. NEAR    score=   9.43  1h= -1.51%  24h=  6.97%
- 5. SUI     score=   4.31  1h= -1.43%  24h=  0.24%
- 6. FIGR_HELOC  score=   3.89  1h= -0.03%  24h=  2.85%
- 7. MNT     score=   3.60  1h= -0.33%  24h=  4.06%
- 8. RLUSD   score=   3.58  1h= -0.01%  24h=  0.00%
- 9. ZEC     score=   2.84  1h= -0.24%  24h=  1.88%
-10. HYPE    score=   2.56  1h= -1.08%  24h=  4.23%
+ 1. ENA     score=  16.71  1h= -0.22%  24h=  5.70%
+ 2. QNT     score=  16.30  1h= -0.35%  24h=  8.99%
+ 3. HBAR    score=  12.78  1h=  1.23%  24h=  5.79%
+ 4. NEAR    score=  10.62  1h= -1.51%  24h=  7.39%
+ 5. SUI     score=   4.80  1h= -1.43%  24h=  0.98%
+ 6. ONDO    score=   4.25  1h=  0.06%  24h= -2.38%
+ 7. FIGR_HELOC  score=   3.93  1h= -0.03%  24h=  2.84%
+ 8. MNT     score=   3.71  1h= -0.33%  24h=  4.18%
+ 9. RLUSD   score=   3.69  1h= -0.01%  24h=  0.01%
+10. HYPE    score=   3.49  1h= -1.08%  24h=  5.18%
