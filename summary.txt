@@ -1,19 +1,19 @@
-Updated: 2026-10-01T16:00:59.139047+00:00
+Updated: 2026-10-01T16:30:56.085627+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Bitway (BTW)
-  Score: 16.247
-  1h: 0.50% | 24h: 14.07%
-  Price: $1.4400
+  Aave (AAVE)
+  Score: 15.468
+  1h: 1.28% | 24h: 4.35%
+  Price: $167.0100
 
 Top 10 by Momentum Score:
- 1. BTW     score=  16.25  1h=  0.50%  24h= 14.07%
- 2. AAVE    score=  16.20  1h=  1.28%  24h=  5.16%
- 3. SUI     score=   8.46  1h=  1.26%  24h= -3.00%
- 4. UNI     score=   6.73  1h=  0.28%  24h=  0.93%
- 5. NEAR    score=   6.42  1h=  1.40%  24h= -7.43%
- 6. PUMP    score=   5.47  1h=  1.14%  24h= -3.63%
- 7. ADA     score=   3.70  1h=  0.54%  24h= -0.31%
- 8. BCH     score=   3.00  1h=  0.55%  24h=  0.05%
- 9. XAUT    score=   2.96  1h=  0.17%  24h=  0.28%
-10. RLUSD   score=   2.86  1h= -0.02%  24h= -0.01%
+ 1. AAVE    score=  15.47  1h=  1.28%  24h=  4.35%
+ 2. BTW     score=  15.09  1h=  0.50%  24h= 12.93%
+ 3. SUI     score=   8.55  1h=  1.26%  24h= -2.64%
+ 4. PUMP    score=   7.11  1h=  1.14%  24h= -1.89%
+ 5. UNI     score=   6.87  1h=  0.28%  24h=  1.12%
+ 6. NEAR    score=   4.81  1h=  1.40%  24h= -9.04%
+ 7. ADA     score=   3.37  1h=  0.54%  24h= -0.63%
+ 8. RLUSD   score=   2.86  1h= -0.02%  24h=  0.00%
+ 9. XAUT    score=   2.81  1h=  0.17%  24h=  0.10%
+10. BCH     score=   2.53  1h=  0.55%  24h= -0.39%
