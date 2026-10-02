@@ -1,19 +1,19 @@
-Updated: 2026-10-02T01:30:45.113542+00:00
+Updated: 2026-10-02T02:00:58.563742+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Blockchain USD (USDB)
-  Score: 5955.396
-  1h: -4.75% | 24h: 5972.01%
-  Price: $0.9323
+  Aave (AAVE)
+  Score: 24.253
+  1h: 1.91% | 24h: 9.08%
+  Price: $176.2300
 
 Top 10 by Momentum Score:
- 1. USDB    score=5955.40  1h= -4.75%  24h=5972.01%
- 2. AAVE    score=  19.16  1h=  0.81%  24h=  8.15%
- 3. BTW     score=  14.53  1h=  1.86%  24h=  7.65%
- 4. LTC     score=   9.29  1h=  1.34%  24h=  2.04%
- 5. UNI     score=   4.87  1h= -0.10%  24h=  0.28%
- 6. SUI     score=   4.16  1h= -0.15%  24h= -1.69%
- 7. PUMP    score=   3.87  1h= -0.19%  24h= -0.33%
- 8. SOL     score=   3.59  1h=  0.40%  24h=  0.28%
- 9. GRAM    score=   3.36  1h= -0.37%  24h=  4.15%
-10. RLUSD   score=   3.05  1h=  0.00%  24h=  0.00%
+ 1. AAVE    score=  24.25  1h=  1.91%  24h=  9.08%
+ 2. SUI     score=   8.53  1h=  0.47%  24h=  0.63%
+ 3. UNI     score=   6.74  1h=  0.09%  24h=  1.38%
+ 4. NEAR    score=   6.14  1h=  1.18%  24h= -6.74%
+ 5. BCH     score=   4.99  1h=  0.93%  24h=  0.36%
+ 6. SOL     score=   4.98  1h=  0.55%  24h=  1.17%
+ 7. GRAM    score=   4.73  1h= -0.12%  24h=  4.65%
+ 8. TAO     score=   4.65  1h=  0.31%  24h=  1.09%
+ 9. LTC     score=   4.50  1h= -0.16%  24h=  2.50%
+10. AVAX    score=   3.62  1h= -0.23%  24h=  0.39%
