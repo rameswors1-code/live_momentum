@@ -1,19 +1,19 @@
-Updated: 2026-10-02T17:01:02.713542+00:00
+Updated: 2026-10-02T17:30:56.262769+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Aave (AAVE)
-  Score: 19.952
-  1h: 0.07% | 24h: 10.33%
-  Price: $183.4400
+  Score: 17.754
+  1h: 0.07% | 24h: 8.20%
+  Price: $182.1400
 
 Top 10 by Momentum Score:
- 1. AAVE    score=  19.95  1h=  0.07%  24h= 10.33%
- 2. PUMP    score=   9.84  1h= -1.36%  24h=  5.78%
- 3. SUI     score=   9.78  1h=  0.31%  24h=  1.97%
- 4. ADA     score=   6.06  1h=  0.20%  24h=  2.94%
- 5. NEAR    score=   6.02  1h=  0.00%  24h= -0.50%
- 6. AVAX    score=   5.71  1h= -0.22%  24h=  2.91%
- 7. TAO     score=   5.30  1h=  0.01%  24h=  2.51%
- 8. SOL     score=   5.22  1h=  0.07%  24h=  2.41%
- 9. ENA     score=   4.80  1h= -0.63%  24h= -1.71%
-10. RLUSD   score=   4.59  1h= -0.01%  24h= -0.01%
+ 1. AAVE    score=  17.75  1h=  0.07%  24h=  8.20%
+ 2. PUMP    score=   8.49  1h= -1.36%  24h=  4.61%
+ 3. SUI     score=   6.17  1h=  0.31%  24h= -1.55%
+ 4. NEAR    score=   4.91  1h=  0.00%  24h= -1.32%
+ 5. RLUSD   score=   4.58  1h= -0.01%  24h= -0.02%
+ 6. SOL     score=   3.53  1h=  0.07%  24h=  0.75%
+ 7. BTW     score=   3.46  1h=  0.49%  24h=  1.58%
+ 8. AVAX    score=   3.36  1h= -0.22%  24h=  0.54%
+ 9. XAUT    score=   3.29  1h=  0.26%  24h= -1.05%
+10. ENA     score=   3.28  1h= -0.63%  24h= -3.15%
