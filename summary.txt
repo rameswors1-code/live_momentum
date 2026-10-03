@@ -1,19 +1,19 @@
-Updated: 2026-10-03T18:30:48.327667+00:00
+Updated: 2026-10-03T19:00:54.039586+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Rain (RAIN)
-  Score: 18.857
-  1h: 5.61% | 24h: -0.80%
-  Price: $0.0111
+  Pump.fun (PUMP)
+  Score: 22.244
+  1h: -0.61% | 24h: 19.77%
+  Price: $0.0064
 
 Top 10 by Momentum Score:
- 1. RAIN    score=  18.86  1h=  5.61%  24h= -0.80%
- 2. QNT     score=  13.94  1h=  0.89%  24h=  7.45%
- 3. PUMP    score=  12.76  1h= -0.61%  24h= 10.14%
- 4. SUI     score=   8.83  1h=  0.29%  24h=  2.16%
- 5. AVAX    score=   7.52  1h=  0.51%  24h=  1.91%
- 6. UNI     score=   7.42  1h=  0.45%  24h=  1.50%
- 7. BNB     score=   6.50  1h=  1.08%  24h=  2.45%
- 8. ENA     score=   5.96  1h=  0.91%  24h= -2.01%
- 9. BCH     score=   5.74  1h=  0.56%  24h=  2.83%
-10. NEAR    score=   5.38  1h=  0.64%  24h=  0.07%
+ 1. PUMP    score=  22.24  1h= -0.61%  24h= 19.77%
+ 2. RAIN    score=  20.54  1h=  5.61%  24h=  0.86%
+ 3. QNT     score=  14.62  1h=  0.89%  24h=  8.22%
+ 4. SUI     score=  10.84  1h=  0.29%  24h=  4.63%
+ 5. AVAX    score=  10.23  1h=  0.51%  24h=  5.04%
+ 6. TAO     score=   9.18  1h=  1.21%  24h=  2.80%
+ 7. UNI     score=   8.91  1h=  0.45%  24h=  3.25%
+ 8. ENA     score=   8.15  1h=  0.91%  24h=  0.63%
+ 9. BCH     score=   7.65  1h=  0.56%  24h=  4.85%
+10. BNB     score=   7.36  1h=  1.08%  24h=  3.33%
