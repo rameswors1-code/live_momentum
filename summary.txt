@@ -1,19 +1,19 @@
-Updated: 2026-10-03T11:00:56.532774+00:00
+Updated: 2026-10-03T11:30:44.277389+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Worldcoin (WLD)
-  Score: 40.142
-  1h: 4.87% | 24h: 11.67%
-  Price: $0.6009
+  Score: 39.096
+  1h: 4.87% | 24h: 10.68%
+  Price: $0.5967
 
 Top 10 by Momentum Score:
- 1. WLD     score=  40.14  1h=  4.87%  24h= 11.67%
- 2. QNT     score=  12.13  1h= -0.85%  24h= 10.79%
- 3. AAVE    score=   6.96  1h=  0.54%  24h= -1.43%
- 4. UNI     score=   6.96  1h= -0.15%  24h=  2.56%
- 5. SUI     score=   6.84  1h= -0.22%  24h=  0.50%
- 6. LTC     score=   6.01  1h=  0.96%  24h= -0.74%
- 7. AVAX    score=   4.74  1h=  0.54%  24h= -1.23%
- 8. PUMP    score=   2.96  1h=  0.86%  24h= -5.21%
- 9. RLUSD   score=   2.77  1h= -0.01%  24h=  0.00%
-10. NEAR    score=   2.58  1h=  0.52%  24h= -3.90%
+ 1. WLD     score=  39.10  1h=  4.87%  24h= 10.68%
+ 2. QNT     score=   6.70  1h= -0.85%  24h=  5.45%
+ 3. AAVE    score=   6.44  1h=  0.54%  24h= -1.90%
+ 4. LTC     score=   6.27  1h=  0.96%  24h= -0.50%
+ 5. SUI     score=   6.24  1h= -0.22%  24h= -0.12%
+ 6. UNI     score=   5.96  1h= -0.15%  24h=  1.49%
+ 7. AVAX    score=   4.48  1h=  0.54%  24h= -1.44%
+ 8. NEAR    score=   2.54  1h=  0.52%  24h= -3.90%
+ 9. RLUSD   score=   2.52  1h= -0.01%  24h=  0.00%
+10. FIGR_HELOC  score=   2.23  1h= -0.00%  24h=  2.18%
