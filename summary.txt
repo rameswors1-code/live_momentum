@@ -1,19 +1,19 @@
-Updated: 2026-10-03T01:52:23.714057+00:00
+Updated: 2026-10-03T02:00:58.312054+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Pump.fun (PUMP)
-  Score: 27.583
-  1h: 5.83% | 24h: -2.41%
-  Price: $0.0056
+  Aave (AAVE)
+  Score: 15.871
+  1h: 1.21% | 24h: 2.97%
+  Price: $181.4900
 
 Top 10 by Momentum Score:
- 1. PUMP    score=  27.58  1h=  5.83%  24h= -2.41%
- 2. SUI     score=  20.50  1h=  3.47%  24h=  0.69%
- 3. QNT     score=  14.33  1h=  3.11%  24h= -1.40%
- 4. LTC     score=  12.38  1h=  1.81%  24h=  2.44%
- 5. AAVE    score=  11.65  1h= -0.12%  24h=  3.40%
- 6. UNI     score=  10.81  1h=  1.23%  24h=  2.01%
- 7. AVAX    score=   8.70  1h=  1.09%  24h=  0.24%
- 8. ENA     score=   7.75  1h=  0.69%  24h= -2.49%
- 9. ADA     score=   6.98  1h=  0.88%  24h=  0.87%
-10. ZEC     score=   6.50  1h=  1.45%  24h= -0.25%
+ 1. AAVE    score=  15.87  1h=  1.21%  24h=  2.97%
+ 2. BTW     score=   8.96  1h=  2.86%  24h= -1.25%
+ 3. UNI     score=   8.53  1h=  0.73%  24h=  1.50%
+ 4. ENA     score=   5.05  1h= -0.03%  24h= -2.95%
+ 5. AVAX    score=   5.01  1h=  0.09%  24h=  0.06%
+ 6. ADA     score=   4.66  1h=  0.34%  24h=  0.42%
+ 7. BCH     score=   4.63  1h=  0.37%  24h=  1.98%
+ 8. RLUSD   score=   4.24  1h= -0.01%  24h= -0.00%
+ 9. SUI     score=   3.53  1h= -1.12%  24h= -0.69%
+10. XAUT    score=   3.23  1h= -0.03%  24h= -0.30%
