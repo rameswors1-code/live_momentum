@@ -1,19 +1,19 @@
-Updated: 2026-10-04T20:30:44.104680+00:00
+Updated: 2026-10-04T21:01:01.541785+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Sky (SKY)
-  Score: 14.183
-  1h: 1.03% | 24h: 10.17%
-  Price: $0.0976
+  Score: 9.821
+  1h: 0.17% | 24h: 8.79%
+  Price: $0.0966
 
 Top 10 by Momentum Score:
- 1. SKY     score=  14.18  1h=  1.03%  24h= 10.17%
- 2. ADA     score=   7.88  1h=  1.16%  24h=  2.16%
- 3. DOGE    score=   4.82  1h=  0.31%  24h=  2.40%
- 4. FIGR_HELOC  score=   4.73  1h=  0.11%  24h=  4.33%
- 5. LTC     score=   4.62  1h= -0.09%  24h=  2.72%
- 6. SHIB    score=   4.32  1h=  0.69%  24h=  1.20%
- 7. CC      score=   4.30  1h= -0.10%  24h=  4.56%
- 8. QNT     score=   4.17  1h=  0.67%  24h= -0.65%
- 9. SUI     score=   4.08  1h= -0.98%  24h=  2.20%
-10. ENA     score=   3.92  1h= -0.22%  24h=  0.16%
+ 1. SKY     score=   9.82  1h=  0.17%  24h=  8.79%
+ 2. NEAR    score=   7.75  1h= -0.11%  24h=  4.57%
+ 3. PUMP    score=   6.05  1h= -0.07%  24h=  1.92%
+ 4. ENA     score=   5.73  1h=  0.16%  24h=  0.63%
+ 5. DOGE    score=   5.71  1h=  0.42%  24h=  2.84%
+ 6. SUI     score=   5.17  1h= -0.64%  24h=  2.31%
+ 7. CC      score=   5.11  1h=  0.08%  24h=  4.77%
+ 8. FIGR_HELOC  score=   4.71  1h=  0.11%  24h=  4.31%
+ 9. HYPE    score=   3.73  1h=  0.37%  24h=  1.61%
+10. TAO     score=   3.64  1h=  0.06%  24h=  1.59%
