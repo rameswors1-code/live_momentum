@@ -1,19 +1,19 @@
-Updated: 2026-10-04T22:30:49.669708+00:00
+Updated: 2026-10-04T23:00:53.036117+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Shiba Inu (SHIB)
-  Score: 12.089
-  1h: 2.07% | 24h: 4.01%
-  Price: $0.0000
+  Bitway (BTW)
+  Score: 13.571
+  1h: -2.14% | 24h: 20.63%
+  Price: $1.2500
 
 Top 10 by Momentum Score:
- 1. SHIB    score=  12.09  1h=  2.07%  24h=  4.01%
- 2. ADA     score=   9.25  1h=  0.63%  24h=  5.19%
- 3. SKY     score=   8.55  1h=  0.07%  24h=  7.87%
- 4. PUMP    score=   8.44  1h=  0.58%  24h=  1.99%
- 5. DOGE    score=   8.07  1h=  0.67%  24h=  4.11%
- 6. CRO     score=   6.64  1h=  0.99%  24h=  3.09%
- 7. SUI     score=   6.31  1h= -0.49%  24h=  2.52%
- 8. CC      score=   5.80  1h=  0.25%  24h=  4.84%
- 9. ZEC     score=   5.04  1h=  0.11%  24h=  3.75%
-10. ENA     score=   4.36  1h= -0.42%  24h=  1.34%
+ 1. BTW     score=  13.57  1h= -2.14%  24h= 20.63%
+ 2. SHIB    score=  11.86  1h=  2.07%  24h=  3.80%
+ 3. ADA     score=  11.55  1h=  0.63%  24h=  7.04%
+ 4. PUMP    score=  10.26  1h=  0.58%  24h=  3.75%
+ 5. DOGE    score=   7.79  1h=  0.67%  24h=  3.76%
+ 6. CRO     score=   7.15  1h=  0.99%  24h=  3.59%
+ 7. SUI     score=   6.50  1h= -0.49%  24h=  2.64%
+ 8. CC      score=   5.90  1h=  0.25%  24h=  4.95%
+ 9. ZEC     score=   5.45  1h=  0.11%  24h=  4.14%
+10. ENA     score=   4.76  1h= -0.42%  24h=  1.54%
