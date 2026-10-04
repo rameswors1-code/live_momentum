@@ -1,19 +1,19 @@
-Updated: 2026-10-04T11:01:00.783840+00:00
+Updated: 2026-10-04T11:30:44.950298+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Pump.fun (PUMP)
-  Score: 13.677
-  1h: -1.45% | 24h: 13.70%
+  Score: 13.444
+  1h: -1.45% | 24h: 13.59%
   Price: $0.0063
 
 Top 10 by Momentum Score:
- 1. PUMP    score=  13.68  1h= -1.45%  24h= 13.70%
- 2. NEAR    score=  12.04  1h=  1.38%  24h=  4.10%
- 3. CRO     score=   6.01  1h=  0.31%  24h=  4.83%
- 4. LTC     score=   5.75  1h=  0.44%  24h=  2.07%
- 5. ENA     score=   3.91  1h= -0.45%  24h=  1.44%
- 6. HYPE    score=   3.60  1h= -0.09%  24h=  2.97%
- 7. BCH     score=   2.87  1h= -0.03%  24h=  1.96%
- 8. ZEC     score=   2.76  1h=  0.13%  24h=  1.29%
- 9. TAO     score=   2.68  1h= -0.70%  24h=  3.37%
-10. SUI     score=   2.63  1h= -0.03%  24h= -0.40%
+ 1. PUMP    score=  13.44  1h= -1.45%  24h= 13.59%
+ 2. NEAR    score=  12.75  1h=  1.38%  24h=  4.74%
+ 3. LTC     score=   5.88  1h=  0.44%  24h=  2.26%
+ 4. CRO     score=   5.44  1h=  0.31%  24h=  4.25%
+ 5. ENA     score=   4.55  1h= -0.45%  24h=  2.08%
+ 6. TAO     score=   3.46  1h= -0.70%  24h=  4.03%
+ 7. HYPE    score=   3.37  1h= -0.09%  24h=  2.76%
+ 8. ZEC     score=   3.05  1h=  0.13%  24h=  1.58%
+ 9. SUI     score=   2.95  1h= -0.03%  24h= -0.05%
+10. BCH     score=   2.72  1h= -0.03%  24h=  1.81%
