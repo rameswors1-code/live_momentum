@@ -1,19 +1,19 @@
-Updated: 2026-10-05T18:00:59.834871+00:00
+Updated: 2026-10-05T18:19:30.971087+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Bitway (BTW)
-  Score: 17.233
-  1h: 4.35% | 24h: 1.52%
-  Price: $1.2600
+  Ethena (ENA)
+  Score: 17.803
+  1h: 1.91% | 24h: 4.85%
+  Price: $0.2517
 
 Top 10 by Momentum Score:
- 1. BTW     score=  17.23  1h=  4.35%  24h=  1.52%
- 2. ENA     score=  16.89  1h=  1.91%  24h=  3.94%
- 3. NEAR    score=  11.82  1h=  1.43%  24h=  2.33%
- 4. OKB     score=  11.14  1h=  1.38%  24h=  5.49%
- 5. ADA     score=  10.73  1h= -0.24%  24h=  6.71%
- 6. AAVE    score=   6.66  1h= -0.16%  24h=  1.69%
- 7. HYPE    score=   5.79  1h= -0.02%  24h=  3.85%
- 8. SUI     score=   5.09  1h=  0.31%  24h= -2.70%
- 9. ZEC     score=   4.77  1h=  1.37%  24h= -1.33%
-10. UNI     score=   4.57  1h=  0.51%  24h= -0.62%
+ 1. ENA     score=  17.80  1h=  1.91%  24h=  4.85%
+ 2. BTW     score=  16.82  1h=  4.35%  24h=  1.10%
+ 3. OKB     score=  11.25  1h=  1.38%  24h=  5.59%
+ 4. NEAR    score=  11.19  1h=  1.43%  24h=  1.63%
+ 5. ADA     score=  10.95  1h= -0.24%  24h=  6.92%
+ 6. AAVE    score=   6.95  1h= -0.16%  24h=  1.99%
+ 7. HYPE    score=   5.83  1h= -0.02%  24h=  3.86%
+ 8. ZEC     score=   5.55  1h=  1.37%  24h= -0.63%
+ 9. UNI     score=   5.51  1h=  0.51%  24h=  0.37%
+10. SUI     score=   5.07  1h=  0.31%  24h= -2.68%
