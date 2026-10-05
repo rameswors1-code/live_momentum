@@ -1,19 +1,19 @@
-Updated: 2026-10-05T07:31:23.788572+00:00
+Updated: 2026-10-05T08:01:00.220450+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Sui (SUI)
-  Score: 17.293
-  1h: 1.32% | 24h: 5.60%
-  Price: $1.2400
+  Ethena (ENA)
+  Score: 31.266
+  1h: 5.69% | 24h: 5.82%
+  Price: $0.2537
 
 Top 10 by Momentum Score:
- 1. SUI     score=  17.29  1h=  1.32%  24h=  5.60%
- 2. ADA     score=  17.01  1h=  0.69%  24h= 10.73%
- 3. NEAR    score=  15.94  1h=  1.14%  24h=  7.99%
- 4. ENA     score=  12.24  1h=  0.89%  24h=  4.18%
- 5. OKB     score=   8.85  1h=  1.12%  24h=  4.48%
- 6. DOGE    score=   8.38  1h=  0.79%  24h=  3.58%
- 7. SHIB    score=   7.02  1h=  0.47%  24h=  4.28%
- 8. ONDO    score=   6.56  1h=  0.57%  24h=  2.25%
- 9. TAO     score=   6.55  1h=  1.41%  24h= -0.15%
-10. XLM     score=   6.45  1h=  0.51%  24h=  3.71%
+ 1. ENA     score=  31.27  1h=  5.69%  24h=  5.82%
+ 2. NEAR    score=  18.86  1h=  1.92%  24h=  7.60%
+ 3. ADA     score=  17.11  1h=  0.62%  24h= 11.03%
+ 4. SUI     score=  15.47  1h=  0.85%  24h=  5.34%
+ 5. ONDO    score=   9.24  1h=  1.13%  24h=  2.48%
+ 6. HYPE    score=   8.62  1h=  1.21%  24h=  3.11%
+ 7. TAO     score=   8.23  1h=  1.61%  24h=  0.80%
+ 8. PUMP    score=   7.88  1h=  0.70%  24h=  0.84%
+ 9. QNT     score=   7.82  1h=  2.10%  24h= -1.96%
+10. DOGE    score=   7.55  1h=  0.59%  24h=  3.41%
