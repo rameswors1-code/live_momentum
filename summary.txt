@@ -1,19 +1,19 @@
-Updated: 2026-10-06T18:00:57.705187+00:00
+Updated: 2026-10-06T18:30:51.852757+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   OKB (OKB)
-  Score: 16.527
-  1h: 1.86% | 24h: 8.61%
-  Price: $139.0300
+  Score: 16.155
+  1h: 1.86% | 24h: 8.22%
+  Price: $138.8200
 
 Top 10 by Momentum Score:
- 1. OKB     score=  16.53  1h=  1.86%  24h=  8.61%
- 2. AVAX    score=  12.27  1h=  0.59%  24h=  5.92%
- 3. PUMP    score=   8.67  1h=  1.59%  24h= -0.37%
- 4. ZEC     score=   8.03  1h=  0.94%  24h=  3.44%
- 5. AAVE    score=   7.38  1h=  0.91%  24h= -0.67%
- 6. ADA     score=   6.49  1h=  0.15%  24h=  3.15%
- 7. SUI     score=   5.51  1h=  0.30%  24h= -0.24%
- 8. TAO     score=   5.49  1h=  0.58%  24h=  1.55%
+ 1. OKB     score=  16.16  1h=  1.86%  24h=  8.22%
+ 2. AVAX    score=  11.53  1h=  0.59%  24h=  5.20%
+ 3. AAVE    score=   7.93  1h=  0.91%  24h= -0.11%
+ 4. PUMP    score=   7.84  1h=  1.59%  24h= -1.14%
+ 5. ZEC     score=   6.73  1h=  0.94%  24h=  2.15%
+ 6. ADA     score=   5.82  1h=  0.15%  24h=  2.49%
+ 7. SUI     score=   5.58  1h=  0.30%  24h= -0.18%
+ 8. TAO     score=   5.45  1h=  0.58%  24h=  1.55%
  9. FIGR_HELOC  score=   4.31  1h=  1.94%  24h= -2.55%
-10. LINK    score=   4.14  1h=  0.68%  24h=  0.74%
+10. XAUT    score=   3.88  1h=  0.23%  24h=  0.68%
