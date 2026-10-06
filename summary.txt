@@ -1,19 +1,19 @@
-Updated: 2026-10-06T20:00:49.445062+00:00
+Updated: 2026-10-06T20:12:30.043259+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Avalanche (AVAX)
-  Score: 8.289
-  1h: -0.40% | 24h: 5.38%
-  Price: $11.4600
+  Pump.fun (PUMP)
+  Score: 11.339
+  1h: 2.27% | 24h: -0.04%
+  Price: $0.0063
 
 Top 10 by Momentum Score:
- 1. AVAX    score=   8.29  1h= -0.40%  24h=  5.38%
- 2. AAVE    score=   6.21  1h=  0.42%  24h= -0.03%
- 3. QNT     score=   5.94  1h=  0.11%  24h=  3.23%
- 4. NEAR    score=   5.20  1h=  0.73%  24h= -1.50%
- 5. ONDO    score=   4.93  1h=  0.31%  24h=  1.00%
- 6. OKB     score=   4.75  1h= -0.82%  24h=  6.22%
- 7. XAUT    score=   4.27  1h=  0.27%  24h=  0.69%
- 8. M       score=   3.81  1h=  0.38%  24h=  2.45%
- 9. SUI     score=   3.68  1h= -0.01%  24h= -0.99%
-10. ADA     score=   3.64  1h= -0.31%  24h=  1.87%
+ 1. PUMP    score=  11.34  1h=  2.27%  24h= -0.04%
+ 2. AVAX    score=   8.83  1h= -0.10%  24h=  4.70%
+ 3. QNT     score=   8.03  1h=  0.83%  24h=  2.80%
+ 4. RAIN    score=   7.31  1h=  2.29%  24h= -0.77%
+ 5. NEAR    score=   6.51  1h=  0.96%  24h= -1.48%
+ 6. OKB     score=   4.96  1h= -0.78%  24h=  6.25%
+ 7. AAVE    score=   3.89  1h= -0.06%  24h= -0.68%
+ 8. ADA     score=   3.16  1h= -0.34%  24h=  1.52%
+ 9. RLUSD   score=   2.99  1h= -0.01%  24h= -0.01%
+10. XAUT    score=   2.97  1h= -0.11%  24h=  0.74%
