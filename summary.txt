@@ -1,19 +1,19 @@
-Updated: 2026-10-07T18:00:54.775359+00:00
+Updated: 2026-10-07T18:30:50.587703+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  NEAR Protocol (NEAR)
-  Score: 14.279
-  1h: 2.15% | 24h: 1.75%
-  Price: $5.1200
+  Bitway (BTW)
+  Score: 13.735
+  1h: 2.46% | 24h: 4.93%
+  Price: $1.2600
 
 Top 10 by Momentum Score:
- 1. NEAR    score=  14.28  1h=  2.15%  24h=  1.75%
- 2. QNT     score=  11.41  1h=  3.17%  24h= -2.49%
- 3. BTW     score=   6.41  1h=  0.04%  24h=  6.09%
- 4. AVAX    score=   3.89  1h=  0.35%  24h= -2.68%
- 5. RLUSD   score=   2.82  1h=  0.01%  24h=  0.00%
- 6. XAUT    score=   2.67  1h=  0.10%  24h= -1.32%
- 7. RAIN    score=   1.43  1h=  0.47%  24h= -0.32%
- 8. OKB     score=   1.24  1h=  1.49%  24h= -5.07%
- 9. FIGR_HELOC  score=   1.23  1h=  0.86%  24h= -1.89%
-10. USDS    score=   0.94  1h=  0.01%  24h= -0.06%
+ 1. BTW     score=  13.73  1h=  2.46%  24h=  4.93%
+ 2. PUMP    score=  13.16  1h=  1.32%  24h=  1.32%
+ 3. NEAR    score=   8.56  1h= -0.18%  24h=  4.07%
+ 4. AVAX    score=   3.08  1h= -0.31%  24h= -1.23%
+ 5. RLUSD   score=   2.80  1h= -0.00%  24h= -0.01%
+ 6. XAUT    score=   2.22  1h= -0.02%  24h= -1.33%
+ 7. QNT     score=   1.49  1h=  0.24%  24h= -2.16%
+ 8. USDS    score=   0.88  1h= -0.01%  24h= -0.08%
+ 9. XMR     score=   0.28  1h= -0.07%  24h=  0.05%
+10. USDY    score=   0.10  1h=  0.00%  24h=  0.04%
