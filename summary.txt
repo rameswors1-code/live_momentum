@@ -1,19 +1,19 @@
-Updated: 2026-10-07T01:30:47.938408+00:00
+Updated: 2026-10-07T02:01:00.586378+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  OKB (OKB)
-  Score: 9.067
-  1h: 1.13% | 24h: 3.74%
-  Price: $138.1000
+  Bitway (BTW)
+  Score: 2.272
+  1h: -0.64% | 24h: 4.31%
+  Price: $1.2100
 
 Top 10 by Momentum Score:
- 1. OKB     score=   9.07  1h=  1.13%  24h=  3.74%
- 2. AVAX    score=   6.97  1h= -0.13%  24h=  3.11%
- 3. BTW     score=   6.19  1h=  0.50%  24h=  4.27%
- 4. NEAR    score=   5.92  1h=  1.63%  24h= -3.39%
- 5. M       score=   5.46  1h=  0.38%  24h=  4.09%
- 6. QNT     score=   4.46  1h= -0.24%  24h=  3.07%
- 7. LINK    score=   2.75  1h=  0.47%  24h=  0.10%
- 8. PUMP    score=   2.64  1h=  0.79%  24h= -3.47%
- 9. RLUSD   score=   2.33  1h= -0.00%  24h= -0.00%
-10. ONDO    score=   2.24  1h=  0.36%  24h= -1.81%
+ 1. BTW     score=   2.27  1h= -0.64%  24h=  4.31%
+ 2. RLUSD   score=   2.17  1h= -0.02%  24h= -0.01%
+ 3. XAUT    score=   2.12  1h= -0.21%  24h=  0.37%
+ 4. LEO     score=   1.33  1h=  0.33%  24h=  0.18%
+ 5. FIGR_HELOC  score=   0.64  1h=  0.01%  24h=  0.54%
+ 6. XMR     score=   0.43  1h=  0.08%  24h= -0.26%
+ 7. USYC    score=   0.01  1h=  0.00%  24h=  0.01%
+ 8. BUIDL   score=   0.00  1h=  0.00%  24h=  0.00%
+ 9. USDS    score=  -0.00  1h= -0.15%  24h= -0.08%
+10. AVAX    score=  -0.06  1h= -1.87%  24h=  1.98%
