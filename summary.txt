@@ -1,19 +1,19 @@
-Updated: 2026-10-07T21:00:58.495489+00:00
+Updated: 2026-10-07T21:13:26.889572+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   NEAR Protocol (NEAR)
-  Score: 15.096
-  1h: 1.35% | 24h: 4.57%
-  Price: $5.4100
+  Score: 14.361
+  1h: 1.35% | 24h: 3.83%
+  Price: $5.3600
 
 Top 10 by Momentum Score:
- 1. NEAR    score=  15.10  1h=  1.35%  24h=  4.57%
- 2. BTW     score=  10.54  1h=  0.89%  24h=  7.26%
- 3. PUMP    score=   5.45  1h= -1.25%  24h=  2.20%
- 4. AAVE    score=   5.32  1h=  1.03%  24h= -3.46%
- 5. QNT     score=   4.55  1h=  1.41%  24h= -3.15%
- 6. ENA     score=   3.01  1h=  0.59%  24h= -4.42%
- 7. RLUSD   score=   2.88  1h=  0.01%  24h= -0.00%
- 8. XAUT    score=   2.73  1h=  0.18%  24h= -1.37%
- 9. SUI     score=   2.60  1h=  0.54%  24h= -5.19%
-10. AVAX    score=   2.19  1h= -0.41%  24h= -1.84%
+ 1. NEAR    score=  14.36  1h=  1.35%  24h=  3.83%
+ 2. BTW     score=   9.19  1h=  0.89%  24h=  5.91%
+ 3. PUMP    score=   6.05  1h= -1.25%  24h=  2.81%
+ 4. AAVE    score=   5.56  1h=  1.03%  24h= -3.23%
+ 5. QNT     score=   4.47  1h=  1.41%  24h= -3.21%
+ 6. RLUSD   score=   2.86  1h=  0.01%  24h= -0.00%
+ 7. XAUT    score=   2.74  1h=  0.18%  24h= -1.36%
+ 8. ENA     score=   2.63  1h=  0.59%  24h= -4.81%
+ 9. SUI     score=   2.61  1h=  0.54%  24h= -5.14%
+10. AVAX    score=   2.30  1h= -0.41%  24h= -1.71%
