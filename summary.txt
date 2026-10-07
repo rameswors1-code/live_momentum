@@ -1,19 +1,19 @@
-Updated: 2026-10-07T05:00:58.061982+00:00
+Updated: 2026-10-07T05:31:31.268340+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Bitway (BTW)
-  Score: 3.896
-  1h: -0.13% | 24h: 4.16%
-  Price: $1.2200
+  Avalanche (AVAX)
+  Score: 3.915
+  1h: 0.08% | 24h: -1.59%
+  Price: $11.1500
 
 Top 10 by Momentum Score:
- 1. BTW     score=   3.90  1h= -0.13%  24h=  4.16%
- 2. AVAX    score=   3.81  1h=  0.08%  24h= -1.77%
- 3. RLUSD   score=   2.72  1h=  0.01%  24h=  0.01%
- 4. XAUT    score=   2.28  1h= -0.13%  24h=  0.40%
- 5. OKB     score=   1.72  1h= -0.42%  24h=  1.68%
- 6. USDS    score=   0.59  1h=  0.00%  24h= -0.06%
- 7. FIGR_HELOC  score=   0.58  1h= -0.00%  24h=  0.52%
- 8. AAVE    score=   0.40  1h=  0.24%  24h= -5.04%
- 9. USDY    score=   0.35  1h=  0.08%  24h= -0.01%
-10. LEO     score=   0.17  1h=  0.11%  24h= -0.19%
+ 1. AVAX    score=   3.92  1h=  0.08%  24h= -1.59%
+ 2. BTW     score=   3.20  1h= -0.13%  24h=  3.47%
+ 3. OKB     score=   3.06  1h= -0.42%  24h=  3.01%
+ 4. RLUSD   score=   2.72  1h=  0.01%  24h= -0.01%
+ 5. PUMP    score=   2.43  1h= -0.89%  24h=  1.36%
+ 6. XAUT    score=   2.18  1h= -0.13%  24h=  0.32%
+ 7. AAVE    score=   1.57  1h=  0.24%  24h= -3.84%
+ 8. FIGR_HELOC  score=   0.58  1h= -0.00%  24h=  0.52%
+ 9. USDS    score=   0.57  1h=  0.00%  24h= -0.06%
+10. LEO     score=   0.44  1h=  0.11%  24h=  0.07%
