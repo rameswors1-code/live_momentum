@@ -1,19 +1,19 @@
-Updated: 2026-10-07T00:36:31.235272+00:00
+Updated: 2026-10-07T01:00:51.176901+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Zcash (ZEC)
-  Score: 8.366
-  1h: 1.68% | 24h: 1.28%
-  Price: $1,363.8200
+  Avalanche (AVAX)
+  Score: 8.546
+  1h: 0.07% | 24h: 3.87%
+  Price: $11.6100
 
 Top 10 by Momentum Score:
- 1. ZEC     score=   8.37  1h=  1.68%  24h=  1.28%
- 2. AVAX    score=   8.18  1h=  0.07%  24h=  3.51%
- 3. OKB     score=   7.08  1h=  0.54%  24h=  3.79%
- 4. TAO     score=   5.57  1h=  1.21%  24h= -0.37%
- 5. QNT     score=   4.95  1h=  0.99%  24h= -0.76%
- 6. M       score=   4.07  1h=  0.07%  24h=  3.82%
- 7. XAUT    score=   3.14  1h=  0.05%  24h=  0.36%
- 8. RLUSD   score=   2.49  1h=  0.00%  24h= -0.01%
- 9. LINK    score=   2.29  1h=  0.20%  24h=  0.58%
-10. DOGE    score=   1.79  1h=  0.44%  24h= -1.77%
+ 1. AVAX    score=   8.55  1h=  0.07%  24h=  3.87%
+ 2. ZEC     score=   8.24  1h=  1.68%  24h=  1.18%
+ 3. OKB     score=   7.03  1h=  0.54%  24h=  3.78%
+ 4. TAO     score=   6.57  1h=  1.21%  24h=  0.64%
+ 5. QNT     score=   5.54  1h=  0.99%  24h= -0.15%
+ 6. M       score=   4.43  1h=  0.07%  24h=  4.19%
+ 7. XAUT    score=   3.00  1h=  0.05%  24h=  0.23%
+ 8. LINK    score=   2.86  1h=  0.20%  24h=  1.16%
+ 9. PUMP    score=   2.72  1h=  0.34%  24h= -1.74%
+10. RLUSD   score=   2.37  1h=  0.00%  24h= -0.01%
