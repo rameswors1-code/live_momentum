@@ -1,19 +1,19 @@
-Updated: 2026-10-06T23:30:50.661936+00:00
+Updated: 2026-10-07T00:01:02.770999+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Avalanche (AVAX)
-  Score: 11.442
-  1h: 0.55% | 24h: 5.12%
-  Price: $11.6800
+  OKB (OKB)
+  Score: 9.462
+  1h: 0.54% | 24h: 6.12%
+  Price: $136.5000
 
 Top 10 by Momentum Score:
- 1. AVAX    score=  11.44  1h=  0.55%  24h=  5.12%
- 2. OKB     score=   6.88  1h= -0.11%  24h=  5.81%
- 3. QNT     score=   6.63  1h=  0.17%  24h=  3.76%
- 4. M       score=   4.94  1h=  0.10%  24h=  4.58%
- 5. ZEC     score=   3.80  1h=  0.08%  24h=  2.30%
- 6. TAO     score=   3.80  1h=  0.42%  24h=  0.73%
- 7. XAUT    score=   3.04  1h= -0.08%  24h=  0.67%
- 8. RLUSD   score=   2.67  1h= -0.00%  24h=  0.00%
- 9. BTW     score=   2.30  1h=  0.97%  24h= -1.30%
-10. ENA     score=   1.83  1h=  0.21%  24h= -3.24%
+ 1. OKB     score=   9.46  1h=  0.54%  24h=  6.12%
+ 2. ZEC     score=   9.37  1h=  1.68%  24h=  2.25%
+ 3. AVAX    score=   9.00  1h=  0.07%  24h=  4.36%
+ 4. TAO     score=   6.91  1h=  1.21%  24h=  0.96%
+ 5. QNT     score=   6.58  1h=  0.99%  24h=  0.87%
+ 6. M       score=   3.94  1h=  0.07%  24h=  3.70%
+ 7. XAUT    score=   3.54  1h=  0.05%  24h=  0.75%
+ 8. RLUSD   score=   2.53  1h=  0.00%  24h= -0.00%
+ 9. LINK    score=   2.44  1h=  0.20%  24h=  0.73%
+10. DOGE    score=   1.76  1h=  0.44%  24h= -1.80%
