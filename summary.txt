@@ -1,19 +1,19 @@
-Updated: 2026-10-08T18:30:49.212143+00:00
+Updated: 2026-10-08T19:01:01.223448+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Bitway (BTW)
-  Score: 10.732
-  1h: 0.08% | 24h: 10.34%
-  Price: $1.4000
+  Ondo (ONDO)
+  Score: 45.182
+  1h: 9.99% | 24h: 4.22%
+  Price: $0.4868
 
 Top 10 by Momentum Score:
- 1. BTW     score=  10.73  1h=  0.08%  24h= 10.34%
- 2. FIGR_HELOC  score=   6.99  1h=  1.77%  24h=  0.77%
- 3. M       score=   5.90  1h=  1.48%  24h=  0.72%
- 4. XAUT    score=   3.75  1h=  0.22%  24h=  0.27%
- 5. RLUSD   score=   3.24  1h= -0.00%  24h= -0.00%
- 6. ONDO    score=   2.54  1h= -1.16%  24h=  0.99%
- 7. USDS    score=   0.95  1h= -0.01%  24h= -0.03%
- 8. LEO     score=   0.38  1h=  0.04%  24h=  0.24%
- 9. USYC    score=   0.01  1h=  0.00%  24h=  0.01%
-10. BUIDL   score=   0.00  1h=  0.00%  24h=  0.00%
+ 1. ONDO    score=  45.18  1h=  9.99%  24h=  4.22%
+ 2. QNT     score=  16.81  1h=  6.08%  24h= -6.85%
+ 3. HBAR    score=  13.00  1h=  3.50%  24h= -0.95%
+ 4. TAO     score=  12.24  1h=  4.49%  24h= -7.22%
+ 5. SUI     score=  10.01  1h=  2.83%  24h= -8.47%
+ 6. AAVE    score=   9.31  1h=  2.25%  24h= -4.53%
+ 7. UNI     score=   8.64  1h=  2.38%  24h= -6.86%
+ 8. BTW     score=   8.53  1h=  0.14%  24h=  7.93%
+ 9. ENA     score=   8.46  1h=  3.21%  24h= -9.82%
+10. PUMP    score=   7.86  1h=  3.90%  24h=-12.60%
