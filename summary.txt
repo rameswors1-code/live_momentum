@@ -1,19 +1,19 @@
-Updated: 2026-10-09T11:00:53.206255+00:00
+Updated: 2026-10-09T11:30:50.772181+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Gram (prev. Toncoin) (GRAM)
-  Score: 20.582
-  1h: 4.77% | 24h: 3.11%
-  Price: $1.4600
+  Canton (CC)
+  Score: 20.222
+  1h: 4.64% | 24h: 3.78%
+  Price: $0.1248
 
 Top 10 by Momentum Score:
- 1. GRAM    score=  20.58  1h=  4.77%  24h=  3.11%
- 2. QNT     score=   7.01  1h=  0.79%  24h=  2.00%
- 3. ENA     score=   6.51  1h=  0.26%  24h= -1.88%
- 4. ZEC     score=   5.07  1h=  0.33%  24h=  0.89%
- 5. XAUT    score=   5.01  1h=  0.02%  24h=  1.46%
- 6. ONDO    score=   4.45  1h= -0.84%  24h=  0.19%
- 7. RLUSD   score=   3.39  1h=  0.00%  24h=  0.00%
- 8. BTW     score=   3.03  1h= -1.67%  24h=  8.76%
- 9. HYPE    score=   2.09  1h=  0.22%  24h= -0.98%
-10. LTC     score=   1.78  1h= -0.11%  24h= -0.78%
+ 1. CC      score=  20.22  1h=  4.64%  24h=  3.78%
+ 2. BTW     score=  11.64  1h=  0.68%  24h=  9.16%
+ 3. ONDO    score=   4.90  1h= -0.63%  24h= -0.08%
+ 4. XAUT    score=   4.37  1h= -0.15%  24h=  1.40%
+ 5. QNT     score=   4.19  1h= -0.83%  24h=  4.89%
+ 6. RLUSD   score=   3.24  1h= -0.01%  24h= -0.01%
+ 7. ENA     score=   1.64  1h= -1.32%  24h= -1.35%
+ 8. PUMP    score=   1.52  1h= -0.52%  24h= -2.01%
+ 9. ZEC     score=   1.13  1h= -1.00%  24h=  1.66%
+10. USDS    score=   0.70  1h= -0.02%  24h=  0.04%
