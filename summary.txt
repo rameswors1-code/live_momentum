@@ -1,19 +1,19 @@
-Updated: 2026-10-09T10:00:53.326122+00:00
+Updated: 2026-10-09T10:30:49.979637+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Bitway (BTW)
-  Score: 14.407
-  1h: 1.62% | 24h: 8.61%
-  Price: $1.4900
+  Gram (prev. Toncoin) (GRAM)
+  Score: 21.182
+  1h: 4.77% | 24h: 3.73%
+  Price: $1.4800
 
 Top 10 by Momentum Score:
- 1. BTW     score=  14.41  1h=  1.62%  24h=  8.61%
- 2. ONDO    score=  10.00  1h=  0.62%  24h=  0.48%
- 3. ENA     score=   7.85  1h=  0.42%  24h= -1.32%
- 4. GRAM    score=   5.32  1h=  0.44%  24h=  3.08%
- 5. XAUT    score=   4.87  1h= -0.04%  24h=  1.48%
- 6. RLUSD   score=   3.65  1h= -0.00%  24h=  0.00%
- 7. LTC     score=   3.58  1h=  0.36%  24h= -0.70%
- 8. SUI     score=   2.84  1h= -0.05%  24h= -5.67%
- 9. QNT     score=   2.77  1h= -0.17%  24h=  1.08%
-10. AAVE    score=   2.67  1h=  0.06%  24h= -3.41%
+ 1. GRAM    score=  21.18  1h=  4.77%  24h=  3.73%
+ 2. ENA     score=   7.47  1h=  0.26%  24h= -1.15%
+ 3. QNT     score=   6.78  1h=  0.79%  24h=  1.77%
+ 4. ONDO    score=   5.36  1h= -0.84%  24h=  1.07%
+ 5. XAUT    score=   5.12  1h=  0.02%  24h=  1.52%
+ 6. ZEC     score=   4.88  1h=  0.33%  24h=  0.91%
+ 7. BTW     score=   3.58  1h= -1.67%  24h=  9.31%
+ 8. RLUSD   score=   3.48  1h=  0.00%  24h=  0.01%
+ 9. SUI     score=   2.38  1h= -0.38%  24h= -4.92%
+10. HYPE    score=   2.27  1h=  0.22%  24h= -0.79%
