@@ -1,19 +1,19 @@
-Updated: 2026-10-10T03:00:57.014393+00:00
+Updated: 2026-10-10T03:30:52.139744+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Cardano (ADA)
-  Score: 23.131
-  1h: 3.71% | 24h: 7.92%
-  Price: $0.2526
+  Bitway (BTW)
+  Score: 15.384
+  1h: 1.42% | 24h: 10.27%
+  Price: $1.5900
 
 Top 10 by Momentum Score:
- 1. ADA     score=  23.13  1h=  3.71%  24h=  7.92%
- 2. NEAR    score=  15.79  1h=  1.22%  24h=  6.44%
- 3. ONDO    score=  15.13  1h=  2.39%  24h=  3.46%
- 4. ENA     score=  15.02  1h=  2.07%  24h=  3.52%
- 5. SUI     score=  13.56  1h=  1.71%  24h=  3.38%
- 6. AAVE    score=  12.80  1h=  1.64%  24h=  2.79%
- 7. BTW     score=  11.00  1h=  0.11%  24h= 10.48%
- 8. UNI     score=   7.00  1h=  0.78%  24h=  0.20%
- 9. AVAX    score=   6.74  1h=  0.75%  24h=  1.46%
-10. DOGE    score=   5.61  1h=  0.54%  24h=  2.15%
+ 1. BTW     score=  15.38  1h=  1.42%  24h= 10.27%
+ 2. GRAM    score=  10.04  1h=  1.05%  24h=  5.50%
+ 3. NEAR    score=   8.74  1h= -0.26%  24h=  4.68%
+ 4. ADA     score=   7.63  1h= -0.38%  24h=  6.73%
+ 5. QNT     score=   6.88  1h=  0.18%  24h=  4.80%
+ 6. AAVE    score=   6.75  1h= -0.24%  24h=  3.26%
+ 7. ENA     score=   5.21  1h= -0.55%  24h=  2.90%
+ 8. SUI     score=   4.92  1h= -0.53%  24h=  2.59%
+ 9. AVAX    score=   4.82  1h=  0.20%  24h=  1.49%
+10. DOGE    score=   4.63  1h=  0.41%  24h=  1.65%
