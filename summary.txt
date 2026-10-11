@@ -1,19 +1,19 @@
-Updated: 2026-10-11T05:00:50.393155+00:00
+Updated: 2026-10-11T05:30:52.609606+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Bitway (BTW)
-  Score: 20.73
-  1h: 4.42% | 24h: 5.15%
-  Price: $1.6800
+  Score: 19.739
+  1h: 4.42% | 24h: 4.16%
+  Price: $1.6900
 
 Top 10 by Momentum Score:
- 1. BTW     score=  20.73  1h=  4.42%  24h=  5.15%
- 2. NEAR    score=  14.20  1h=  1.90%  24h=  3.19%
- 3. UNI     score=  10.32  1h=  1.19%  24h=  2.38%
- 4. ENA     score=   9.07  1h=  1.16%  24h=  1.67%
- 5. SUI     score=   7.95  1h=  0.80%  24h=  0.91%
- 6. TAO     score=   7.02  1h=  1.03%  24h=  1.92%
- 7. FIGR_HELOC  score=   6.38  1h=  0.00%  24h=  6.38%
- 8. PUMP    score=   6.18  1h=  1.38%  24h= -0.65%
- 9. ONDO    score=   5.08  1h=  0.92%  24h= -0.46%
-10. ZEC     score=   3.58  1h=  0.61%  24h=  0.81%
+ 1. BTW     score=  19.74  1h=  4.42%  24h=  4.16%
+ 2. NEAR    score=  11.95  1h=  1.90%  24h=  1.16%
+ 3. UNI     score=   8.97  1h=  1.19%  24h=  1.14%
+ 4. ENA     score=   8.15  1h=  1.16%  24h=  0.79%
+ 5. SUI     score=   6.96  1h=  0.80%  24h=  0.05%
+ 6. FIGR_HELOC  score=   6.39  1h=  0.00%  24h=  6.39%
+ 7. TAO     score=   6.28  1h=  1.03%  24h=  1.18%
+ 8. PUMP    score=   5.16  1h=  1.38%  24h= -1.67%
+ 9. ONDO    score=   3.81  1h=  0.92%  24h= -1.64%
+10. LTC     score=   3.10  1h=  0.57%  24h= -0.39%
