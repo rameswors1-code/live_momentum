@@ -1,19 +1,19 @@
-Updated: 2026-10-11T13:30:49.119737+00:00
+Updated: 2026-10-11T14:00:51.213331+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Canton (CC)
-  Score: 11.769
-  1h: 2.40% | 24h: 3.27%
-  Price: $0.1236
+  Ethena (ENA)
+  Score: 4.022
+  1h: -0.23% | 24h: 1.62%
+  Price: $0.2240
 
 Top 10 by Momentum Score:
- 1. CC      score=  11.77  1h=  2.40%  24h=  3.27%
- 2. NEAR    score=   9.05  1h=  1.46%  24h=  0.63%
- 3. ENA     score=   7.08  1h=  0.48%  24h=  2.18%
- 4. BTW     score=   6.88  1h=  0.95%  24h=  3.30%
- 5. FIGR_HELOC  score=   5.46  1h= -0.01%  24h=  5.48%
- 6. AVAX    score=   5.42  1h=  0.99%  24h=  0.34%
- 7. TAO     score=   5.04  1h=  0.63%  24h=  1.53%
- 8. UNI     score=   4.11  1h=  0.18%  24h=  0.24%
- 9. SUI     score=   3.54  1h=  0.40%  24h= -0.95%
-10. XMR     score=   1.79  1h= -0.04%  24h=  1.60%
+ 1. ENA     score=   4.02  1h= -0.23%  24h=  1.62%
+ 2. TAO     score=   3.86  1h=  0.24%  24h=  1.67%
+ 3. AVAX    score=   3.47  1h=  0.37%  24h=  0.51%
+ 4. NEAR    score=   3.46  1h=  0.01%  24h=  0.03%
+ 5. HYPE    score=   3.22  1h=  0.26%  24h=  1.19%
+ 6. CC      score=   2.98  1h= -0.09%  24h=  3.20%
+ 7. FIGR_HELOC  score=   2.52  1h= -0.85%  24h=  5.48%
+ 8. PUMP    score=   2.16  1h=  0.02%  24h= -0.02%
+ 9. BTW     score=   2.12  1h= -1.09%  24h=  5.67%
+10. LTC     score=   1.94  1h=  0.20%  24h= -0.21%
