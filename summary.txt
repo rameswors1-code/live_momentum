@@ -1,19 +1,19 @@
-Updated: 2026-10-11T07:30:46.350165+00:00
+Updated: 2026-10-11T08:00:54.366704+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  NEAR Protocol (NEAR)
-  Score: 6.754
-  1h: 0.51% | 24h: 0.98%
-  Price: $5.2300
+  Figure Heloc (FIGR_HELOC)
+  Score: 6.364
+  1h: -0.00% | 24h: 6.37%
+  Price: $1.0650
 
 Top 10 by Momentum Score:
- 1. NEAR    score=   6.75  1h=  0.51%  24h=  0.98%
- 2. ENA     score=   6.40  1h=  0.64%  24h=  0.92%
- 3. FIGR_HELOC  score=   6.38  1h= -0.00%  24h=  6.38%
- 4. UNI     score=   6.33  1h=  0.50%  24h=  1.05%
- 5. SUI     score=   4.16  1h=  0.26%  24h= -0.60%
- 6. LTC     score=   3.27  1h=  0.33%  24h=  0.58%
- 7. PUMP    score=   3.24  1h=  1.01%  24h= -2.28%
- 8. TAO     score=   3.01  1h=  0.44%  24h=  0.06%
- 9. ZEC     score=   2.87  1h=  0.72%  24h= -0.35%
-10. HYPE    score=   2.46  1h=  0.21%  24h=  0.52%
+ 1. FIGR_HELOC  score=   6.36  1h= -0.00%  24h=  6.37%
+ 2. ENA     score=   6.18  1h=  0.64%  24h=  0.72%
+ 3. UNI     score=   6.07  1h=  0.50%  24h=  0.77%
+ 4. NEAR    score=   5.28  1h=  0.51%  24h= -0.45%
+ 5. SUI     score=   4.06  1h=  0.26%  24h= -0.67%
+ 6. LTC     score=   3.04  1h=  0.33%  24h=  0.37%
+ 7. PUMP    score=   2.99  1h=  1.01%  24h= -2.48%
+ 8. TAO     score=   2.97  1h=  0.44%  24h=  0.06%
+ 9. ZEC     score=   2.71  1h=  0.72%  24h= -0.50%
+10. HBAR    score=   2.63  1h=  0.72%  24h= -0.49%
