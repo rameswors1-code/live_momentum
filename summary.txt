@@ -1,19 +1,19 @@
-Updated: 2026-10-13T04:30:48.836282+00:00
+Updated: 2026-10-13T05:00:55.671893+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Uniswap (UNI)
-  Score: 3.498
-  1h: 1.27% | 24h: -5.10%
-  Price: $7.3300
+  Bitway (BTW)
+  Score: 17.593
+  1h: 2.52% | 24h: 8.18%
+  Price: $1.8100
 
 Top 10 by Momentum Score:
- 1. UNI     score=   3.50  1h=  1.27%  24h= -5.10%
- 2. RLUSD   score=   3.11  1h=  0.00%  24h= -0.00%
- 3. AVAX    score=   3.08  1h=  0.88%  24h= -3.74%
- 4. BTW     score=   3.07  1h= -1.26%  24h=  6.91%
- 5. ETH     score=   2.84  1h=  0.64%  24h= -1.54%
- 6. XAUT    score=   2.38  1h=  0.19%  24h= -0.17%
- 7. DOGE    score=   2.23  1h=  0.77%  24h= -3.00%
- 8. SUI     score=   2.03  1h=  0.56%  24h= -5.89%
- 9. NEAR    score=   1.78  1h=  0.88%  24h= -8.89%
-10. BTC     score=   1.70  1h=  0.38%  24h= -0.38%
+ 1. BTW     score=  17.59  1h=  2.52%  24h=  8.18%
+ 2. SUI     score=   3.45  1h=  1.20%  24h= -6.53%
+ 3. RLUSD   score=   2.98  1h=  0.01%  24h=  0.01%
+ 4. CC      score=   2.84  1h=  1.49%  24h= -2.52%
+ 5. AVAX    score=   2.77  1h=  0.95%  24h= -4.24%
+ 6. UNI     score=   2.77  1h=  1.23%  24h= -5.63%
+ 7. XAUT    score=   2.62  1h=  0.19%  24h=  0.02%
+ 8. ETH     score=   1.82  1h=  0.44%  24h= -1.88%
+ 9. AAVE    score=   1.56  1h=  0.85%  24h= -5.91%
+10. ONDO    score=   0.98  1h=  1.32%  24h= -7.95%
