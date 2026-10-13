@@ -1,19 +1,19 @@
-Updated: 2026-10-13T08:01:00.251351+00:00
+Updated: 2026-10-13T08:30:52.340811+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Polkadot (DOT)
-  Score: 5.195
-  1h: 1.41% | 24h: -4.43%
-  Price: $1.2100
+  Bitway (BTW)
+  Score: 6.965
+  1h: 0.39% | 24h: 4.94%
+  Price: $1.8000
 
 Top 10 by Momentum Score:
- 1. DOT     score=   5.20  1h=  1.41%  24h= -4.43%
- 2. XMR     score=   3.25  1h=  0.51%  24h=  1.04%
- 3. RAIN    score=   3.06  1h=  0.39%  24h=  1.61%
- 4. RLUSD   score=   2.96  1h= -0.00%  24h=  0.01%
- 5. UNI     score=   2.55  1h=  0.29%  24h= -2.58%
- 6. XAUT    score=   1.99  1h= -0.02%  24h=  0.21%
- 7. ENA     score=   1.73  1h=  0.79%  24h= -8.15%
- 8. ETH     score=   1.30  1h=  0.13%  24h= -1.22%
- 9. BTC     score=   1.02  1h=  0.09%  24h= -0.08%
-10. SUI     score=   0.68  1h= -0.09%  24h= -5.08%
+ 1. BTW     score=   6.96  1h=  0.39%  24h=  4.94%
+ 2. XMR     score=   4.72  1h=  0.75%  24h=  1.68%
+ 3. UNI     score=   3.34  1h=  0.35%  24h= -2.06%
+ 4. RLUSD   score=   2.98  1h=  0.00%  24h=  0.01%
+ 5. XAUT    score=   1.97  1h= -0.06%  24h=  0.35%
+ 6. BTC     score=   1.72  1h=  0.18%  24h=  0.34%
+ 7. SUI     score=   1.11  1h= -0.16%  24h= -4.40%
+ 8. ETH     score=   0.93  1h= -0.06%  24h= -0.90%
+ 9. WBT     score=   0.90  1h=  0.12%  24h= -0.01%
+10. USDY    score=   0.30  1h=  0.06%  24h=  0.01%
