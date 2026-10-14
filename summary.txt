@@ -1,19 +1,19 @@
-Updated: 2026-10-14T06:00:59.433503+00:00
+Updated: 2026-10-14T06:30:48.413068+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Ethereum (ETH)
-  Score: 124.8
-  1h: -0.07% | 24h: -1.05%
-  Price: $2,502.6600
+  Bitway (BTW)
+  Score: 67.21
+  1h: 5.02% | 24h: 48.72%
+  Price: $2.6700
 
 Top 10 by Momentum Score:
- 1. ETH     score= 124.80  1h= -0.07%  24h= -1.05%
- 2. BTW     score=  41.62  1h= -2.31%  24h= 48.79%
- 3. BTC     score=  22.96  1h= -0.07%  24h= -0.20%
- 4. XMR     score=   4.79  1h=  0.38%  24h=  3.02%
- 5. AAVE    score=   4.48  1h=  0.42%  24h= -0.61%
- 6. ZEC     score=   4.37  1h= -0.05%  24h=  2.78%
- 7. BCH     score=   3.91  1h=  0.44%  24h=  1.46%
- 8. RLUSD   score=   2.81  1h= -0.00%  24h= -0.02%
- 9. ENA     score=   2.55  1h=  0.13%  24h= -2.79%
-10. SUI     score=   2.00  1h=  0.07%  24h= -2.50%
+ 1. BTW     score=  67.21  1h=  5.02%  24h= 48.72%
+ 2. RLUSD   score=   2.84  1h= -0.00%  24h= -0.00%
+ 3. LEO     score=   1.01  1h= -0.04%  24h=  1.15%
+ 4. USDS    score=   0.80  1h=  0.02%  24h=  0.04%
+ 5. XMR     score=   0.80  1h= -0.67%  24h=  2.72%
+ 6. TRX     score=   0.29  1h= -0.15%  24h=  0.24%
+ 7. USDY    score=   0.09  1h=  0.00%  24h=  0.03%
+ 8. USYC    score=   0.01  1h=  0.00%  24h=  0.01%
+ 9. BUIDL   score=   0.00  1h=  0.00%  24h=  0.00%
+10. XAUT    score=  -0.18  1h= -0.36%  24h= -0.65%
