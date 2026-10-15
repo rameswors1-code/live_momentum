@@ -1,19 +1,19 @@
-Updated: 2026-10-15T09:30:49.218682+00:00
+Updated: 2026-10-15T10:00:58.275164+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Aster (ASTER)
-  Score: 5.942
-  1h: 1.17% | 24h: -0.29%
-  Price: $0.6960
+  Tether Gold (XAUT)
+  Score: 5.362
+  1h: 0.17% | 24h: 0.24%
+  Price: $4,151.5800
 
 Top 10 by Momentum Score:
- 1. ASTER   score=   5.94  1h=  1.17%  24h= -0.29%
- 2. XAUT    score=   5.20  1h=  0.13%  24h=  0.27%
- 3. RLUSD   score=   3.13  1h= -0.00%  24h=  0.01%
- 4. SUI     score=   2.18  1h=  0.33%  24h= -5.04%
- 5. QNT     score=   1.16  1h=  1.04%  24h= -4.44%
- 6. USDS    score=   0.64  1h=  0.00%  24h= -0.02%
- 7. GRAM    score=   0.51  1h=  0.52%  24h= -1.73%
- 8. LEO     score=   0.26  1h=  0.01%  24h=  0.23%
- 9. TRX     score=   0.08  1h= -0.03%  24h= -0.41%
-10. FIGR_HELOC  score=   0.07  1h=  0.00%  24h=  0.00%
+ 1. XAUT    score=   5.36  1h=  0.17%  24h=  0.24%
+ 2. RLUSD   score=   3.16  1h= -0.00%  24h=  0.00%
+ 3. ASTER   score=   1.76  1h=  0.07%  24h= -0.68%
+ 4. GRAM    score=   0.97  1h=  0.37%  24h= -0.78%
+ 5. USDS    score=   0.72  1h=  0.02%  24h= -0.01%
+ 6. HYPE    score=   0.58  1h=  0.00%  24h= -1.38%
+ 7. USDY    score=   0.42  1h=  0.12%  24h= -0.02%
+ 8. LEO     score=   0.24  1h= -0.00%  24h=  0.25%
+ 9. FIGR_HELOC  score=   0.07  1h=  0.00%  24h=  0.00%
+10. USYC    score=   0.01  1h=  0.00%  24h=  0.01%
