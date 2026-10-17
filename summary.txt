@@ -1,19 +1,19 @@
-Updated: 2026-10-17T10:30:49.570039+00:00
+Updated: 2026-10-17T11:00:58.276660+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Pump.fun (PUMP)
-  Score: 8.903
-  1h: 0.54% | 24h: 4.17%
-  Price: $0.0046
+  Bitway (BTW)
+  Score: 18.968
+  1h: 2.07% | 24h: 11.17%
+  Price: $2.0600
 
 Top 10 by Momentum Score:
- 1. PUMP    score=   8.90  1h=  0.54%  24h=  4.17%
- 2. BTW     score=   5.17  1h= -1.20%  24h=  8.78%
- 3. NEAR    score=   4.54  1h=  0.39%  24h= -2.40%
- 4. WLD     score=   3.40  1h= -0.04%  24h= -2.72%
- 5. SUI     score=   3.10  1h= -0.29%  24h= -3.95%
- 6. UNI     score=   2.61  1h=  0.19%  24h= -1.16%
- 7. RLUSD   score=   1.78  1h= -0.01%  24h= -0.02%
- 8. XAUT    score=   1.22  1h=  0.01%  24h= -0.56%
- 9. ETH     score=   0.99  1h=  0.10%  24h= -0.71%
-10. LEO     score=   0.81  1h=  0.23%  24h=  0.01%
+ 1. BTW     score=  18.97  1h=  2.07%  24h= 11.17%
+ 2. PUMP    score=   4.82  1h= -0.50%  24h=  3.74%
+ 3. SUI     score=   4.70  1h=  0.14%  24h= -3.87%
+ 4. WLD     score=   4.54  1h=  0.36%  24h= -2.89%
+ 5. RLUSD   score=   1.81  1h=  0.01%  24h= -0.03%
+ 6. UNI     score=   1.55  1h= -0.06%  24h= -1.29%
+ 7. XAUT    score=   1.38  1h=  0.00%  24h= -0.32%
+ 8. NEAR    score=   1.33  1h= -0.30%  24h= -2.63%
+ 9. TRX     score=   0.62  1h=  0.04%  24h=  0.09%
+10. LTC     score=   0.52  1h=  0.32%  24h= -2.48%
