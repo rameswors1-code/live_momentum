@@ -1,19 +1,19 @@
-Updated: 2026-10-17T04:00:53.717352+00:00
+Updated: 2026-10-17T04:13:18.058515+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Polkadot (DOT)
-  Score: 12.398
-  1h: 1.57% | 24h: 2.89%
-  Price: $1.1900
+  Worldcoin (WLD)
+  Score: 19.469
+  1h: 1.50% | 24h: 6.88%
+  Price: $0.5321
 
 Top 10 by Momentum Score:
- 1. DOT     score=  12.40  1h=  1.57%  24h=  2.89%
- 2. PUMP    score=  11.88  1h=  1.72%  24h=  2.89%
- 3. BTW     score=   6.83  1h=  0.13%  24h=  5.64%
- 4. SUI     score=   5.96  1h=  0.69%  24h= -1.84%
- 5. UNI     score=   5.39  1h=  0.76%  24h= -0.85%
- 6. AAVE    score=   5.34  1h=  0.74%  24h= -1.41%
- 7. BCH     score=   5.20  1h=  0.70%  24h=  1.79%
- 8. ENA     score=   5.10  1h=  0.87%  24h= -2.09%
- 9. NEAR    score=   4.94  1h=  0.54%  24h= -3.03%
-10. QNT     score=   3.37  1h=  1.07%  24h= -1.47%
+ 1. WLD     score=  19.47  1h=  1.50%  24h=  6.88%
+ 2. PUMP    score=  11.78  1h=  1.72%  24h=  2.77%
+ 3. BTW     score=   8.41  1h=  0.13%  24h=  7.24%
+ 4. SUI     score=   6.22  1h=  0.69%  24h= -1.59%
+ 5. NEAR    score=   6.01  1h=  0.54%  24h= -1.97%
+ 6. ENA     score=   5.57  1h=  0.87%  24h= -1.68%
+ 7. UNI     score=   5.44  1h=  0.76%  24h= -0.79%
+ 8. AAVE    score=   5.39  1h=  0.74%  24h= -1.34%
+ 9. BCH     score=   5.29  1h=  0.70%  24h=  1.87%
+10. AVAX    score=   3.52  1h=  0.20%  24h= -0.24%
