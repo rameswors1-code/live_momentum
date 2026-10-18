@@ -1,19 +1,19 @@
-Updated: 2026-10-18T22:01:02.678423+00:00
+Updated: 2026-10-18T22:30:51.054824+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Monero (XMR)
-  Score: 8.407
-  1h: 1.05% | 24h: 4.06%
-  Price: $583.8900
+  Sui (SUI)
+  Score: 9.527
+  1h: 1.21% | 24h: 0.86%
+  Price: $0.9781
 
 Top 10 by Momentum Score:
- 1. XMR     score=   8.41  1h=  1.05%  24h=  4.06%
- 2. SUI     score=   7.70  1h=  1.21%  24h= -0.85%
- 3. FIGR_HELOC  score=   6.93  1h=  0.72%  24h=  4.39%
- 4. RAIN    score=   6.42  1h=  0.75%  24h=  3.68%
- 5. NEAR    score=   6.33  1h=  1.36%  24h= -2.29%
- 6. UNI     score=   6.22  1h=  1.64%  24h= -2.24%
- 7. HBAR    score=   6.08  1h=  1.16%  24h= -0.18%
- 8. ENA     score=   6.03  1h=  1.63%  24h= -3.97%
- 9. BTW     score=   5.40  1h=  2.26%  24h= -2.74%
-10. TAO     score=   5.08  1h=  1.51%  24h= -2.00%
+ 1. SUI     score=   9.53  1h=  1.21%  24h=  0.86%
+ 2. NEAR    score=   9.35  1h=  1.36%  24h=  0.66%
+ 3. ENA     score=   9.05  1h=  1.63%  24h= -1.22%
+ 4. XMR     score=   8.84  1h=  1.05%  24h=  4.49%
+ 5. UNI     score=   8.69  1h=  1.64%  24h=  0.19%
+ 6. HBAR    score=   7.66  1h=  1.16%  24h=  1.37%
+ 7. FIGR_HELOC  score=   7.64  1h=  0.72%  24h=  5.10%
+ 8. BTW     score=   6.32  1h=  2.26%  24h= -1.83%
+ 9. TAO     score=   6.25  1h=  1.51%  24h= -0.86%
+10. ZEC     score=   5.84  1h=  1.59%  24h= -1.17%
