@@ -1,19 +1,19 @@
-Updated: 2026-10-18T21:30:44.659722+00:00
+Updated: 2026-10-18T22:01:02.678423+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Figure Heloc (FIGR_HELOC)
-  Score: 6.924
-  1h: 0.72% | 24h: 4.39%
-  Price: $1.0750
+  Monero (XMR)
+  Score: 8.407
+  1h: 1.05% | 24h: 4.06%
+  Price: $583.8900
 
 Top 10 by Momentum Score:
- 1. FIGR_HELOC  score=   6.92  1h=  0.72%  24h=  4.39%
- 2. RAIN    score=   6.33  1h=  0.62%  24h=  4.07%
- 3. XMR     score=   5.74  1h=  0.35%  24h=  3.82%
- 4. HBAR    score=   4.80  1h=  1.12%  24h= -1.30%
- 5. SUI     score=   3.95  1h=  0.51%  24h= -2.34%
- 6. LTC     score=   3.15  1h=  0.87%  24h= -2.08%
- 7. NEAR    score=   2.73  1h=  0.74%  24h= -3.81%
- 8. AAVE    score=   2.11  1h=  0.43%  24h= -2.74%
- 9. AVAX    score=   1.56  1h=  0.71%  24h= -3.30%
-10. SOL     score=   1.47  1h=  0.37%  24h= -1.35%
+ 1. XMR     score=   8.41  1h=  1.05%  24h=  4.06%
+ 2. SUI     score=   7.70  1h=  1.21%  24h= -0.85%
+ 3. FIGR_HELOC  score=   6.93  1h=  0.72%  24h=  4.39%
+ 4. RAIN    score=   6.42  1h=  0.75%  24h=  3.68%
+ 5. NEAR    score=   6.33  1h=  1.36%  24h= -2.29%
+ 6. UNI     score=   6.22  1h=  1.64%  24h= -2.24%
+ 7. HBAR    score=   6.08  1h=  1.16%  24h= -0.18%
+ 8. ENA     score=   6.03  1h=  1.63%  24h= -3.97%
+ 9. BTW     score=   5.40  1h=  2.26%  24h= -2.74%
+10. TAO     score=   5.08  1h=  1.51%  24h= -2.00%
