@@ -1,19 +1,19 @@
-Updated: 2026-10-18T02:00:57.121234+00:00
+Updated: 2026-10-18T02:30:57.127894+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Figure Heloc (FIGR_HELOC)
-  Score: 18.204
-  1h: 4.35% | 24h: 2.99%
-  Price: $1.0670
+  Bitway (BTW)
+  Score: 28.058
+  1h: 1.69% | 24h: 21.69%
+  Price: $2.4200
 
 Top 10 by Momentum Score:
- 1. FIGR_HELOC  score=  18.20  1h=  4.35%  24h=  2.99%
- 2. XMR     score=  12.46  1h=  1.74%  24h=  5.90%
- 3. HBAR    score=   5.71  1h=  0.62%  24h=  2.64%
- 4. SUI     score=   5.03  1h=  0.06%  24h= -2.26%
- 5. RAIN    score=   3.70  1h= -0.05%  24h=  3.80%
- 6. UNI     score=   3.42  1h=  0.52%  24h= -0.83%
- 7. NEAR    score=   2.14  1h=  0.30%  24h= -2.50%
- 8. ASTER   score=   1.77  1h=  0.12%  24h= -0.61%
- 9. AVAX    score=   1.59  1h=  0.11%  24h= -0.97%
-10. XRP     score=   1.30  1h=  0.35%  24h= -0.36%
+ 1. BTW     score=  28.06  1h=  1.69%  24h= 21.69%
+ 2. XMR     score=  13.40  1h=  1.80%  24h=  6.63%
+ 3. RAIN    score=  13.33  1h=  2.74%  24h=  3.64%
+ 4. NEAR    score=   6.30  1h=  1.28%  24h= -1.74%
+ 5. SUI     score=   5.50  1h=  0.26%  24h= -2.11%
+ 6. UNI     score=   4.69  1h=  0.62%  24h=  0.10%
+ 7. ZEC     score=   4.61  1h=  0.93%  24h= -0.04%
+ 8. ENA     score=   4.09  1h=  1.04%  24h= -2.94%
+ 9. HBAR    score=   3.86  1h=  0.17%  24h=  2.36%
+10. FIGR_HELOC  score=   2.99  1h=  0.00%  24h=  2.98%
