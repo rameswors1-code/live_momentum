@@ -1,19 +1,19 @@
-Updated: 2026-10-18T17:30:47.940393+00:00
+Updated: 2026-10-18T18:00:57.071541+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Monero (XMR)
-  Score: 12.344
-  1h: 1.53% | 24h: 6.28%
-  Price: $587.9900
+  Figure Heloc (FIGR_HELOC)
+  Score: 7.028
+  1h: 0.72% | 24h: 4.49%
+  Price: $1.0750
 
 Top 10 by Momentum Score:
- 1. XMR     score=  12.34  1h=  1.53%  24h=  6.28%
- 2. FIGR_HELOC  score=   7.01  1h=  0.72%  24h=  4.47%
- 3. HBAR    score=   6.40  1h=  0.28%  24h=  3.36%
- 4. NEAR    score=   5.87  1h=  1.10%  24h= -1.72%
- 5. RAIN    score=   3.44  1h= -0.57%  24h=  5.34%
- 6. ASTER   score=   2.65  1h=  0.15%  24h= -0.28%
- 7. ENA     score=   2.14  1h=  0.17%  24h= -2.43%
- 8. SUI     score=   1.90  1h= -0.20%  24h= -1.35%
- 9. LTC     score=   1.60  1h=  0.13%  24h= -0.93%
-10. AAVE    score=   1.44  1h= -0.20%  24h= -1.08%
+ 1. FIGR_HELOC  score=   7.03  1h=  0.72%  24h=  4.49%
+ 2. RAIN    score=   5.46  1h=  0.14%  24h=  4.84%
+ 3. SUI     score=   2.86  1h=  0.16%  24h= -1.67%
+ 4. XMR     score=   2.75  1h= -0.81%  24h=  4.90%
+ 5. BTW     score=   0.97  1h=  3.37%  24h=-11.07%
+ 6. RLUSD   score=   0.96  1h=  0.00%  24h=  0.01%
+ 7. ENA     score=   0.90  1h= -0.02%  24h= -3.01%
+ 8. XAUT    score=   0.88  1h=  0.04%  24h= -0.11%
+ 9. HYPE    score=   0.86  1h=  0.42%  24h= -1.75%
+10. AAVE    score=   0.81  1h= -0.22%  24h= -1.67%
