@@ -1,19 +1,19 @@
-Updated: 2026-10-18T20:33:19.481323+00:00
+Updated: 2026-10-18T21:00:58.635637+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Bitway (BTW)
-  Score: 9.24
-  1h: 4.39% | 24h: -6.35%
-  Price: $2.4100
+  Figure Heloc (FIGR_HELOC)
+  Score: 6.921
+  1h: 0.72% | 24h: 4.38%
+  Price: $1.0750
 
 Top 10 by Momentum Score:
- 1. BTW     score=   9.24  1h=  4.39%  24h= -6.35%
- 2. FIGR_HELOC  score=   6.92  1h=  0.72%  24h=  4.38%
- 3. RLUSD   score=   1.14  1h= -0.00%  24h=  0.01%
- 4. USDY    score=   0.37  1h=  0.12%  24h= -0.07%
- 5. XAUT    score=   0.21  1h= -0.14%  24h= -0.23%
- 6. LEO     score=   0.05  1h=  0.02%  24h= -0.02%
- 7. USDS    score=   0.05  1h=  0.00%  24h=  0.01%
- 8. USYC    score=   0.00  1h=  0.00%  24h=  0.00%
- 9. BUIDL   score=   0.00  1h=  0.00%  24h=  0.00%
-10. USDF    score=  -0.03  1h=  0.00%  24h= -0.04%
+ 1. FIGR_HELOC  score=   6.92  1h=  0.72%  24h=  4.38%
+ 2. RAIN    score=   6.25  1h=  0.62%  24h=  3.98%
+ 3. XMR     score=   4.64  1h=  0.35%  24h=  2.72%
+ 4. HBAR    score=   2.80  1h=  1.12%  24h= -3.37%
+ 5. LTC     score=   1.86  1h=  0.87%  24h= -3.38%
+ 6. SUI     score=   1.84  1h=  0.51%  24h= -4.53%
+ 7. RLUSD   score=   1.20  1h=  0.00%  24h=  0.01%
+ 8. AAVE    score=   0.72  1h=  0.43%  24h= -4.15%
+ 9. XAUT    score=   0.59  1h= -0.02%  24h= -0.28%
+10. GRAM    score=   0.47  1h=  0.87%  24h= -2.86%
