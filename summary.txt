@@ -1,19 +1,19 @@
-Updated: 2026-10-18T22:30:51.054824+00:00
+Updated: 2026-10-18T23:00:45.700709+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Sui (SUI)
-  Score: 9.527
-  1h: 1.21% | 24h: 0.86%
-  Price: $0.9781
+  NEAR Protocol (NEAR)
+  Score: 10.23
+  1h: 1.36% | 24h: 1.45%
+  Price: $4.9500
 
 Top 10 by Momentum Score:
- 1. SUI     score=   9.53  1h=  1.21%  24h=  0.86%
- 2. NEAR    score=   9.35  1h=  1.36%  24h=  0.66%
- 3. ENA     score=   9.05  1h=  1.63%  24h= -1.22%
- 4. XMR     score=   8.84  1h=  1.05%  24h=  4.49%
- 5. UNI     score=   8.69  1h=  1.64%  24h=  0.19%
- 6. HBAR    score=   7.66  1h=  1.16%  24h=  1.37%
+ 1. NEAR    score=  10.23  1h=  1.36%  24h=  1.45%
+ 2. SUI     score=   9.97  1h=  1.21%  24h=  1.20%
+ 3. ENA     score=   9.23  1h=  1.63%  24h= -1.17%
+ 4. XMR     score=   9.12  1h=  1.05%  24h=  4.77%
+ 5. UNI     score=   8.85  1h=  1.64%  24h=  0.29%
+ 6. HBAR    score=   7.85  1h=  1.16%  24h=  1.56%
  7. FIGR_HELOC  score=   7.64  1h=  0.72%  24h=  5.10%
- 8. BTW     score=   6.32  1h=  2.26%  24h= -1.83%
- 9. TAO     score=   6.25  1h=  1.51%  24h= -0.86%
-10. ZEC     score=   5.84  1h=  1.59%  24h= -1.17%
+ 8. TAO     score=   7.51  1h=  1.51%  24h=  0.34%
+ 9. ZEC     score=   6.73  1h=  1.59%  24h= -0.33%
+10. BTW     score=   6.32  1h=  2.26%  24h= -1.83%
