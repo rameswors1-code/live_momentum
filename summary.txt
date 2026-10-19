@@ -1,19 +1,19 @@
-Updated: 2026-10-19T20:00:59.385018+00:00
+Updated: 2026-10-19T20:30:48.175354+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Pump.fun (PUMP)
-  Score: 11.427
-  1h: -1.38% | 24h: 11.78%
-  Price: $0.0043
+  Worldcoin (WLD)
+  Score: 14.288
+  1h: -0.32% | 24h: 9.84%
+  Price: $0.5126
 
 Top 10 by Momentum Score:
- 1. PUMP    score=  11.43  1h= -1.38%  24h= 11.78%
- 2. DOT     score=   9.18  1h= -0.73%  24h=  8.00%
- 3. SUI     score=   8.91  1h= -0.58%  24h=  4.41%
- 4. ENA     score=   8.90  1h= -0.53%  24h=  5.37%
- 5. NEAR    score=   7.62  1h= -0.77%  24h=  5.75%
- 6. XMR     score=   6.09  1h=  0.70%  24h=  2.98%
- 7. UNI     score=   5.81  1h= -0.83%  24h=  5.40%
- 8. ZEC     score=   5.39  1h= -0.80%  24h=  6.20%
- 9. CC      score=   5.03  1h= -0.46%  24h=  6.51%
-10. LTC     score=   5.02  1h= -0.56%  24h=  4.76%
+ 1. WLD     score=  14.29  1h= -0.32%  24h=  9.84%
+ 2. PUMP    score=  11.02  1h= -1.38%  24h= 11.45%
+ 3. ENA     score=   8.77  1h= -0.53%  24h=  5.24%
+ 4. SUI     score=   8.73  1h= -0.58%  24h=  4.37%
+ 5. NEAR    score=   7.96  1h= -0.77%  24h=  6.14%
+ 6. XMR     score=   6.01  1h=  0.70%  24h=  2.90%
+ 7. UNI     score=   5.50  1h= -0.83%  24h=  5.17%
+ 8. ZEC     score=   5.37  1h= -0.80%  24h=  6.19%
+ 9. CC      score=   5.05  1h= -0.46%  24h=  6.52%
+10. SOL     score=   4.86  1h= -0.09%  24h=  3.38%
