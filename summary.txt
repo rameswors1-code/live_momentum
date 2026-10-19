@@ -1,19 +1,19 @@
-Updated: 2026-10-19T01:30:50.943144+00:00
+Updated: 2026-10-19T02:00:55.607175+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Ethena (ENA)
-  Score: 9.174
-  1h: 0.99% | 24h: 0.85%
-  Price: $0.1913
+  Zcash (ZEC)
+  Score: 11.878
+  1h: 2.04% | 24h: 2.97%
+  Price: $1,166.9300
 
 Top 10 by Momentum Score:
- 1. ENA     score=   9.17  1h=  0.99%  24h=  0.85%
- 2. ZEC     score=   8.21  1h=  1.24%  24h=  2.13%
- 3. SUI     score=   6.94  1h=  0.04%  24h=  1.94%
- 4. NEAR    score=   6.62  1h= -0.24%  24h=  3.23%
- 5. XMR     score=   5.40  1h=  0.57%  24h=  2.73%
- 6. AAVE    score=   4.52  1h=  0.08%  24h=  1.00%
- 7. LINK    score=   3.82  1h=  0.33%  24h=  1.49%
- 8. CC      score=   3.81  1h=  1.42%  24h= -1.28%
- 9. LTC     score=   3.67  1h=  0.11%  24h=  1.02%
-10. FIGR_HELOC  score=   3.27  1h=  0.72%  24h=  0.73%
+ 1. ZEC     score=  11.88  1h=  2.04%  24h=  2.97%
+ 2. NEAR    score=   9.97  1h=  0.96%  24h=  2.43%
+ 3. BTW     score=   9.88  1h=  2.87%  24h= -0.44%
+ 4. PUMP    score=   9.02  1h=  2.03%  24h= -1.56%
+ 5. DOT     score=   8.90  1h=  1.24%  24h=  1.71%
+ 6. ENA     score=   8.88  1h=  0.81%  24h=  1.00%
+ 7. SUI     score=   8.31  1h=  0.32%  24h=  2.32%
+ 8. UNI     score=   7.61  1h=  1.12%  24h=  0.67%
+ 9. AAVE    score=   6.19  1h=  0.54%  24h=  1.07%
+10. TAO     score=   5.81  1h=  0.77%  24h=  1.14%
