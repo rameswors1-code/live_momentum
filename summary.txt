@@ -1,19 +1,19 @@
-Updated: 2026-10-19T06:30:48.518551+00:00
+Updated: 2026-10-19T07:00:58.293865+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Sui (SUI)
-  Score: 9.27
-  1h: 0.24% | 24h: 3.08%
-  Price: $1.0080
+  Pump.fun (PUMP)
+  Score: 12.395
+  1h: 1.00% | 24h: 4.54%
+  Price: $0.0045
 
 Top 10 by Momentum Score:
- 1. SUI     score=   9.27  1h=  0.24%  24h=  3.08%
- 2. ENA     score=   7.36  1h=  0.10%  24h=  1.71%
- 3. LTC     score=   6.70  1h=  0.78%  24h=  1.55%
- 4. UNI     score=   5.85  1h=  0.20%  24h=  1.82%
- 5. NEAR    score=   5.69  1h= -0.14%  24h=  1.97%
- 6. AAVE    score=   5.42  1h=  0.46%  24h=  0.53%
- 7. DOT     score=   5.11  1h=  0.05%  24h=  2.04%
- 8. PUMP    score=   4.31  1h= -1.20%  24h=  4.16%
- 9. BCH     score=   4.19  1h=  0.60%  24h=  1.21%
-10. TAO     score=   4.04  1h= -0.08%  24h=  2.28%
+ 1. PUMP    score=  12.39  1h=  1.00%  24h=  4.54%
+ 2. SUI     score=   8.41  1h=  0.04%  24h=  2.92%
+ 3. QNT     score=   8.35  1h=  1.37%  24h=  2.47%
+ 4. ENA     score=   6.33  1h= -0.20%  24h=  1.68%
+ 5. UNI     score=   5.65  1h=  0.09%  24h=  2.00%
+ 6. HYPE    score=   5.34  1h=  0.54%  24h=  2.13%
+ 7. NEAR    score=   5.09  1h= -0.03%  24h=  1.01%
+ 8. DOT     score=   4.86  1h=  0.05%  24h=  1.76%
+ 9. TAO     score=   4.45  1h=  0.03%  24h=  2.28%
+10. LINK    score=   4.28  1h=  0.43%  24h=  1.54%
