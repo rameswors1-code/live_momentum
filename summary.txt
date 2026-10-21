@@ -1,19 +1,19 @@
-Updated: 2026-10-21T13:31:01.798806+00:00
+Updated: 2026-10-21T14:01:10.424484+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  NEAR Protocol (NEAR)
-  Score: 22.77
-  1h: 0.90% | 24h: 11.29%
-  Price: $5.2200
+  Zcash (ZEC)
+  Score: 19.365
+  1h: 1.70% | 24h: 11.42%
+  Price: $1,315.9200
 
 Top 10 by Momentum Score:
- 1. NEAR    score=  22.77  1h=  0.90%  24h= 11.29%
- 2. ZEC     score=  19.34  1h=  0.69%  24h= 14.82%
- 3. WLD     score=  16.73  1h=  0.19%  24h=  5.33%
- 4. ENA     score=  13.88  1h= -1.19%  24h= 10.88%
- 5. ONDO    score=  11.75  1h=  0.82%  24h=  6.20%
- 6. PUMP    score=   9.93  1h= -0.54%  24h=  8.42%
- 7. SUI     score=   9.15  1h=  0.09%  24h=  4.48%
- 8. UNI     score=   8.34  1h= -0.39%  24h=  4.94%
- 9. LTC     score=   8.15  1h=  0.18%  24h=  5.08%
-10. HBAR    score=   7.40  1h=  0.60%  24h=  4.23%
+ 1. ZEC     score=  19.36  1h=  1.70%  24h= 11.42%
+ 2. NEAR    score=  15.60  1h= -0.61%  24h=  9.01%
+ 3. ENA     score=  14.65  1h=  0.11%  24h=  7.06%
+ 4. PUMP    score=  10.14  1h=  0.41%  24h=  5.22%
+ 5. XMR     score=   7.39  1h=  1.85%  24h=  0.06%
+ 6. AAVE    score=   6.17  1h= -0.10%  24h=  2.13%
+ 7. UNI     score=   5.75  1h= -0.42%  24h=  2.28%
+ 8. ETH     score=   5.29  1h=  0.23%  24h=  2.66%
+ 9. SUI     score=   5.12  1h= -0.30%  24h=  1.73%
+10. SHIB    score=   5.07  1h=  0.30%  24h=  3.38%
