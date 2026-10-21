@@ -1,19 +1,19 @@
-Updated: 2026-10-21T12:30:56.883277+00:00
+Updated: 2026-10-21T13:01:07.775197+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Worldcoin (WLD)
-  Score: 24.316
-  1h: 1.85% | 24h: 7.92%
-  Price: $0.5931
+  NEAR Protocol (NEAR)
+  Score: 22.845
+  1h: 0.90% | 24h: 11.42%
+  Price: $5.2200
 
 Top 10 by Momentum Score:
- 1. WLD     score=  24.32  1h=  1.85%  24h=  7.92%
- 2. ENA     score=  23.15  1h=  1.55%  24h= 10.74%
- 3. NEAR    score=  20.05  1h= -0.03%  24h= 11.63%
- 4. ZEC     score=  15.58  1h=  0.41%  24h= 12.18%
- 5. UNI     score=  11.30  1h=  0.56%  24h=  4.67%
- 6. AAVE    score=  10.04  1h=  0.36%  24h=  4.45%
- 7. SUI     score=   9.35  1h=  0.35%  24h=  3.83%
- 8. ONDO    score=   8.81  1h=  0.43%  24h=  5.25%
- 9. PUMP    score=   8.13  1h= -0.53%  24h=  6.53%
-10. LTC     score=   6.97  1h= -0.11%  24h=  4.95%
+ 1. NEAR    score=  22.84  1h=  0.90%  24h= 11.42%
+ 2. WLD     score=  18.34  1h=  0.19%  24h=  7.68%
+ 3. ZEC     score=  17.11  1h=  0.69%  24h= 12.74%
+ 4. ENA     score=  12.88  1h= -1.19%  24h=  9.97%
+ 5. ONDO    score=  11.69  1h=  0.82%  24h=  6.21%
+ 6. SUI     score=   8.59  1h=  0.09%  24h=  3.89%
+ 7. PUMP    score=   8.28  1h= -0.54%  24h=  6.77%
+ 8. LTC     score=   8.14  1h=  0.18%  24h=  5.09%
+ 9. UNI     score=   8.09  1h= -0.39%  24h=  4.74%
+10. HBAR    score=   7.14  1h=  0.60%  24h=  3.96%
