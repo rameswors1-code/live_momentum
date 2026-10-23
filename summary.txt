@@ -1,19 +1,19 @@
-Updated: 2026-10-23T19:30:52.437057+00:00
+Updated: 2026-10-23T20:01:03.758731+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Ethena (ENA)
-  Score: 6.608
-  1h: -0.82% | 24h: 3.81%
-  Price: $0.2086
+  Bitway (BTW)
+  Score: 24.877
+  1h: 5.31% | 24h: 5.92%
+  Price: $1.8500
 
 Top 10 by Momentum Score:
- 1. ENA     score=   6.61  1h= -0.82%  24h=  3.81%
- 2. BCH     score=   4.06  1h= -0.25%  24h=  3.78%
- 3. XAUT    score=   3.38  1h= -0.06%  24h= -0.81%
- 4. RLUSD   score=   2.99  1h= -0.00%  24h=  0.00%
- 5. SHIB    score=   2.21  1h= -0.16%  24h=  1.93%
- 6. AAVE    score=   1.93  1h= -0.36%  24h=  0.05%
- 7. LTC     score=   1.65  1h=  0.03%  24h= -0.22%
- 8. TRX     score=   1.28  1h=  0.10%  24h=  0.54%
- 9. LEO     score=   1.12  1h=  0.11%  24h=  0.74%
-10. UNI     score=   0.96  1h= -0.47%  24h=  0.28%
+ 1. BTW     score=  24.88  1h=  5.31%  24h=  5.92%
+ 2. ENA     score=   7.15  1h= -0.86%  24h=  4.45%
+ 3. XAUT    score=   3.85  1h=  0.06%  24h= -0.68%
+ 4. RLUSD   score=   3.01  1h= -0.00%  24h=  0.02%
+ 5. BCH     score=   2.27  1h= -0.65%  24h=  3.38%
+ 6. LEO     score=   1.22  1h=  0.10%  24h=  0.89%
+ 7. TRX     score=   0.85  1h= -0.02%  24h=  0.54%
+ 8. USDS    score=   0.46  1h=  0.00%  24h=  0.02%
+ 9. BNB     score=   0.42  1h= -0.36%  24h=  1.32%
+10. ETH     score=   0.33  1h= -0.42%  24h=  0.36%
