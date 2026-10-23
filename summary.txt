@@ -1,19 +1,19 @@
-Updated: 2026-10-23T16:01:05.931820+00:00
+Updated: 2026-10-23T16:30:55.121552+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Ethena (ENA)
-  Score: 11.613
-  1h: 0.69% | 24h: 4.22%
-  Price: $0.2067
+  Score: 10.665
+  1h: 0.69% | 24h: 3.23%
+  Price: $0.2053
 
 Top 10 by Momentum Score:
- 1. ENA     score=  11.61  1h=  0.69%  24h=  4.22%
- 2. BCH     score=   8.79  1h=  0.92%  24h=  4.45%
- 3. SUI     score=   4.75  1h=  0.16%  24h=  1.35%
- 4. TAO     score=   4.60  1h=  0.51%  24h=  1.29%
- 5. UNI     score=   4.58  1h=  0.27%  24h=  1.04%
- 6. CC      score=   4.45  1h=  0.49%  24h=  2.63%
- 7. SHIB    score=   4.45  1h=  0.26%  24h=  2.67%
- 8. AAVE    score=   4.43  1h=  0.16%  24h=  0.35%
- 9. XAUT    score=   3.92  1h=  0.06%  24h= -1.18%
-10. DOGE    score=   3.71  1h=  0.22%  24h=  1.31%
+ 1. ENA     score=  10.66  1h=  0.69%  24h=  3.23%
+ 2. BCH     score=   8.56  1h=  0.92%  24h=  4.19%
+ 3. UNI     score=   5.10  1h=  0.27%  24h=  1.58%
+ 4. TAO     score=   4.09  1h=  0.51%  24h=  0.80%
+ 5. SUI     score=   4.06  1h=  0.16%  24h=  0.67%
+ 6. SHIB    score=   3.96  1h=  0.26%  24h=  2.23%
+ 7. XAUT    score=   3.88  1h=  0.06%  24h= -1.14%
+ 8. AAVE    score=   3.86  1h=  0.16%  24h= -0.15%
+ 9. DOGE    score=   3.45  1h=  0.22%  24h=  1.05%
+10. ZEC     score=   3.29  1h=  0.36%  24h=  0.46%
