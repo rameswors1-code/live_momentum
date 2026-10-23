@@ -1,19 +1,19 @@
-Updated: 2026-10-23T04:30:53.448542+00:00
+Updated: 2026-10-23T04:35:52.881918+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Sui (SUI)
-  Score: 4.2
-  1h: -0.09% | 24h: -1.68%
-  Price: $0.9877
+  Score: 4.393
+  1h: -0.09% | 24h: -1.45%
+  Price: $0.9884
 
 Top 10 by Momentum Score:
- 1. SUI     score=   4.20  1h= -0.09%  24h= -1.68%
- 2. RLUSD   score=   3.68  1h= -0.00%  24h= -0.00%
- 3. ENA     score=   3.25  1h= -0.53%  24h= -2.84%
- 4. AAVE    score=   2.53  1h= -0.00%  24h= -1.33%
- 5. XAUT    score=   2.39  1h= -0.08%  24h= -2.01%
- 6. UNI     score=   2.36  1h=  0.06%  24h= -1.46%
- 7. BCH     score=   1.59  1h= -0.16%  24h=  1.19%
- 8. WLD     score=   1.40  1h= -1.01%  24h= -2.05%
- 9. USDS    score=   0.63  1h=  0.00%  24h= -0.00%
-10. DOGE    score=   0.56  1h= -0.03%  24h= -1.10%
+ 1. SUI     score=   4.39  1h= -0.09%  24h= -1.45%
+ 2. ENA     score=   3.95  1h= -0.53%  24h= -2.12%
+ 3. RLUSD   score=   3.65  1h= -0.00%  24h= -0.01%
+ 4. AAVE    score=   2.79  1h= -0.00%  24h= -1.09%
+ 5. UNI     score=   2.63  1h=  0.06%  24h= -1.20%
+ 6. WLD     score=   2.44  1h= -1.01%  24h= -0.96%
+ 7. XAUT    score=   2.37  1h= -0.08%  24h= -2.03%
+ 8. BCH     score=   1.59  1h= -0.16%  24h=  1.18%
+ 9. DOGE    score=   0.83  1h= -0.03%  24h= -0.83%
+10. BNB     score=   0.64  1h=  0.13%  24h= -0.10%
