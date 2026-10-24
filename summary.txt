@@ -1,19 +1,19 @@
-Updated: 2026-10-24T18:30:50.711196+00:00
+Updated: 2026-10-24T19:00:57.377901+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Rain (RAIN)
-  Score: 14.006
-  1h: 3.55% | 24h: 1.48%
-  Price: $0.0084
+  Zcash (ZEC)
+  Score: 8.16
+  1h: 2.99% | 24h: -3.65%
+  Price: $1,193.5400
 
 Top 10 by Momentum Score:
- 1. RAIN    score=  14.01  1h=  3.55%  24h=  1.48%
- 2. M       score=   5.96  1h=  0.44%  24h=  4.34%
- 3. RLUSD   score=   1.96  1h= -0.01%  24h=  0.02%
- 4. XAUT    score=   1.78  1h=  0.05%  24h= -0.32%
- 5. BTW     score=   1.26  1h= -0.09%  24h=  1.47%
- 6. FIGR_HELOC  score=   1.12  1h= -0.01%  24h=  1.08%
- 7. USDY    score=   0.38  1h=  0.09%  24h= -0.00%
- 8. USDS    score=   0.34  1h=  0.02%  24h=  0.02%
- 9. TRX     score=   0.24  1h= -0.00%  24h= -0.08%
-10. LEO     score=   0.04  1h= -0.02%  24h=  0.09%
+ 1. ZEC     score=   8.16  1h=  2.99%  24h= -3.65%
+ 2. RAIN    score=   7.17  1h=  1.34%  24h=  2.36%
+ 3. PUMP    score=   5.98  1h=  2.47%  24h= -5.61%
+ 4. SUI     score=   4.21  1h=  1.44%  24h= -4.67%
+ 5. CRO     score=   4.20  1h=  1.56%  24h= -1.35%
+ 6. ENA     score=   3.93  1h=  1.75%  24h=-10.01%
+ 7. UNI     score=   3.87  1h=  1.56%  24h= -4.91%
+ 8. HBAR    score=   3.83  1h=  1.25%  24h= -1.39%
+ 9. NEAR    score=   3.19  1h=  1.29%  24h= -6.56%
+10. CC      score=   3.18  1h=  1.37%  24h= -1.75%
