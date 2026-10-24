@@ -1,19 +1,19 @@
-Updated: 2026-10-24T14:00:57.826745+00:00
+Updated: 2026-10-24T14:30:55.333283+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  MemeCore (M)
-  Score: 14.458
-  1h: -2.13% | 24h: 21.86%
-  Price: $1.0960
+  Bitway (BTW)
+  Score: 8.531
+  1h: 3.26% | 24h: -3.02%
+  Price: $1.7600
 
 Top 10 by Momentum Score:
- 1. M       score=  14.46  1h= -2.13%  24h= 21.86%
- 2. BTW     score=  12.02  1h=  3.26%  24h=  0.47%
- 3. RLUSD   score=   2.20  1h=  0.00%  24h=  0.01%
- 4. XAUT    score=   1.79  1h= -0.01%  24h= -0.77%
- 5. USDS    score=   0.39  1h=  0.00%  24h=  0.01%
- 6. XMR     score=   0.21  1h=  0.42%  24h= -1.63%
- 7. LEO     score=   0.18  1h=  0.02%  24h=  0.12%
- 8. TRX     score=   0.05  1h= -0.07%  24h= -0.01%
- 9. USYC    score=   0.00  1h=  0.00%  24h=  0.00%
-10. BUIDL   score=   0.00  1h=  0.00%  24h=  0.00%
+ 1. BTW     score=   8.53  1h=  3.26%  24h= -3.02%
+ 2. M       score=   6.75  1h= -2.13%  24h= 14.14%
+ 3. XAUT    score=   2.35  1h= -0.01%  24h=  0.06%
+ 4. RLUSD   score=   2.23  1h=  0.00%  24h=  0.00%
+ 5. USDS    score=   0.38  1h=  0.00%  24h=  0.01%
+ 6. LEO     score=   0.18  1h=  0.02%  24h=  0.11%
+ 7. TRX     score=   0.03  1h= -0.07%  24h= -0.03%
+ 8. USYC    score=   0.00  1h=  0.00%  24h=  0.00%
+ 9. BUIDL   score=   0.00  1h=  0.00%  24h=  0.00%
+10. USDY    score=  -0.16  1h= -0.04%  24h= -0.10%
