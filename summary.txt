@@ -1,19 +1,19 @@
-Updated: 2026-10-25T11:30:50.895439+00:00
+Updated: 2026-10-25T12:00:55.902633+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Rain (RAIN)
-  Score: 21.09
-  1h: 5.53% | 24h: 1.63%
-  Price: $0.0082
+  Ethena (ENA)
+  Score: 19.141
+  1h: 3.14% | 24h: 3.35%
+  Price: $0.1962
 
 Top 10 by Momentum Score:
- 1. RAIN    score=  21.09  1h=  5.53%  24h=  1.63%
- 2. ENA     score=   6.32  1h=  0.02%  24h=  1.47%
- 3. ZEC     score=   4.39  1h= -0.11%  24h=  3.57%
- 4. RLUSD   score=   4.15  1h= -0.00%  24h=  0.01%
- 5. GRAM    score=   2.75  1h=  0.52%  24h=  0.51%
- 6. NEAR    score=   2.63  1h=  0.24%  24h= -2.21%
- 7. QNT     score=   2.54  1h=  0.12%  24h=  1.44%
- 8. BNB     score=   1.71  1h=  0.03%  24h=  1.27%
- 9. HYPE    score=   1.54  1h= -0.19%  24h=  0.72%
-10. XAUT    score=   1.44  1h= -0.01%  24h= -0.06%
+ 1. ENA     score=  19.14  1h=  3.14%  24h=  3.35%
+ 2. ZEC     score=  16.54  1h=  2.80%  24h=  5.49%
+ 3. NEAR    score=  10.04  1h=  1.78%  24h= -0.20%
+ 4. QNT     score=   7.48  1h=  1.18%  24h=  2.66%
+ 5. HYPE    score=   6.99  1h=  1.22%  24h=  1.22%
+ 6. UNI     score=   6.89  1h=  1.44%  24h= -0.71%
+ 7. PUMP    score=   6.64  1h=  1.38%  24h= -0.02%
+ 8. TAO     score=   6.24  1h=  1.28%  24h=  0.36%
+ 9. BNB     score=   5.00  1h=  0.85%  24h=  1.68%
+10. SUI     score=   4.49  1h=  1.15%  24h= -2.94%
