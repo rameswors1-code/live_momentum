@@ -1,19 +1,19 @@
-Updated: 2026-10-25T07:00:56.464125+00:00
+Updated: 2026-10-25T07:30:48.626362+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Figure Heloc (FIGR_HELOC)
-  Score: 4.162
-  1h: -0.00% | 24h: 4.16%
-  Price: $1.0630
+  Ethena (ENA)
+  Score: 4.928
+  1h: -0.62% | 24h: 0.38%
+  Price: $0.1916
 
 Top 10 by Momentum Score:
- 1. FIGR_HELOC  score=   4.16  1h= -0.00%  24h=  4.16%
- 2. ENA     score=   3.36  1h= -0.62%  24h= -1.28%
- 3. RLUSD   score=   3.21  1h= -0.00%  24h=  0.01%
- 4. XAUT    score=   1.09  1h= -0.07%  24h= -0.18%
- 5. QNT     score=   1.06  1h=  0.12%  24h= -0.05%
- 6. HBAR    score=   0.65  1h=  0.02%  24h= -0.15%
- 7. USDS    score=   0.37  1h=  0.00%  24h=  0.01%
- 8. BNB     score=   0.08  1h= -0.25%  24h=  0.61%
- 9. LEO     score=   0.02  1h= -0.00%  24h=  0.03%
-10. USYC    score=   0.00  1h=  0.00%  24h=  0.00%
+ 1. ENA     score=   4.93  1h= -0.62%  24h=  0.38%
+ 2. FIGR_HELOC  score=   4.17  1h= -0.00%  24h=  4.16%
+ 3. RLUSD   score=   3.25  1h= -0.00%  24h=  0.01%
+ 4. QNT     score=   2.58  1h=  0.12%  24h=  1.47%
+ 5. HBAR    score=   1.28  1h=  0.02%  24h=  0.48%
+ 6. XAUT    score=   1.21  1h= -0.07%  24h= -0.07%
+ 7. BNB     score=   0.43  1h= -0.25%  24h=  0.96%
+ 8. USDS    score=   0.37  1h=  0.00%  24h= -0.00%
+ 9. LTC     score=   0.21  1h= -0.29%  24h= -0.69%
+10. XRP     score=   0.06  1h= -0.44%  24h=  0.93%
