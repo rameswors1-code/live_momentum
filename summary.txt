@@ -1,19 +1,19 @@
-Updated: 2026-10-27T14:01:09.040927+00:00
+Updated: 2026-10-27T14:30:53.860533+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   MemeCore (M)
-  Score: 10.69
-  1h: 0.95% | 24h: 7.36%
-  Price: $1.0390
+  Score: 12.73
+  1h: 0.95% | 24h: 9.40%
+  Price: $1.0580
 
 Top 10 by Momentum Score:
- 1. M       score=  10.69  1h=  0.95%  24h=  7.36%
- 2. RLUSD   score=   4.43  1h=  0.00%  24h= -0.00%
- 3. HYPE    score=   4.43  1h=  0.08%  24h=  2.38%
- 4. BCH     score=   3.77  1h= -0.15%  24h=  3.14%
- 5. XAUT    score=   3.32  1h=  0.14%  24h=  0.77%
- 6. ENA     score=   3.15  1h= -1.11%  24h=  0.58%
- 7. UNI     score=   3.05  1h= -0.37%  24h=  1.72%
- 8. BTW     score=   2.85  1h= -0.07%  24h=  2.40%
- 9. ZEC     score=   2.56  1h= -0.59%  24h=  3.19%
-10. XRP     score=   1.69  1h= -0.32%  24h=  2.12%
+ 1. M       score=  12.73  1h=  0.95%  24h=  9.40%
+ 2. BTW     score=   6.93  1h= -0.07%  24h=  6.46%
+ 3. BCH     score=   4.08  1h= -0.15%  24h=  3.43%
+ 4. HYPE    score=   4.03  1h=  0.08%  24h=  2.04%
+ 5. RLUSD   score=   3.84  1h=  0.00%  24h=  0.01%
+ 6. ENA     score=   3.79  1h= -1.11%  24h=  0.95%
+ 7. XAUT    score=   3.36  1h=  0.14%  24h=  0.75%
+ 8. UNI     score=   3.01  1h= -0.37%  24h=  1.71%
+ 9. ZEC     score=   2.75  1h= -0.59%  24h=  3.42%
+10. XRP     score=   1.25  1h= -0.32%  24h=  1.68%
