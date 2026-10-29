@@ -1,19 +1,19 @@
-Updated: 2026-10-29T12:30:52.888084+00:00
+Updated: 2026-10-29T13:01:03.312324+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Hyperliquid (HYPE)
-  Score: 22.984
-  1h: 3.44% | 24h: 8.61%
-  Price: $87.9300
+  Score: 20.866
+  1h: 2.03% | 24h: 11.11%
+  Price: $89.5600
 
 Top 10 by Momentum Score:
- 1. HYPE    score=  22.98  1h=  3.44%  24h=  8.61%
- 2. PEPE    score=  20.46  1h=  1.64%  24h= -0.83%
- 3. UNI     score=   6.74  1h=  0.70%  24h=  1.48%
- 4. CC      score=   5.77  1h=  1.23%  24h=  1.24%
- 5. ENA     score=   5.47  1h= -0.22%  24h= -0.24%
- 6. BTW     score=   5.46  1h=  0.81%  24h=  2.49%
- 7. AAVE    score=   4.99  1h=  0.33%  24h= -0.47%
- 8. LTC     score=   4.70  1h=  0.17%  24h=  0.87%
- 9. LINK    score=   2.54  1h=  0.44%  24h= -0.37%
-10. CRO     score=   2.52  1h=  0.54%  24h=  0.53%
+ 1. HYPE    score=  20.87  1h=  2.03%  24h= 11.11%
+ 2. ENA     score=  14.69  1h=  1.52%  24h=  3.00%
+ 3. PEPE    score=  12.72  1h= -0.67%  24h= -0.22%
+ 4. PUMP    score=  10.14  1h=  0.84%  24h=  3.57%
+ 5. CC      score=   7.48  1h=  0.97%  24h=  3.84%
+ 6. UNI     score=   6.20  1h=  0.23%  24h=  2.58%
+ 7. LTC     score=   5.19  1h=  0.14%  24h=  1.48%
+ 8. SUI     score=   4.50  1h=  0.19%  24h= -0.09%
+ 9. AAVE    score=   4.30  1h= -0.16%  24h=  0.54%
+10. XLM     score=   3.60  1h=  0.59%  24h=  0.72%
