@@ -1,19 +1,19 @@
-Updated: 2026-10-29T18:01:02.255972+00:00
+Updated: 2026-10-29T18:30:50.128324+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Pepe (PEPE)
-  Score: 33.876
-  1h: 0.57% | 24h: 10.01%
+  Score: 32.718
+  1h: 0.57% | 24h: 8.82%
   Price: $0.0000
 
 Top 10 by Momentum Score:
- 1. PEPE    score=  33.88  1h=  0.57%  24h= 10.01%
- 2. HYPE    score=  14.69  1h= -2.06%  24h= 17.64%
- 3. ENA     score=  11.22  1h= -1.33%  24h=  7.76%
- 4. FIGR_HELOC  score=   9.32  1h=  1.86%  24h=  2.70%
- 5. ZEC     score=   3.85  1h= -0.65%  24h=  4.07%
- 6. PUMP    score=   3.57  1h= -2.20%  24h=  6.68%
- 7. RLUSD   score=   2.46  1h=  0.02%  24h=  0.01%
- 8. BCH     score=   2.39  1h= -0.05%  24h=  0.95%
- 9. OKB     score=   1.40  1h= -0.47%  24h=  2.66%
-10. SUI     score=   1.26  1h= -1.24%  24h=  1.01%
+ 1. PEPE    score=  32.72  1h=  0.57%  24h=  8.82%
+ 2. HYPE    score=  14.88  1h= -2.06%  24h= 17.81%
+ 3. ENA     score=   9.24  1h= -1.33%  24h=  5.93%
+ 4. FIGR_HELOC  score=   9.02  1h=  1.86%  24h=  2.42%
+ 5. BCH     score=   3.00  1h= -0.05%  24h=  1.59%
+ 6. RLUSD   score=   2.78  1h=  0.02%  24h=  0.00%
+ 7. ZEC     score=   2.64  1h= -0.65%  24h=  2.87%
+ 8. PUMP    score=   1.66  1h= -2.20%  24h=  4.83%
+ 9. USDS    score=   1.32  1h=  0.04%  24h=  0.02%
+10. XAUT    score=   1.11  1h= -0.21%  24h= -0.66%
