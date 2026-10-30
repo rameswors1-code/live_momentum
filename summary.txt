@@ -1,19 +1,19 @@
-Updated: 2026-10-30T07:30:52.815471+00:00
+Updated: 2026-10-30T08:00:59.943577+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Pepe (PEPE)
-  Score: 33.573
-  1h: 0.43% | 24h: -1.03%
-  Price: $0.0000
+  Tether Gold (XAUT)
+  Score: 128.991
+  1h: -0.12% | 24h: -1.15%
+  Price: $3,972.5000
 
 Top 10 by Momentum Score:
- 1. PEPE    score=  33.57  1h=  0.43%  24h= -1.03%
- 2. HYPE    score=  29.21  1h=  1.25%  24h= 18.19%
- 3. ENA     score=  26.70  1h=  2.38%  24h= -2.39%
- 4. NEAR    score=  20.45  1h=  3.74%  24h= -0.40%
- 5. UNI     score=  12.73  1h=  1.05%  24h= -3.30%
- 6. AAVE    score=  11.35  1h=  1.14%  24h= -2.93%
- 7. QNT     score=  10.80  1h=  1.57%  24h=  3.63%
- 8. SUI     score=   7.91  1h=  0.68%  24h= -1.43%
- 9. ZEC     score=   7.82  1h=  0.80%  24h=  2.18%
-10. ONDO    score=   6.39  1h=  0.95%  24h= -2.79%
+ 1. XAUT    score= 128.99  1h= -0.12%  24h= -1.15%
+ 2. PEPE    score=  34.47  1h=  0.43%  24h= -0.33%
+ 3. HYPE    score=  26.85  1h=  1.25%  24h= 15.73%
+ 4. ENA     score=  25.72  1h=  2.38%  24h= -3.55%
+ 5. NEAR    score=  19.87  1h=  3.74%  24h= -1.62%
+ 6. UNI     score=  11.89  1h=  1.05%  24h= -4.24%
+ 7. AAVE    score=  10.74  1h=  1.14%  24h= -3.62%
+ 8. QNT     score=   7.53  1h=  1.57%  24h=  0.32%
+ 9. SUI     score=   7.12  1h=  0.68%  24h= -2.46%
+10. ZEC     score=   6.37  1h=  0.80%  24h=  0.69%
