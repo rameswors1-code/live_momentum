@@ -1,19 +1,19 @@
-Updated: 2026-10-30T11:01:02.688179+00:00
+Updated: 2026-10-30T11:30:53.724842+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Tether Gold (XAUT)
-  Score: 287.181
-  1h: -0.29% | 24h: -1.23%
-  Price: $3,972.4600
+  Score: 315.305
+  1h: -0.29% | 24h: -1.52%
+  Price: $3,964.1200
 
 Top 10 by Momentum Score:
- 1. XAUT    score= 287.18  1h= -0.29%  24h= -1.23%
- 2. PEPE    score=  60.60  1h=  5.68%  24h=  6.47%
- 3. HYPE    score=  22.95  1h=  1.89%  24h=  9.79%
- 4. ENA     score=  15.09  1h= -0.14%  24h= -6.10%
- 5. TRX     score=  13.49  1h=  2.19%  24h=  3.16%
- 6. UNI     score=  12.68  1h=  1.12%  24h= -4.26%
- 7. BCH     score=   9.20  1h=  1.55%  24h=  1.78%
- 8. ZEC     score=   8.52  1h=  1.47%  24h=  0.44%
- 9. AAVE    score=   7.81  1h=  0.63%  24h= -5.16%
-10. NEAR    score=   7.65  1h= -0.18%  24h= -0.98%
+ 1. XAUT    score= 315.31  1h= -0.29%  24h= -1.52%
+ 2. PEPE    score=  62.89  1h=  5.68%  24h=  7.01%
+ 3. HYPE    score=  20.75  1h=  1.89%  24h=  7.88%
+ 4. UNI     score=  13.58  1h=  1.12%  24h= -3.50%
+ 5. TRX     score=  12.87  1h=  2.19%  24h=  2.56%
+ 6. ENA     score=  12.56  1h= -0.14%  24h= -8.54%
+ 7. BCH     score=   8.99  1h=  1.55%  24h=  1.55%
+ 8. ZEC     score=   8.26  1h=  1.47%  24h=  0.18%
+ 9. AAVE    score=   7.25  1h=  0.63%  24h= -5.76%
+10. SUI     score=   7.19  1h=  0.97%  24h= -3.32%
