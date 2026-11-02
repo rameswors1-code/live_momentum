@@ -1,19 +1,19 @@
-Updated: 2026-11-02T09:30:54.211057+00:00
+Updated: 2026-11-02T10:01:01.489382+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Pepe (PEPE)
-  Score: 7.026
-  1h: 0.84% | 24h: -2.28%
-  Price: $0.0000
+  Uniswap (UNI)
+  Score: 2.69
+  1h: -0.15% | 24h: -0.62%
+  Price: $7.1900
 
 Top 10 by Momentum Score:
- 1. PEPE    score=   7.03  1h=  0.84%  24h= -2.28%
- 2. RAIN    score=   4.65  1h=  1.13%  24h=  0.56%
- 3. HYPE    score=   4.62  1h=  1.10%  24h= -1.50%
- 4. UNI     score=   4.41  1h=  0.22%  24h= -0.25%
- 5. ETH     score=   4.08  1h=  0.55%  24h=  1.02%
- 6. TRX     score=   2.80  1h=  0.15%  24h=  1.66%
- 7. XMR     score=   2.59  1h=  0.54%  24h=  0.28%
- 8. OKB     score=   2.32  1h=  0.10%  24h=  1.71%
- 9. DOGE    score=   1.94  1h=  0.34%  24h= -0.32%
-10. XAUT    score=   1.82  1h= -0.17%  24h=  0.40%
+ 1. UNI     score=   2.69  1h= -0.15%  24h= -0.62%
+ 2. RAIN    score=   2.65  1h=  0.44%  24h=  0.98%
+ 3. XAUT    score=   2.54  1h=  0.03%  24h=  0.42%
+ 4. TRX     score=   2.47  1h=  0.07%  24h=  1.63%
+ 5. RLUSD   score=   1.26  1h= -0.00%  24h= -0.04%
+ 6. PEPE    score=   1.21  1h= -0.61%  24h= -2.85%
+ 7. ETH     score=   1.08  1h= -0.28%  24h=  0.89%
+ 8. USDS    score=   0.62  1h=  0.00%  24h= -0.06%
+ 9. USDY    score=   0.52  1h=  0.14%  24h=  0.02%
+10. OKB     score=   0.40  1h= -0.33%  24h=  1.30%
