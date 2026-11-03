@@ -1,19 +1,19 @@
-Updated: 2026-11-03T10:30:47.587789+00:00
+Updated: 2026-11-03T11:01:15.829902+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Rain (RAIN)
-  Score: 10.071
-  1h: 2.31% | 24h: 1.88%
-  Price: $0.0064
+  Canton (CC)
+  Score: 10.229
+  1h: 2.43% | 24h: 1.64%
+  Price: $0.0971
 
 Top 10 by Momentum Score:
- 1. RAIN    score=  10.07  1h=  2.31%  24h=  1.88%
- 2. PUMP    score=   8.56  1h=  2.06%  24h= -0.83%
- 3. PEPE    score=   5.89  1h=  0.40%  24h= -2.60%
- 4. UNI     score=   5.58  1h=  0.68%  24h= -1.00%
- 5. XMR     score=   5.05  1h=  0.59%  24h=  2.50%
- 6. SUI     score=   4.43  1h=  0.84%  24h= -1.20%
- 7. AVAX    score=   4.38  1h=  0.90%  24h= -0.62%
- 8. HYPE    score=   4.05  1h=  0.98%  24h= -1.61%
- 9. CC      score=   4.04  1h=  1.03%  24h=  0.35%
-10. AAVE    score=   3.96  1h=  0.44%  24h= -2.27%
+ 1. CC      score=  10.23  1h=  2.43%  24h=  1.64%
+ 2. PUMP    score=   7.58  1h=  1.58%  24h= -0.14%
+ 3. PEPE    score=   5.34  1h=  0.27%  24h= -2.69%
+ 4. UNI     score=   4.47  1h=  0.13%  24h= -0.14%
+ 5. TRX     score=   3.34  1h=  0.15%  24h=  2.11%
+ 6. SUI     score=   2.98  1h=  0.38%  24h= -1.04%
+ 7. AVAX    score=   2.31  1h=  0.37%  24h= -0.88%
+ 8. XMR     score=   2.26  1h= -0.21%  24h=  2.51%
+ 9. RLUSD   score=   2.19  1h= -0.01%  24h= -0.01%
+10. AAVE    score=   2.18  1h= -0.08%  24h= -2.19%
