@@ -1,19 +1,19 @@
-Updated: 2026-11-02T23:30:48.952564+00:00
+Updated: 2026-11-03T00:01:05.407712+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Rain (RAIN)
-  Score: 20.422
-  1h: 2.61% | 24h: 11.16%
-  Price: $0.0069
+  Score: 16.479
+  1h: 1.42% | 24h: 11.38%
+  Price: $0.0068
 
 Top 10 by Momentum Score:
- 1. RAIN    score=  20.42  1h=  2.61%  24h= 11.16%
- 2. PEPE    score=   4.47  1h= -0.03%  24h= -3.04%
- 3. XAUT    score=   3.76  1h=  0.09%  24h=  1.01%
- 4. TRX     score=   2.87  1h=  0.11%  24h=  1.87%
- 5. M       score=   2.14  1h=  0.20%  24h=  1.38%
- 6. RLUSD   score=   2.06  1h= -0.01%  24h= -0.03%
- 7. UNI     score=   1.46  1h= -0.31%  24h= -1.47%
- 8. USDS    score=   0.88  1h= -0.00%  24h= -0.03%
- 9. ETH     score=   0.71  1h= -0.04%  24h= -0.81%
-10. USDY    score=   0.42  1h=  0.08%  24h=  0.06%
+ 1. RAIN    score=  16.48  1h=  1.42%  24h= 11.38%
+ 2. PEPE    score=   5.37  1h=  0.01%  24h= -2.31%
+ 3. XAUT    score=   3.37  1h= -0.04%  24h=  1.09%
+ 4. TRX     score=   2.65  1h=  0.04%  24h=  1.93%
+ 5. RLUSD   score=   2.09  1h=  0.00%  24h= -0.03%
+ 6. UNI     score=   1.89  1h= -0.12%  24h= -1.74%
+ 7. USDS    score=   0.92  1h=  0.02%  24h= -0.04%
+ 8. XRP     score=   0.66  1h=  0.01%  24h= -0.08%
+ 9. EURSAFO  score=   0.33  1h=  0.01%  24h=  0.29%
+10. XMR     score=   0.32  1h= -0.30%  24h=  0.88%
