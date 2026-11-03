@@ -1,19 +1,19 @@
-Updated: 2026-11-03T20:01:12.621382+00:00
+Updated: 2026-11-03T20:31:06.024543+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Pump.fun (PUMP)
-  Score: 11.345
-  1h: -0.03% | 24h: 8.76%
-  Price: $0.0043
+  Pepe (PEPE)
+  Score: 10.42
+  1h: 0.19% | 24h: 2.32%
+  Price: $0.0000
 
 Top 10 by Momentum Score:
- 1. PUMP    score=  11.35  1h= -0.03%  24h=  8.76%
- 2. PEPE    score=  10.97  1h=  0.19%  24h=  2.80%
- 3. ENA     score=   8.64  1h=  0.94%  24h=  0.96%
- 4. XMR     score=   7.48  1h=  0.75%  24h=  4.28%
- 5. AVAX    score=   7.09  1h=  0.66%  24h=  2.92%
- 6. M       score=   5.79  1h=  0.71%  24h=  3.31%
- 7. UNI     score=   5.74  1h= -0.29%  24h=  2.52%
- 8. ZEC     score=   4.95  1h= -0.44%  24h=  4.82%
- 9. AAVE    score=   4.77  1h=  0.09%  24h=  0.08%
-10. SUI     score=   4.58  1h= -0.25%  24h=  2.61%
+ 1. PEPE    score=  10.42  1h=  0.19%  24h=  2.32%
+ 2. PUMP    score=   9.95  1h= -0.03%  24h=  7.43%
+ 3. ENA     score=   8.32  1h=  0.94%  24h=  0.94%
+ 4. XMR     score=   6.48  1h=  0.75%  24h=  3.28%
+ 5. AVAX    score=   6.04  1h=  0.66%  24h=  1.90%
+ 6. UNI     score=   5.62  1h= -0.29%  24h=  2.50%
+ 7. M       score=   5.11  1h=  0.71%  24h=  2.63%
+ 8. AAVE    score=   4.94  1h=  0.09%  24h=  0.27%
+ 9. ZEC     score=   4.77  1h= -0.44%  24h=  4.69%
+10. SUI     score=   4.27  1h= -0.25%  24h=  2.35%
