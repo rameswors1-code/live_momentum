@@ -1,19 +1,19 @@
-Updated: 2026-11-04T23:01:02.859139+00:00
+Updated: 2026-11-04T23:30:49.786546+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Uniswap (UNI)
-  Score: 21.716
-  1h: 2.21% | 24h: 8.16%
-  Price: $7.8000
+  Pepe (PEPE)
+  Score: 20.567
+  1h: 2.05% | 24h: 2.65%
+  Price: $0.0000
 
 Top 10 by Momentum Score:
- 1. UNI     score=  21.72  1h=  2.21%  24h=  8.16%
- 2. PEPE    score=  20.81  1h=  2.05%  24h=  2.98%
- 3. ENA     score=  17.90  1h=  1.88%  24h=  4.00%
- 4. NEAR    score=  16.25  1h=  1.37%  24h=  5.67%
- 5. ZEC     score=  16.25  1h=  1.83%  24h=  7.49%
- 6. SUI     score=  15.92  1h=  1.93%  24h=  4.39%
- 7. AAVE    score=  15.62  1h=  1.57%  24h=  4.88%
- 8. QNT     score=  12.51  1h=  1.40%  24h=  6.50%
- 9. ADA     score=  11.96  1h=  1.57%  24h=  4.72%
-10. ETH     score=  11.24  1h=  0.75%  24h=  6.29%
+ 1. PEPE    score=  20.57  1h=  2.05%  24h=  2.65%
+ 2. UNI     score=  19.45  1h=  2.21%  24h=  5.83%
+ 3. ENA     score=  17.08  1h=  1.88%  24h=  3.00%
+ 4. SUI     score=  15.48  1h=  1.93%  24h=  3.81%
+ 5. NEAR    score=  15.01  1h=  1.37%  24h=  4.26%
+ 6. AAVE    score=  14.54  1h=  1.57%  24h=  3.92%
+ 7. ZEC     score=  14.18  1h=  1.83%  24h=  5.30%
+ 8. QNT     score=  12.87  1h=  1.40%  24h=  6.85%
+ 9. ETH     score=  10.91  1h=  0.75%  24h=  5.94%
+10. ADA     score=  10.85  1h=  1.57%  24h=  3.60%
