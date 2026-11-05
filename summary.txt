@@ -1,19 +1,19 @@
-Updated: 2026-11-05T14:31:06.555818+00:00
+Updated: 2026-11-05T15:01:05.086552+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Bitcoin Cash (BCH)
-  Score: 8.787
-  1h: 0.52% | 24h: 5.58%
-  Price: $288.1900
+  Ripple USD (RLUSD)
+  Score: 6.217
+  1h: 0.01% | 24h: 0.03%
+  Price: $1.0000
 
 Top 10 by Momentum Score:
- 1. BCH     score=   8.79  1h=  0.52%  24h=  5.58%
- 2. PEPE    score=   8.72  1h= -0.07%  24h= -0.17%
- 3. AAVE    score=   6.92  1h=  0.22%  24h=  1.45%
- 4. XAUT    score=   6.62  1h=  0.15%  24h=  2.09%
- 5. ZEC     score=   6.42  1h=  1.03%  24h=  1.17%
- 6. RLUSD   score=   6.13  1h=  0.00%  24h=  0.02%
- 7. SOL     score=   5.98  1h=  0.10%  24h=  2.41%
- 8. QNT     score=   5.42  1h=  1.00%  24h=  0.99%
- 9. ENA     score=   5.29  1h= -0.05%  24h= -0.12%
-10. SUI     score=   5.09  1h=  0.11%  24h=  0.54%
+ 1. RLUSD   score=   6.22  1h=  0.01%  24h=  0.03%
+ 2. XAUT    score=   4.46  1h= -0.40%  24h=  1.66%
+ 3. USDS    score=   1.47  1h=  0.01%  24h=  0.05%
+ 4. LEO     score=   0.26  1h= -0.00%  24h=  0.27%
+ 5. FIGR_HELOC  score=   0.20  1h= -0.34%  24h=  1.36%
+ 6. USDY    score=   0.17  1h= -0.01%  24h=  0.17%
+ 7. USYC    score=   0.04  1h=  0.01%  24h=  0.01%
+ 8. BUIDL   score=   0.00  1h=  0.00%  24h=  0.00%
+ 9. TRX     score=  -0.12  1h= -0.05%  24h= -0.47%
+10. EURSAFO  score=  -0.47  1h= -0.05%  24h= -0.31%
