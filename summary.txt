@@ -1,19 +1,19 @@
-Updated: 2026-11-05T00:01:05.287217+00:00
+Updated: 2026-11-05T00:30:56.370750+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  MemeCore (M)
-  Score: 8.027
-  1h: 2.40% | 24h: -0.42%
-  Price: $0.8572
+  Pepe (PEPE)
+  Score: 7.894
+  1h: -1.76% | 24h: 3.31%
+  Price: $0.0000
 
 Top 10 by Momentum Score:
- 1. M       score=   8.03  1h=  2.40%  24h= -0.42%
- 2. ETH     score=   6.90  1h= -0.55%  24h=  6.47%
- 3. PEPE    score=   6.66  1h= -1.76%  24h=  2.05%
- 4. XAUT    score=   6.31  1h=  0.03%  24h=  2.96%
- 5. SUI     score=   5.02  1h= -1.07%  24h=  3.82%
- 6. NEAR    score=   4.91  1h= -1.61%  24h=  4.42%
- 7. AAVE    score=   4.66  1h= -1.17%  24h=  3.61%
- 8. ENA     score=   4.61  1h= -1.76%  24h=  3.27%
- 9. CC      score=   4.33  1h=  0.33%  24h=  3.03%
-10. WBT     score=   4.22  1h= -0.36%  24h=  4.63%
+ 1. PEPE    score=   7.89  1h= -1.76%  24h=  3.31%
+ 2. ETH     score=   7.42  1h= -0.55%  24h=  7.00%
+ 3. ENA     score=   7.28  1h= -1.76%  24h=  6.23%
+ 4. M       score=   6.91  1h=  2.40%  24h= -1.51%
+ 5. XAUT    score=   6.72  1h=  0.03%  24h=  3.37%
+ 6. SUI     score=   6.59  1h= -1.07%  24h=  5.44%
+ 7. AAVE    score=   5.91  1h= -1.17%  24h=  4.96%
+ 8. ONDO    score=   5.39  1h= -1.12%  24h=  6.40%
+ 9. UNI     score=   5.31  1h= -2.32%  24h=  7.54%
+10. NEAR    score=   5.08  1h= -1.61%  24h=  4.84%
