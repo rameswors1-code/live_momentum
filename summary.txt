@@ -1,19 +1,19 @@
-Updated: 2026-11-05T06:30:51.367661+00:00
+Updated: 2026-11-05T07:01:00.895212+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Ethereum (ETH)
-  Score: 7.216
-  1h: -0.19% | 24h: 5.77%
-  Price: $2,425.5100
+  Uniswap (UNI)
+  Score: 13.689
+  1h: 1.15% | 24h: 4.00%
+  Price: $7.6600
 
 Top 10 by Momentum Score:
- 1. ETH     score=   7.22  1h= -0.19%  24h=  5.77%
- 2. PEPE    score=   6.84  1h= -0.92%  24h= -0.01%
- 3. CC      score=   5.88  1h=  0.13%  24h=  5.25%
- 4. SUI     score=   5.40  1h= -0.72%  24h=  3.47%
- 5. AAVE    score=   5.21  1h= -0.63%  24h=  2.37%
- 6. SOL     score=   5.13  1h= -0.22%  24h=  3.27%
- 7. LINK    score=   5.08  1h= -0.38%  24h=  4.69%
- 8. QNT     score=   5.07  1h= -0.46%  24h=  5.59%
- 9. ZEC     score=   5.01  1h= -0.18%  24h=  3.55%
-10. RLUSD   score=   4.95  1h=  0.00%  24h=  0.02%
+ 1. UNI     score=  13.69  1h=  1.15%  24h=  4.00%
+ 2. PEPE    score=  11.59  1h=  0.36%  24h=  0.36%
+ 3. NEAR    score=   9.89  1h=  0.66%  24h=  2.38%
+ 4. QNT     score=   9.87  1h=  0.85%  24h=  5.80%
+ 5. ZEC     score=   9.69  1h=  1.00%  24h=  4.28%
+ 6. AAVE    score=   9.52  1h=  0.74%  24h=  2.23%
+ 7. ETH     score=   9.17  1h=  0.37%  24h=  5.80%
+ 8. SUI     score=   9.15  1h=  0.40%  24h=  3.26%
+ 9. BCH     score=   8.93  1h=  1.23%  24h=  3.48%
+10. ENA     score=   7.76  1h=  0.71%  24h= -0.95%
