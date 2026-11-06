@@ -1,19 +1,19 @@
-Updated: 2026-11-06T14:30:51.128738+00:00
+Updated: 2026-11-06T15:01:08.371336+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Bitway (BTW)
-  Score: 42.998
-  1h: 4.97% | 24h: 25.47%
-  Price: $1.2300
+  Pepe (PEPE)
+  Score: 12.16
+  1h: -0.94% | 24h: 6.08%
+  Price: $0.0000
 
 Top 10 by Momentum Score:
- 1. BTW     score=  43.00  1h=  4.97%  24h= 25.47%
- 2. RAIN    score=   8.92  1h=  2.52%  24h= -0.03%
- 3. PEPE    score=   8.12  1h= -0.94%  24h=  1.99%
- 4. RLUSD   score=   6.36  1h= -0.00%  24h= -0.01%
- 5. UNI     score=   4.81  1h=  0.72%  24h= -4.89%
- 6. AAVE    score=   4.79  1h=  0.22%  24h= -1.67%
- 7. ZEC     score=   4.62  1h=  0.22%  24h=  1.18%
- 8. M       score=   2.03  1h=  0.03%  24h=  1.88%
- 9. TRX     score=   1.52  1h=  0.21%  24h=  0.22%
-10. USDS    score=   1.16  1h= -0.01%  24h= -0.00%
+ 1. PEPE    score=  12.16  1h= -0.94%  24h=  6.08%
+ 2. ZEC     score=  10.69  1h=  0.22%  24h=  7.09%
+ 3. RAIN    score=   9.15  1h=  2.52%  24h=  0.21%
+ 4. AAVE    score=   8.70  1h=  0.22%  24h=  2.29%
+ 5. UNI     score=   7.99  1h=  0.72%  24h= -1.54%
+ 6. RLUSD   score=   6.40  1h= -0.00%  24h= -0.01%
+ 7. ENA     score=   4.80  1h=  0.04%  24h= -2.64%
+ 8. SUI     score=   4.16  1h= -0.14%  24h= -1.34%
+ 9. CRO     score=   3.07  1h=  0.74%  24h=  0.37%
+10. M       score=   2.59  1h=  0.03%  24h=  2.45%
