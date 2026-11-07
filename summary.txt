@@ -1,19 +1,19 @@
-Updated: 2026-11-07T08:30:46.292955+00:00
+Updated: 2026-11-07T09:01:00.232889+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Zcash (ZEC)
-  Score: 9.117
-  1h: 0.73% | 24h: 4.50%
-  Price: $1,318.8000
+  Pepe (PEPE)
+  Score: 8.549
+  1h: 0.58% | 24h: -0.39%
+  Price: $0.0000
 
 Top 10 by Momentum Score:
- 1. ZEC     score=   9.12  1h=  0.73%  24h=  4.50%
- 2. QNT     score=   7.56  1h=  0.47%  24h=  5.08%
- 3. PEPE    score=   7.47  1h=  0.46%  24h= -1.07%
- 4. AAVE    score=   4.83  1h=  0.11%  24h=  0.84%
- 5. ENA     score=   4.37  1h=  0.12%  24h= -0.16%
- 6. SUI     score=   3.80  1h=  0.01%  24h=  1.10%
- 7. RLUSD   score=   3.55  1h= -0.00%  24h=  0.01%
- 8. NEAR    score=   3.22  1h= -0.06%  24h=  0.35%
- 9. LINK    score=   3.09  1h=  0.29%  24h=  0.98%
-10. PAXG    score=   2.95  1h=  0.01%  24h=  0.13%
+ 1. PEPE    score=   8.55  1h=  0.58%  24h= -0.39%
+ 2. ZEC     score=   7.95  1h=  0.19%  24h=  5.25%
+ 3. NEAR    score=   3.83  1h=  0.05%  24h=  0.65%
+ 4. UNI     score=   3.76  1h=  0.05%  24h=  0.83%
+ 5. AAVE    score=   3.72  1h= -0.37%  24h=  1.40%
+ 6. SUI     score=   3.58  1h= -0.15%  24h=  1.47%
+ 7. RLUSD   score=   3.52  1h= -0.01%  24h=  0.00%
+ 8. ENA     score=   3.00  1h= -0.39%  24h=  0.29%
+ 9. HYPE    score=   2.90  1h= -0.15%  24h=  1.73%
+10. ETH     score=   2.77  1h=  0.16%  24h=  1.02%
