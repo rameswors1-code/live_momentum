@@ -1,19 +1,19 @@
-Updated: 2026-11-07T12:30:58.177546+00:00
+Updated: 2026-11-07T13:01:02.711357+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Aave (AAVE)
-  Score: 5.657
-  1h: 0.37% | 24h: 0.96%
-  Price: $132.0600
+  Uniswap (UNI)
+  Score: 3.281
+  1h: -0.13% | 24h: 1.28%
+  Price: $7.0300
 
 Top 10 by Momentum Score:
- 1. AAVE    score=   5.66  1h=  0.37%  24h=  0.96%
- 2. UNI     score=   4.72  1h=  0.42%  24h=  0.82%
- 3. QNT     score=   4.05  1h=  0.14%  24h=  2.77%
- 4. PAXG    score=   2.65  1h= -0.01%  24h=  0.08%
- 5. RLUSD   score=   2.63  1h=  0.00%  24h= -0.00%
- 6. XAUT    score=   1.84  1h=  0.00%  24h=  0.18%
- 7. NEAR    score=   1.60  1h=  0.15%  24h= -1.84%
- 8. TAO     score=   1.49  1h=  0.13%  24h=  0.13%
- 9. USDS    score=   1.02  1h= -0.00%  24h=  0.01%
-10. TRX     score=   0.85  1h= -0.03%  24h=  0.50%
+ 1. UNI     score=   3.28  1h= -0.13%  24h=  1.28%
+ 2. QNT     score=   3.12  1h= -0.26%  24h=  3.21%
+ 3. PAXG    score=   2.91  1h=  0.01%  24h=  0.27%
+ 4. AAVE    score=   2.59  1h= -0.40%  24h=  0.61%
+ 5. RLUSD   score=   2.57  1h=  0.00%  24h= -0.00%
+ 6. M       score=   2.50  1h=  1.08%  24h= -1.32%
+ 7. XAUT    score=   2.20  1h=  0.05%  24h=  0.38%
+ 8. NEAR    score=   1.97  1h= -0.13%  24h= -0.34%
+ 9. PEPE    score=   1.95  1h= -0.01%  24h= -3.74%
+10. ENA     score=   1.58  1h=  0.14%  24h= -2.56%
