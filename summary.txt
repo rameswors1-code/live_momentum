@@ -1,19 +1,19 @@
-Updated: 2026-11-08T01:30:52.158986+00:00
+Updated: 2026-11-08T02:01:02.112070+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Figure Heloc (FIGR_HELOC)
-  Score: 13.429
-  1h: 3.08% | 24h: 2.66%
+  Score: 13.614
+  1h: 3.08% | 24h: 2.85%
   Price: $1.0660
 
 Top 10 by Momentum Score:
- 1. FIGR_HELOC  score=  13.43  1h=  3.08%  24h=  2.66%
- 2. TRX     score=   1.52  1h=  0.09%  24h=  0.77%
- 3. XAUT    score=   1.23  1h= -0.01%  24h=  0.03%
- 4. AAVE    score=   1.11  1h= -0.41%  24h=  0.08%
- 5. UNI     score=   0.95  1h= -1.15%  24h=  2.76%
- 6. RLUSD   score=   0.77  1h=  0.00%  24h= -0.03%
- 7. BTW     score=   0.68  1h=  1.19%  24h= -3.60%
- 8. QNT     score=   0.40  1h= -0.14%  24h=  0.28%
- 9. BNB     score=   0.39  1h=  0.00%  24h=  0.13%
-10. USDS    score=   0.26  1h= -0.01%  24h= -0.02%
+ 1. FIGR_HELOC  score=  13.61  1h=  3.08%  24h=  2.85%
+ 2. TRX     score=   1.57  1h=  0.09%  24h=  0.81%
+ 3. XAUT    score=   1.21  1h= -0.01%  24h= -0.01%
+ 4. AAVE    score=   0.87  1h= -0.41%  24h= -0.18%
+ 5. RLUSD   score=   0.74  1h=  0.00%  24h= -0.02%
+ 6. UNI     score=   0.46  1h= -1.15%  24h=  2.25%
+ 7. USDS    score=   0.24  1h= -0.01%  24h= -0.02%
+ 8. BTW     score=   0.23  1h=  1.19%  24h= -4.04%
+ 9. QNT     score=   0.18  1h= -0.14%  24h=  0.07%
+10. BNB     score=   0.16  1h=  0.00%  24h= -0.09%
