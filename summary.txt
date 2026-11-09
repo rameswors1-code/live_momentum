@@ -1,19 +1,19 @@
-Updated: 2026-11-09T06:30:49.682663+00:00
+Updated: 2026-11-09T07:01:01.528041+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Pepe (PEPE)
-  Score: 11.676
-  1h: 0.10% | 24h: 3.30%
+  Score: 9.685
+  1h: -0.47% | 24h: 2.99%
   Price: $0.0000
 
 Top 10 by Momentum Score:
- 1. PEPE    score=  11.68  1h=  0.10%  24h=  3.30%
- 2. XAUT    score=   3.21  1h= -0.06%  24h=  1.07%
- 3. PAXG    score=   2.67  1h= -0.03%  24h=  1.13%
- 4. RLUSD   score=   1.67  1h= -0.00%  24h= -0.02%
- 5. AAVE    score=   0.84  1h= -0.58%  24h= -0.93%
- 6. XMR     score=   0.69  1h=  0.16%  24h= -0.24%
- 7. USDS    score=   0.47  1h= -0.01%  24h= -0.02%
- 8. USDY    score=   0.35  1h=  0.03%  24h=  0.22%
- 9. EURSAFO  score=   0.21  1h=  0.01%  24h=  0.16%
-10. USDF    score=   0.09  1h= -0.01%  24h=  0.10%
+ 1. PEPE    score=   9.69  1h= -0.47%  24h=  2.99%
+ 2. XAUT    score=   1.99  1h= -0.36%  24h=  0.88%
+ 3. RLUSD   score=   1.68  1h= -0.01%  24h= -0.02%
+ 4. PAXG    score=   1.43  1h= -0.34%  24h=  0.93%
+ 5. QNT     score=   1.25  1h= -0.30%  24h=  1.59%
+ 6. AAVE    score=   0.62  1h= -0.62%  24h= -1.07%
+ 7. USDS    score=   0.51  1h=  0.00%  24h= -0.02%
+ 8. EURSAFO  score=   0.37  1h=  0.06%  24h=  0.17%
+ 9. ENA     score=   0.34  1h= -0.57%  24h= -2.72%
+10. USDF    score=   0.10  1h=  0.00%  24h=  0.08%
