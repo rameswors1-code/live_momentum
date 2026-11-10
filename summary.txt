@@ -1,19 +1,19 @@
-Updated: 2026-11-10T22:30:54.735672+00:00
+Updated: 2026-11-10T23:01:07.446115+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Gram (prev. Toncoin) (GRAM)
-  Score: 22.896
-  1h: 2.84% | 24h: 11.37%
-  Price: $1.1400
+  Pepe (PEPE)
+  Score: 16.844
+  1h: 0.52% | 24h: 3.39%
+  Price: $0.0000
 
 Top 10 by Momentum Score:
- 1. GRAM    score=  22.90  1h=  2.84%  24h= 11.37%
- 2. PEPE    score=  15.79  1h=  0.20%  24h=  3.48%
- 3. ENA     score=   8.71  1h=  1.43%  24h= -2.01%
- 4. OKB     score=   8.26  1h=  1.72%  24h=  1.91%
- 5. NEAR    score=   6.86  1h=  1.17%  24h= -1.89%
- 6. RLUSD   score=   3.55  1h=  0.00%  24h=  0.01%
- 7. SUI     score=   3.10  1h=  0.62%  24h= -2.71%
- 8. LEO     score=   2.38  1h=  0.64%  24h=  0.15%
- 9. LTC     score=   2.28  1h=  0.49%  24h= -1.51%
-10. TAO     score=   1.91  1h=  0.77%  24h= -2.14%
+ 1. PEPE    score=  16.84  1h=  0.52%  24h=  3.39%
+ 2. GRAM    score=   4.49  1h= -1.93%  24h=  9.63%
+ 3. ENA     score=   3.48  1h=  0.03%  24h= -2.33%
+ 4. RLUSD   score=   3.47  1h= -0.00%  24h=  0.01%
+ 5. SHIB    score=   2.08  1h=  0.35%  24h=  0.08%
+ 6. AVAX    score=   1.81  1h=  0.37%  24h= -3.29%
+ 7. LEO     score=   1.60  1h=  0.47%  24h= -0.06%
+ 8. USDS    score=   0.90  1h= -0.01%  24h=  0.01%
+ 9. TRX     score=   0.32  1h= -0.05%  24h=  0.13%
+10. LTC     score=   0.28  1h= -0.03%  24h= -1.71%
