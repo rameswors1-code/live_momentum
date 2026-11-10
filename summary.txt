@@ -1,19 +1,19 @@
-Updated: 2026-11-10T01:01:03.971375+00:00
+Updated: 2026-11-10T01:30:54.802744+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Avalanche (AVAX)
-  Score: 14.517
-  1h: 0.25% | 24h: 8.15%
-  Price: $8.6600
+  Score: 15.996
+  1h: 0.25% | 24h: 9.61%
+  Price: $8.7300
 
 Top 10 by Momentum Score:
- 1. AVAX    score=  14.52  1h=  0.25%  24h=  8.15%
- 2. PEPE    score=   9.73  1h= -0.07%  24h=  0.79%
- 3. AAVE    score=   7.58  1h=  0.16%  24h=  2.43%
- 4. ONDO    score=   6.07  1h= -0.51%  24h=  4.25%
- 5. ENA     score=   5.85  1h=  0.03%  24h=  0.47%
- 6. UNI     score=   5.49  1h=  0.23%  24h=  0.84%
- 7. GRAM    score=   5.17  1h=  0.41%  24h=  2.97%
- 8. NEAR    score=   4.14  1h=  0.16%  24h= -0.02%
- 9. RLUSD   score=   3.67  1h=  0.01%  24h= -0.00%
-10. LTC     score=   3.41  1h=  0.08%  24h=  1.25%
+ 1. AVAX    score=  16.00  1h=  0.25%  24h=  9.61%
+ 2. PEPE    score=  11.14  1h= -0.07%  24h=  2.34%
+ 3. ONDO    score=   8.23  1h= -0.51%  24h=  6.43%
+ 4. AAVE    score=   8.12  1h=  0.16%  24h=  3.06%
+ 5. ENA     score=   6.93  1h=  0.03%  24h=  1.57%
+ 6. UNI     score=   6.46  1h=  0.23%  24h=  1.86%
+ 7. GRAM    score=   6.15  1h=  0.41%  24h=  3.95%
+ 8. NEAR    score=   5.27  1h=  0.16%  24h=  1.15%
+ 9. LTC     score=   4.34  1h=  0.08%  24h=  2.18%
+10. RLUSD   score=   3.62  1h=  0.01%  24h= -0.02%
