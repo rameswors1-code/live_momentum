@@ -1,19 +1,19 @@
-Updated: 2026-11-10T20:30:54.885789+00:00
+Updated: 2026-11-10T21:01:05.591676+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Pepe (PEPE)
-  Score: 7.946
-  1h: -1.41% | 24h: 1.70%
-  Price: $0.0000
+  Gram (prev. Toncoin) (GRAM)
+  Score: 16.847
+  1h: 1.93% | 24h: 8.59%
+  Price: $1.1200
 
 Top 10 by Momentum Score:
- 1. PEPE    score=   7.95  1h= -1.41%  24h=  1.70%
- 2. GRAM    score=   5.33  1h= -0.81%  24h=  6.75%
- 3. LEO     score=   5.25  1h=  1.33%  24h=  0.61%
- 4. RLUSD   score=   3.72  1h= -0.00%  24h=  0.01%
- 5. HYPE    score=   1.21  1h=  0.62%  24h= -3.78%
- 6. UNI     score=   1.19  1h=  0.40%  24h= -4.49%
- 7. NEAR    score=   1.14  1h= -0.57%  24h= -1.49%
- 8. USDS    score=   0.96  1h=  0.00%  24h= -0.01%
- 9. TRX     score=   0.78  1h= -0.01%  24h=  0.43%
-10. USDY    score=   0.77  1h=  0.19%  24h=  0.05%
+ 1. GRAM    score=  16.85  1h=  1.93%  24h=  8.59%
+ 2. PEPE    score=  12.89  1h= -0.17%  24h=  2.20%
+ 3. RLUSD   score=   3.75  1h=  0.01%  24h=  0.02%
+ 4. M       score=   3.45  1h=  1.26%  24h= -0.97%
+ 5. CRO     score=   2.55  1h=  0.85%  24h= -0.51%
+ 6. OKB     score=   2.24  1h=  0.60%  24h= -0.18%
+ 7. AVAX    score=   1.89  1h=  0.41%  24h= -3.44%
+ 8. WBT     score=   1.18  1h=  0.38%  24h= -1.47%
+ 9. USDS    score=   1.09  1h=  0.03%  24h=  0.02%
+10. NEAR    score=   1.04  1h= -0.59%  24h= -1.55%
