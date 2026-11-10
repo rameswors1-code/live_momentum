@@ -1,19 +1,19 @@
-Updated: 2026-11-10T09:30:53.618606+00:00
+Updated: 2026-11-10T10:00:57.261242+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Pepe (PEPE)
-  Score: 11.824
-  1h: 0.21% | 24h: 2.80%
-  Price: $0.0000
+  Ondo (ONDO)
+  Score: 10.216
+  1h: 0.14% | 24h: 6.22%
+  Price: $0.3728
 
 Top 10 by Momentum Score:
- 1. PEPE    score=  11.82  1h=  0.21%  24h=  2.80%
- 2. AVAX    score=  11.48  1h=  0.01%  24h=  5.46%
- 3. ONDO    score=  10.42  1h=  0.27%  24h=  5.94%
- 4. GRAM    score=  10.03  1h=  0.34%  24h=  7.79%
- 5. UNI     score=   8.39  1h=  0.37%  24h=  3.77%
- 6. CC      score=   6.23  1h=  0.64%  24h=  3.88%
- 7. ENA     score=   5.87  1h= -0.03%  24h=  1.53%
- 8. TAO     score=   4.16  1h=  0.20%  24h=  2.41%
- 9. NEAR    score=   3.94  1h= -0.53%  24h=  2.41%
-10. RLUSD   score=   3.87  1h=  0.00%  24h=  0.01%
+ 1. ONDO    score=  10.22  1h=  0.14%  24h=  6.22%
+ 2. AVAX    score=   8.71  1h= -0.65%  24h=  5.10%
+ 3. PEPE    score=   7.60  1h= -1.17%  24h=  3.46%
+ 4. GRAM    score=   5.89  1h= -0.53%  24h=  6.68%
+ 5. NEAR    score=   5.74  1h= -0.10%  24h=  2.80%
+ 6. ENA     score=   5.72  1h= -0.19%  24h=  1.97%
+ 7. HYPE    score=   4.33  1h= -0.01%  24h=  1.64%
+ 8. RLUSD   score=   3.87  1h= -0.01%  24h= -0.00%
+ 9. SUI     score=   3.60  1h= -0.48%  24h=  2.18%
+10. UNI     score=   2.92  1h= -1.10%  24h=  3.43%
