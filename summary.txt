@@ -1,19 +1,19 @@
-Updated: 2026-11-10T17:01:05.321126+00:00
+Updated: 2026-11-10T17:31:08.886557+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Gram (prev. Toncoin) (GRAM)
-  Score: 8.819
-  1h: 0.50% | 24h: 5.80%
-  Price: $1.1000
+  Bitway (BTW)
+  Score: 11.292
+  1h: -0.46% | 24h: 12.75%
+  Price: $1.2000
 
 Top 10 by Momentum Score:
- 1. GRAM    score=   8.82  1h=  0.50%  24h=  5.80%
- 2. RLUSD   score=   3.61  1h= -0.00%  24h= -0.01%
- 3. PEPE    score=   3.31  1h= -1.67%  24h= -1.42%
- 4. RAIN    score=   1.36  1h=  4.62%  24h=-14.95%
- 5. USDS    score=   0.74  1h= -0.02%  24h= -0.03%
- 6. USDF    score=   0.06  1h=  0.02%  24h= -0.01%
- 7. USYC    score=   0.02  1h=  0.00%  24h=  0.02%
- 8. USDY    score=  -0.41  1h= -0.22%  24h=  0.29%
- 9. TRX     score=  -0.78  1h= -0.37%  24h=  0.14%
-10. EURSAFO  score=  -1.08  1h= -0.17%  24h= -0.48%
+ 1. BTW     score=  11.29  1h= -0.46%  24h= 12.75%
+ 2. GRAM    score=  10.03  1h=  0.50%  24h=  6.99%
+ 3. PEPE    score=   5.17  1h= -1.67%  24h=  0.33%
+ 4. RLUSD   score=   3.60  1h= -0.00%  24h= -0.01%
+ 5. RAIN    score=   2.77  1h=  4.62%  24h=-13.54%
+ 6. USDS    score=   0.83  1h= -0.02%  24h= -0.02%
+ 7. USDF    score=   0.05  1h=  0.02%  24h= -0.02%
+ 8. USYC    score=   0.02  1h=  0.00%  24h=  0.02%
+ 9. USDY    score=  -0.68  1h= -0.22%  24h=  0.03%
+10. TRX     score=  -0.83  1h= -0.37%  24h=  0.09%
