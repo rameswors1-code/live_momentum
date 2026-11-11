@@ -1,19 +1,19 @@
-Updated: 2026-11-11T12:01:04.688274+00:00
+Updated: 2026-11-11T12:30:54.682973+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   NEAR Protocol (NEAR)
-  Score: 19.706
-  1h: 3.18% | 24h: 3.72%
+  Score: 19.87
+  1h: 3.18% | 24h: 3.07%
   Price: $3.7400
 
 Top 10 by Momentum Score:
- 1. NEAR    score=  19.71  1h=  3.18%  24h=  3.72%
- 2. ENA     score=   8.05  1h=  0.69%  24h= -0.32%
- 3. PEPE    score=   7.02  1h= -0.58%  24h= -5.95%
- 4. XMR     score=   6.54  1h=  0.31%  24h=  4.84%
- 5. CC      score=   6.28  1h=  1.56%  24h=  0.68%
- 6. SUI     score=   5.85  1h=  0.49%  24h=  0.21%
- 7. GRAM    score=   4.42  1h= -1.89%  24h=  9.44%
- 8. XLM     score=   4.07  1h=  0.46%  24h=  1.48%
- 9. RLUSD   score=   3.48  1h=  0.01%  24h= -0.00%
-10. CRO     score=   2.92  1h=  0.35%  24h=  1.61%
+ 1. NEAR    score=  19.87  1h=  3.18%  24h=  3.07%
+ 2. ENA     score=   7.04  1h=  0.69%  24h= -1.31%
+ 3. PEPE    score=   6.76  1h= -0.58%  24h= -6.46%
+ 4. GRAM    score=   6.29  1h= -1.89%  24h= 11.27%
+ 5. CC      score=   6.17  1h=  1.56%  24h=  0.56%
+ 6. XMR     score=   6.01  1h=  0.31%  24h=  4.30%
+ 7. SUI     score=   5.26  1h=  0.49%  24h= -0.42%
+ 8. RAIN    score=   5.24  1h=  0.05%  24h=  4.83%
+ 9. RLUSD   score=   3.48  1h=  0.01%  24h= -0.01%
+10. XLM     score=   3.26  1h=  0.46%  24h=  0.66%
