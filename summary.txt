@@ -1,19 +1,19 @@
-Updated: 2026-11-11T18:30:55.260083+00:00
+Updated: 2026-11-11T18:36:53.500283+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Gram (prev. Toncoin) (GRAM)
-  Score: 18.968
-  1h: 2.24% | 24h: 9.32%
-  Price: $1.2100
+  Score: 20.304
+  1h: 2.24% | 24h: 10.65%
+  Price: $1.2200
 
 Top 10 by Momentum Score:
- 1. GRAM    score=  18.97  1h=  2.24%  24h=  9.32%
- 2. AVAX    score=   7.57  1h=  0.24%  24h=  4.14%
- 3. SOL     score=   6.63  1h=  0.58%  24h=  2.98%
- 4. ETH     score=   6.62  1h=  0.68%  24h=  2.79%
- 5. XMR     score=   6.19  1h= -0.33%  24h=  6.77%
- 6. SUI     score=   6.05  1h= -0.09%  24h=  3.30%
- 7. NEAR    score=   5.62  1h= -0.93%  24h=  4.37%
- 8. ADA     score=   5.58  1h=  0.32%  24h=  3.31%
- 9. OKB     score=   5.45  1h=  0.35%  24h=  3.70%
-10. HYPE    score=   5.38  1h= -0.16%  24h=  3.34%
+ 1. GRAM    score=  20.30  1h=  2.24%  24h= 10.65%
+ 2. AVAX    score=   7.58  1h=  0.24%  24h=  4.16%
+ 3. SOL     score=   6.48  1h=  0.58%  24h=  2.83%
+ 4. ETH     score=   6.22  1h=  0.68%  24h=  2.40%
+ 5. SUI     score=   5.94  1h= -0.09%  24h=  3.21%
+ 6. XMR     score=   5.73  1h= -0.33%  24h=  6.31%
+ 7. UNI     score=   5.35  1h=  0.71%  24h= -1.77%
+ 8. ADA     score=   5.31  1h=  0.32%  24h=  3.20%
+ 9. NEAR    score=   5.26  1h= -0.93%  24h=  4.14%
+10. HYPE    score=   5.11  1h= -0.16%  24h=  3.29%
