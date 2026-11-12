@@ -1,19 +1,19 @@
-Updated: 2026-11-12T09:42:09.306151+00:00
+Updated: 2026-11-12T10:00:56.899826+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Gram (prev. Toncoin) (GRAM)
-  Score: 11.299
-  1h: 1.17% | 24h: 5.46%
-  Price: $1.2300
+  Score: 10.373
+  1h: 1.30% | 24h: 4.10%
+  Price: $1.2400
 
 Top 10 by Momentum Score:
- 1. GRAM    score=  11.30  1h=  1.17%  24h=  5.46%
- 2. ZEC     score=   4.84  1h=  0.27%  24h=  1.65%
- 3. CRO     score=   4.16  1h=  0.30%  24h=  2.98%
- 4. OKB     score=   3.96  1h=  0.09%  24h=  3.19%
- 5. AVAX    score=   2.62  1h= -0.22%  24h=  1.01%
- 6. RLUSD   score=   2.49  1h= -0.01%  24h= -0.06%
- 7. UNI     score=   2.19  1h= -0.08%  24h= -2.66%
- 8. SOL     score=   1.44  1h= -0.01%  24h= -0.14%
- 9. ADA     score=   1.40  1h=  0.21%  24h= -0.60%
-10. XLM     score=   1.25  1h=  0.01%  24h=  0.23%
+ 1. GRAM    score=  10.37  1h=  1.30%  24h=  4.10%
+ 2. AVAX    score=   5.28  1h=  0.63%  24h=  0.68%
+ 3. NEAR    score=   4.93  1h=  1.06%  24h= -3.12%
+ 4. OKB     score=   4.57  1h=  0.34%  24h=  2.90%
+ 5. UNI     score=   4.38  1h=  0.73%  24h= -3.28%
+ 6. SUI     score=   3.66  1h=  0.58%  24h= -1.44%
+ 7. ZEC     score=   3.12  1h=  0.01%  24h=  0.86%
+ 8. HBAR    score=   3.11  1h=  0.56%  24h=  0.60%
+ 9. XLM     score=   2.53  1h=  0.43%  24h=  0.06%
+10. RLUSD   score=   2.48  1h=  0.01%  24h= -0.03%
