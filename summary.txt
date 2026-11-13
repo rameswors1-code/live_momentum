@@ -1,19 +1,19 @@
-Updated: 2026-11-13T12:30:50.286318+00:00
+Updated: 2026-11-13T13:01:08.789730+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  NEAR Protocol (NEAR)
-  Score: 13.2
-  1h: 1.43% | 24h: 2.83%
-  Price: $3.5300
+  Pepe (PEPE)
+  Score: 17.008
+  1h: 0.82% | 24h: 3.08%
+  Price: $0.0000
 
 Top 10 by Momentum Score:
- 1. NEAR    score=  13.20  1h=  1.43%  24h=  2.83%
- 2. PEPE    score=  12.95  1h= -0.42%  24h=  3.33%
- 3. HYPE    score=  11.71  1h=  1.14%  24h=  5.21%
- 4. AAVE    score=   6.19  1h=  0.58%  24h= -0.66%
- 5. ENA     score=   5.88  1h= -0.32%  24h= -1.07%
- 6. XLM     score=   5.82  1h=  0.50%  24h=  2.66%
- 7. ZEC     score=   5.37  1h=  0.93%  24h= -0.39%
- 8. SUI     score=   5.21  1h= -0.03%  24h=  0.54%
- 9. CRO     score=   4.36  1h=  1.16%  24h=  0.20%
-10. LTC     score=   3.71  1h=  0.05%  24h=  0.97%
+ 1. PEPE    score=  17.01  1h=  0.82%  24h=  3.08%
+ 2. HYPE    score=   9.40  1h=  0.48%  24h=  5.15%
+ 3. M       score=   9.25  1h=  1.36%  24h=  4.47%
+ 4. ENA     score=   8.42  1h=  0.30%  24h= -0.69%
+ 5. QNT     score=   8.12  1h=  2.14%  24h= -0.42%
+ 6. NEAR    score=   7.12  1h= -0.54%  24h=  3.67%
+ 7. SUI     score=   6.69  1h=  0.37%  24h=  0.58%
+ 8. ZEC     score=   4.93  1h=  0.87%  24h= -0.63%
+ 9. TAO     score=   4.93  1h=  0.41%  24h=  1.32%
+10. AVAX    score=   4.79  1h=  0.55%  24h=  0.29%
