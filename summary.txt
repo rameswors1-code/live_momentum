@@ -1,19 +1,19 @@
-Updated: 2026-11-13T14:30:51.550551+00:00
+Updated: 2026-11-13T15:01:00.668835+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  NEAR Protocol (NEAR)
-  Score: 16.111
-  1h: 1.37% | 24h: 6.12%
-  Price: $3.5700
+  Bittensor (TAO)
+  Score: 9.067
+  1h: 0.78% | 24h: 4.30%
+  Price: $216.4800
 
 Top 10 by Momentum Score:
- 1. NEAR    score=  16.11  1h=  1.37%  24h=  6.12%
- 2. PEPE    score=  15.15  1h=  0.49%  24h=  3.05%
- 3. AAVE    score=  15.02  1h=  2.47%  24h=  1.71%
- 4. SUI     score=  14.83  1h=  1.75%  24h=  4.14%
- 5. ENA     score=  14.03  1h=  1.76%  24h=  0.21%
- 6. UNI     score=  12.69  1h=  2.51%  24h= -1.88%
- 7. AVAX    score=  10.59  1h=  1.53%  24h=  2.73%
- 8. XLM     score=  10.45  1h=  1.18%  24h=  4.86%
- 9. M       score=   9.86  1h=  1.53%  24h=  4.45%
-10. TAO     score=   9.77  1h=  0.86%  24h=  4.73%
+ 1. TAO     score=   9.07  1h=  0.78%  24h=  4.30%
+ 2. SUI     score=   8.72  1h=  0.10%  24h=  3.82%
+ 3. PEPE    score=   8.07  1h= -1.13%  24h=  1.93%
+ 4. NEAR    score=   6.89  1h= -0.78%  24h=  4.47%
+ 5. XLM     score=   6.76  1h=  0.24%  24h=  4.45%
+ 6. HYPE    score=   5.30  1h= -0.45%  24h=  4.33%
+ 7. XAUT    score=   5.06  1h=  0.32%  24h=  0.43%
+ 8. PAXG    score=   4.32  1h=  0.29%  24h=  0.34%
+ 9. ENA     score=   3.75  1h= -1.03%  24h= -0.27%
+10. ADA     score=   3.08  1h= -0.27%  24h=  2.31%
