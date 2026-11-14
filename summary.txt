@@ -1,19 +1,19 @@
-Updated: 2026-11-14T04:30:54.401205+00:00
+Updated: 2026-11-14T05:00:52.406118+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Figure Heloc (FIGR_HELOC)
-  Score: 4.897
-  1h: -0.00% | 24h: 4.54%
-  Price: $1.0460
+  Hyperliquid (HYPE)
+  Score: 8.457
+  1h: 2.16% | 24h: -1.83%
+  Price: $68.9300
 
 Top 10 by Momentum Score:
- 1. FIGR_HELOC  score=   4.90  1h= -0.00%  24h=  4.54%
- 2. M       score=   4.79  1h=  0.33%  24h=  3.60%
- 3. RLUSD   score=   4.40  1h= -0.00%  24h=  0.01%
- 4. USDS    score=   1.38  1h= -0.02%  24h= -0.01%
- 5. PAXG    score=   0.96  1h= -0.12%  24h= -1.00%
- 6. SUI     score=   0.84  1h= -1.14%  24h=  0.55%
- 7. XAUT    score=   0.76  1h= -0.11%  24h= -1.00%
- 8. LEO     score=   0.48  1h= -0.03%  24h=  0.57%
- 9. AVAX    score=   0.21  1h= -0.90%  24h=  0.56%
-10. TRX     score=   0.16  1h= -0.10%  24h=  0.14%
+ 1. HYPE    score=   8.46  1h=  2.16%  24h= -1.83%
+ 2. M       score=   8.40  1h=  1.06%  24h=  4.67%
+ 3. ENA     score=   8.13  1h=  0.59%  24h= -2.13%
+ 4. AAVE    score=   7.88  1h=  0.93%  24h=  0.01%
+ 5. NEAR    score=   6.95  1h= -0.15%  24h=  2.18%
+ 6. SUI     score=   6.70  1h=  0.38%  24h=  1.15%
+ 7. UNI     score=   6.55  1h=  0.85%  24h= -1.25%
+ 8. LTC     score=   6.49  1h=  0.65%  24h=  1.98%
+ 9. TAO     score=   5.89  1h= -0.02%  24h=  3.74%
+10. AVAX    score=   5.62  1h=  0.60%  24h=  0.75%
