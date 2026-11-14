@@ -1,19 +1,19 @@
-Updated: 2026-11-14T10:30:53.480231+00:00
+Updated: 2026-11-14T11:01:01.824597+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  MemeCore (M)
-  Score: 9.745
-  1h: 1.70% | 24h: 3.75%
-  Price: $0.8424
+  Ripple USD (RLUSD)
+  Score: 4.523
+  1h: -0.01% | 24h: 0.00%
+  Price: $0.9999
 
 Top 10 by Momentum Score:
- 1. M       score=   9.74  1h=  1.70%  24h=  3.75%
- 2. XLM     score=   5.81  1h=  1.71%  24h= -1.89%
- 3. NEAR    score=   4.62  1h=  1.26%  24h= -4.50%
- 4. RLUSD   score=   4.50  1h= -0.00%  24h= -0.00%
- 5. QNT     score=   4.36  1h=  1.40%  24h= -1.52%
- 6. SUI     score=   3.83  1h=  1.09%  24h= -3.86%
- 7. LTC     score=   3.81  1h=  0.91%  24h= -1.46%
- 8. TAO     score=   3.58  1h=  0.84%  24h= -1.57%
- 9. AAVE    score=   3.53  1h=  0.62%  24h= -3.13%
-10. ZEC     score=   3.50  1h=  1.75%  24h= -4.49%
+ 1. RLUSD   score=   4.52  1h= -0.01%  24h=  0.00%
+ 2. M       score=   3.71  1h= -0.06%  24h=  3.90%
+ 3. LEO     score=   2.06  1h=  0.36%  24h=  0.78%
+ 4. PEPE    score=   2.00  1h= -0.02%  24h= -5.09%
+ 5. PAXG    score=   1.60  1h=  0.02%  24h= -0.38%
+ 6. USDS    score=   1.45  1h=  0.01%  24h=  0.02%
+ 7. XAUT    score=   1.31  1h=  0.01%  24h= -0.42%
+ 8. TRX     score=   1.00  1h=  0.08%  24h=  0.39%
+ 9. XMR     score=   0.89  1h=  0.40%  24h= -0.94%
+10. FIGR_HELOC  score=   0.35  1h= -0.00%  24h=  0.00%
