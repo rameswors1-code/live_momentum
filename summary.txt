@@ -1,19 +1,19 @@
-Updated: 2026-11-16T00:30:54.611149+00:00
+Updated: 2026-11-16T01:00:55.555007+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  Canton (CC)
-  Score: 19.216
-  1h: 2.13% | 24h: 11.57%
-  Price: $0.0853
+  Aave (AAVE)
+  Score: 11.979
+  1h: -0.93% | 24h: 9.62%
+  Price: $108.6300
 
 Top 10 by Momentum Score:
- 1. CC      score=  19.22  1h=  2.13%  24h= 11.57%
- 2. AAVE    score=  17.03  1h=  0.58%  24h=  9.46%
- 3. QNT     score=  14.29  1h=  0.81%  24h= 10.17%
- 4. UNI     score=  13.99  1h=  0.46%  24h=  7.13%
- 5. SUI     score=  12.28  1h=  0.78%  24h=  4.60%
- 6. ZEC     score=  11.31  1h=  0.98%  24h=  5.74%
- 7. DOGE    score=  10.12  1h=  1.01%  24h=  3.58%
- 8. XMR     score=   9.67  1h=  0.74%  24h=  6.63%
- 9. NEAR    score=   9.60  1h=  0.15%  24h=  4.85%
-10. ADA     score=   9.20  1h=  0.74%  24h=  4.42%
+ 1. AAVE    score=  11.98  1h= -0.93%  24h=  9.62%
+ 2. QNT     score=   8.84  1h= -0.76%  24h= 10.24%
+ 3. UNI     score=   8.54  1h= -1.09%  24h=  7.13%
+ 4. CC      score=   8.15  1h= -0.80%  24h= 10.74%
+ 5. U       score=   5.68  1h=  0.01%  24h=  0.01%
+ 6. SUI     score=   5.35  1h= -1.26%  24h=  4.88%
+ 7. XMR     score=   4.57  1h= -0.35%  24h=  5.34%
+ 8. RLUSD   score=   4.30  1h=  0.00%  24h= -0.00%
+ 9. NEAR    score=   3.80  1h= -1.48%  24h=  4.82%
+10. PAXG    score=   3.76  1h= -0.15%  24h=  1.90%
