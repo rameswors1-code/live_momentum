@@ -1,19 +1,19 @@
-Updated: 2026-11-17T04:01:04.078532+00:00
+Updated: 2026-11-17T04:30:53.932667+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Rain (RAIN)
-  Score: 127.659
-  1h: 9.07% | 24h: 95.89%
-  Price: $0.0068
+  Score: 116.029
+  1h: 9.07% | 24h: 84.15%
+  Price: $0.0063
 
 Top 10 by Momentum Score:
- 1. RAIN    score= 127.66  1h=  9.07%  24h= 95.89%
- 2. HYPE    score=  17.49  1h=  2.36%  24h=  5.68%
- 3. NEAR    score=  17.29  1h=  3.13%  24h=  2.35%
- 4. AAVE    score=  14.14  1h=  1.95%  24h=  2.64%
- 5. PEPE    score=  13.70  1h=  1.12%  24h=  3.11%
- 6. UNI     score=  11.82  1h=  1.96%  24h=  1.10%
- 7. ZEC     score=  11.18  1h=  1.96%  24h=  2.64%
- 8. SOL     score=   8.65  1h=  1.49%  24h=  0.80%
- 9. CRO     score=   8.51  1h=  1.62%  24h=  2.73%
-10. SUI     score=   8.03  1h=  1.51%  24h= -0.28%
+ 1. RAIN    score= 116.03  1h=  9.07%  24h= 84.15%
+ 2. HYPE    score=  17.21  1h=  2.36%  24h=  5.41%
+ 3. NEAR    score=  16.76  1h=  3.13%  24h=  1.77%
+ 4. PEPE    score=  14.10  1h=  1.12%  24h=  3.56%
+ 5. AAVE    score=  13.75  1h=  1.95%  24h=  2.25%
+ 6. UNI     score=  11.76  1h=  1.96%  24h=  0.96%
+ 7. ZEC     score=  11.68  1h=  1.96%  24h=  3.01%
+ 8. CRO     score=   9.07  1h=  1.62%  24h=  3.28%
+ 9. SOL     score=   8.96  1h=  1.49%  24h=  1.12%
+10. TAO     score=   8.11  1h=  1.61%  24h=  1.00%
