@@ -1,19 +1,19 @@
-Updated: 2026-11-20T03:01:03.046279+00:00
+Updated: 2026-11-20T03:30:48.403077+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   United Stables (U)
-  Score: 61.742
-  1h: -0.02% | 24h: 0.03%
-  Price: $0.9994
+  Score: 62.256
+  1h: 0.01% | 24h: 0.05%
+  Price: $0.9995
 
 Top 10 by Momentum Score:
- 1. U       score=  61.74  1h= -0.02%  24h=  0.03%
- 2. RLUSD   score=   6.05  1h= -0.00%  24h= -0.01%
- 3. USDS    score=   2.49  1h=  0.01%  24h= -0.01%
- 4. LEO     score=   0.44  1h=  0.30%  24h= -0.61%
- 5. USYC    score=   0.01  1h=  0.00%  24h=  0.01%
- 6. GRAM    score=   0.00  1h= -0.05%  24h= -0.23%
- 7. BUIDL   score=   0.00  1h=  0.00%  24h=  0.00%
- 8. USDF    score=  -0.02  1h= -0.01%  24h=  0.00%
- 9. USDY    score=  -0.15  1h= -0.08%  24h=  0.10%
-10. EURSAFO  score=  -0.21  1h= -0.07%  24h=  0.04%
+ 1. U       score=  62.26  1h=  0.01%  24h=  0.05%
+ 2. RLUSD   score=   6.18  1h=  0.00%  24h= -0.01%
+ 3. GRAM    score=   4.87  1h=  1.20%  24h=  0.24%
+ 4. SOL     score=   4.66  1h=  0.93%  24h= -0.87%
+ 5. BCH     score=   4.42  1h=  0.89%  24h=  0.41%
+ 6. HYPE    score=   4.17  1h=  0.67%  24h= -0.70%
+ 7. BTC     score=   2.85  1h=  0.85%  24h= -1.25%
+ 8. SUI     score=   2.77  1h=  0.38%  24h= -2.43%
+ 9. WBT     score=   2.75  1h=  0.89%  24h= -1.34%
+10. ETH     score=   2.54  1h=  0.62%  24h= -1.81%
