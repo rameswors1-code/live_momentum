@@ -1,19 +1,19 @@
-Updated: 2026-11-23T02:01:12.397361+00:00
+Updated: 2026-11-23T02:30:56.568924+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   PAX Gold (PAXG)
-  Score: 6.651
-  1h: 0.78% | 24h: 1.15%
-  Price: $3,591.2700
+  Score: 6.327
+  1h: 0.78% | 24h: 0.70%
+  Price: $3,571.0800
 
 Top 10 by Momentum Score:
- 1. PAXG    score=   6.65  1h=  0.78%  24h=  1.15%
- 2. U       score=   6.11  1h= -0.02%  24h=  0.00%
- 3. XAUT    score=   5.92  1h=  0.82%  24h=  1.23%
- 4. LEO     score=   5.58  1h=  1.30%  24h=  1.03%
- 5. NEAR    score=   4.22  1h= -0.56%  24h=  2.23%
- 6. RLUSD   score=   2.88  1h= -0.00%  24h= -0.01%
- 7. LINK    score=   1.83  1h= -0.45%  24h=  2.44%
- 8. GRAM    score=   1.74  1h= -0.35%  24h=  2.57%
- 9. UNI     score=   1.51  1h= -0.02%  24h= -1.02%
-10. ETH     score=   1.40  1h= -0.47%  24h=  1.49%
+ 1. PAXG    score=   6.33  1h=  0.78%  24h=  0.70%
+ 2. U       score=   6.01  1h= -0.02%  24h= -0.01%
+ 3. XAUT    score=   5.55  1h=  0.82%  24h=  0.78%
+ 4. NEAR    score=   4.35  1h= -0.56%  24h=  2.39%
+ 5. LEO     score=   3.97  1h=  1.30%  24h= -0.58%
+ 6. RLUSD   score=   2.88  1h= -0.00%  24h= -0.02%
+ 7. GRAM    score=   1.67  1h= -0.35%  24h=  2.51%
+ 8. ETH     score=   1.50  1h= -0.47%  24h=  1.59%
+ 9. LINK    score=   1.42  1h= -0.45%  24h=  2.05%
+10. UNI     score=   1.32  1h= -0.02%  24h= -1.23%
