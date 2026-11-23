@@ -1,19 +1,19 @@
-Updated: 2026-11-23T10:31:04.142375+00:00
+Updated: 2026-11-23T11:01:06.656133+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   Quant (QNT)
-  Score: 15.305
-  1h: 2.25% | 24h: 6.53%
-  Price: $150.7900
+  Score: 11.845
+  1h: 0.85% | 24h: 7.96%
+  Price: $153.1100
 
 Top 10 by Momentum Score:
- 1. QNT     score=  15.30  1h=  2.25%  24h=  6.53%
- 2. XMR     score=   6.21  1h=  0.67%  24h=  3.43%
- 3. U       score=   5.98  1h=  0.00%  24h=  0.03%
- 4. HYPE    score=   5.36  1h=  0.36%  24h=  2.13%
- 5. PAXG    score=   4.96  1h=  0.09%  24h=  1.62%
- 6. SUI     score=   4.41  1h=  0.08%  24h=  1.23%
- 7. LTC     score=   4.40  1h=  0.04%  24h=  2.27%
- 8. XAUT    score=   4.14  1h=  0.03%  24h=  1.71%
- 9. AAVE    score=   4.12  1h= -0.18%  24h=  0.39%
-10. SOL     score=   3.72  1h= -0.12%  24h=  2.41%
+ 1. QNT     score=  11.85  1h=  0.85%  24h=  7.96%
+ 2. NEAR    score=   6.50  1h=  0.72%  24h= -0.02%
+ 3. U       score=   5.92  1h= -0.01%  24h=  0.02%
+ 4. AAVE    score=   5.70  1h=  0.34%  24h=  0.11%
+ 5. PAXG    score=   5.64  1h=  0.25%  24h=  1.73%
+ 6. HYPE    score=   5.55  1h=  0.25%  24h=  2.67%
+ 7. XAUT    score=   5.05  1h=  0.25%  24h=  1.83%
+ 8. CC      score=   4.86  1h=  0.29%  24h=  3.75%
+ 9. SUI     score=   4.64  1h=  0.10%  24h=  1.42%
+10. UNI     score=   4.62  1h=  0.31%  24h=  1.01%
