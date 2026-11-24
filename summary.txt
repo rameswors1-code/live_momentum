@@ -1,19 +1,19 @@
-Updated: 2026-11-24T21:01:11.301104+00:00
+Updated: 2026-11-24T21:31:00.808739+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
   United Stables (U)
-  Score: 8.202
-  1h: -0.00% | 24h: 0.02%
-  Price: $0.9999
+  Score: 8.233
+  1h: -0.00% | 24h: 0.01%
+  Price: $0.9998
 
 Top 10 by Momentum Score:
- 1. U       score=   8.20  1h= -0.00%  24h=  0.02%
- 2. RLUSD   score=   4.29  1h=  0.00%  24h= -0.01%
- 3. NEAR    score=   3.32  1h=  0.71%  24h= -4.19%
- 4. LTC     score=   3.17  1h=  0.49%  24h= -1.13%
- 5. CC      score=   2.33  1h=  1.43%  24h= -2.81%
- 6. UNI     score=   1.85  1h=  0.34%  24h= -2.97%
- 7. BCH     score=   1.17  1h=  0.67%  24h= -2.18%
- 8. USDS    score=   1.04  1h= -0.01%  24h= -0.03%
+ 1. U       score=   8.23  1h= -0.00%  24h=  0.01%
+ 2. RLUSD   score=   4.07  1h=  0.00%  24h= -0.01%
+ 3. NEAR    score=   2.92  1h=  0.71%  24h= -4.56%
+ 4. LTC     score=   2.83  1h=  0.49%  24h= -1.44%
+ 5. CC      score=   2.64  1h=  1.43%  24h= -2.50%
+ 6. UNI     score=   1.91  1h=  0.34%  24h= -2.86%
+ 7. XMR     score=   1.08  1h= -0.11%  24h=  0.88%
+ 8. USDS    score=   1.04  1h= -0.01%  24h= -0.01%
  9. FIGR_HELOC  score=   0.93  1h=  0.01%  24h=  0.83%
-10. SUI     score=   0.79  1h=  0.33%  24h= -4.29%
+10. BCH     score=   0.76  1h=  0.67%  24h= -2.55%
