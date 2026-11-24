@@ -1,19 +1,19 @@
-Updated: 2026-11-24T07:01:02.920923+00:00
+Updated: 2026-11-24T07:30:52.143117+00:00
 
 HIGHEST MOMENTUM COIN (Top 50):
-  United Stables (U)
-  Score: 9.606
-  1h: -0.01% | 24h: -0.01%
-  Price: $1.0000
+  Pepe (PEPE)
+  Score: 9.963
+  1h: -1.59% | 24h: 4.03%
+  Price: $0.0000
 
 Top 10 by Momentum Score:
- 1. U       score=   9.61  1h= -0.01%  24h= -0.01%
- 2. HYPE    score=   5.49  1h= -0.05%  24h=  2.39%
- 3. SUI     score=   5.21  1h= -0.73%  24h=  1.39%
- 4. RLUSD   score=   5.05  1h=  0.02%  24h=  0.00%
- 5. LTC     score=   4.96  1h= -0.36%  24h=  3.03%
- 6. NEAR    score=   4.83  1h= -0.67%  24h=  0.90%
- 7. QNT     score=   4.64  1h= -0.57%  24h=  4.76%
- 8. SOL     score=   3.85  1h=  0.16%  24h= -0.22%
- 9. UNI     score=   3.66  1h= -1.01%  24h=  2.06%
-10. ADA     score=   3.36  1h= -0.33%  24h=  1.92%
+ 1. PEPE    score=   9.96  1h= -1.59%  24h=  4.03%
+ 2. U       score=   9.63  1h= -0.01%  24h=  0.00%
+ 3. RLUSD   score=   4.99  1h=  0.02%  24h= -0.00%
+ 4. HYPE    score=   4.89  1h= -0.05%  24h=  1.83%
+ 5. LTC     score=   4.73  1h= -0.36%  24h=  2.82%
+ 6. NEAR    score=   4.59  1h= -0.67%  24h=  0.67%
+ 7. SUI     score=   4.42  1h= -0.73%  24h=  0.71%
+ 8. QNT     score=   4.28  1h= -0.57%  24h=  4.43%
+ 9. SOL     score=   3.46  1h=  0.16%  24h= -0.61%
+10. TRX     score=   3.23  1h=  0.33%  24h=  1.49%
